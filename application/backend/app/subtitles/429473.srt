@@ -1,0 +1,5883 @@
+1
+00:00:06,000 --> 00:00:07,375
+[birdsong]
+
+2
+00:00:07,458 --> 00:00:09,458
+[insects chirping]
+
+3
+00:00:29,333 --> 00:00:30,750
+[dog panting]
+
+4
+00:00:38,916 --> 00:00:40,500
+[thunder rumbling]
+
+5
+00:00:40,583 --> 00:00:42,291
+[rain pattering]
+
+6
+00:00:58,291 --> 00:01:00,333
+[thunder rumbling]
+
+7
+00:01:18,166 --> 00:01:20,208
+[knife cutting]
+
+8
+00:01:27,583 --> 00:01:28,791
+[whines]
+
+9
+00:02:12,791 --> 00:02:13,791
+[sighs]
+
+10
+00:02:13,875 --> 00:02:15,166
+[thunder crashing]
+
+11
+00:02:19,125 --> 00:02:20,416
+[whimpers]
+
+12
+00:02:30,666 --> 00:02:32,625
+[sighs deeply]
+
+13
+00:02:44,958 --> 00:02:46,750
+[thunder crashes]
+
+14
+00:02:53,166 --> 00:02:54,416
+[gunshot echoing]
+
+15
+00:02:56,708 --> 00:02:58,708
+[woodpecker drilling]
+
+16
+00:03:01,916 --> 00:03:03,583
+[snuffling]
+
+17
+00:03:05,916 --> 00:03:07,916
+[fly buzzing]
+
+18
+00:03:08,791 --> 00:03:10,416
+[labored breathing]
+
+19
+00:03:13,291 --> 00:03:14,333
+Hmm.
+
+20
+00:03:14,833 --> 00:03:16,208
+You think I missed?
+
+21
+00:03:17,666 --> 00:03:18,541
+Well…
+
+22
+00:03:20,583 --> 00:03:21,958
+[sighs]
+
+23
+00:03:22,041 --> 00:03:23,666
+Off by four inches.
+
+24
+00:03:24,666 --> 00:03:26,083
+[sighs]
+
+25
+00:03:27,625 --> 00:03:28,833
+[groans]
+
+26
+00:03:32,916 --> 00:03:34,916
+["Wanted Dead or Alive" by Bon Jovi]
+
+27
+00:03:47,208 --> 00:03:48,208
+[whistles]
+
+28
+00:03:56,041 --> 00:03:58,041
+<i>♪ It's all the same ♪</i>
+
+29
+00:03:59,208 --> 00:04:02,458
+<i>♪ Only the names will change ♪</i>
+
+30
+00:04:02,541 --> 00:04:03,958
+<i>♪ Every day ♪</i>
+
+31
+00:04:04,458 --> 00:04:07,916
+<i>♪ It seems we're wastin' away ♪</i>
+
+32
+00:04:08,750 --> 00:04:10,583
+<i>♪ Another place ♪</i>
+
+33
+00:04:11,833 --> 00:04:15,166
+<i>♪ Where the faces are so cold ♪</i>
+
+34
+00:04:15,250 --> 00:04:18,291
+<i>♪ I'd drive all night ♪</i>
+
+35
+00:04:18,375 --> 00:04:20,875
+[on radio] <i>♪ Just to get back home ♪</i>
+
+36
+00:04:21,375 --> 00:04:23,166
+- ♪ <i>I'm a cowboy… ♪</i>
+- [man 1] …for the generator.
+
+37
+00:04:23,250 --> 00:04:25,291
+- [man 2] That's what I said.
+- [man 3] Plenty of space…
+
+38
+00:04:25,375 --> 00:04:27,791
+<i>♪ On a steel horse I ride ♪</i>
+
+39
+00:04:27,875 --> 00:04:29,333
+<i>- ♪ I'm wanted… ♪</i>
+- [man] Hey, Ross.
+
+40
+00:04:29,416 --> 00:04:31,250
+You got any more of these black tarps?
+
+41
+00:04:31,958 --> 00:04:34,375
+Hey, what do you think you're doin'?
+I wanted those.
+
+42
+00:04:34,458 --> 00:04:35,375
+Gotcha, Lou.
+
+43
+00:04:36,125 --> 00:04:38,416
+- [phone ringing]
+- [murmur of voices]
+
+44
+00:04:38,916 --> 00:04:40,250
+[typing]
+
+45
+00:04:40,333 --> 00:04:42,291
+[Reagan] <i>…and alleged ransom payments.</i>
+
+46
+00:04:42,791 --> 00:04:49,250
+<i>We did not, repeat, did not trade weapons
+or anything else for hostages,</i>
+
+47
+00:04:49,333 --> 00:04:50,250
+<i>nor will we.</i>
+
+48
+00:04:50,333 --> 00:04:54,166
+<i>President Reagan addressing
+the heightened tensions with Iran</i>
+
+49
+00:04:54,250 --> 00:04:55,541
+<i>in the wake of rumors</i>
+
+50
+00:04:55,625 --> 00:04:57,541
+<i>- about the CIA's involvement…</i>
+- [echoing] Lou.
+
+51
+00:04:57,625 --> 00:05:00,125
+<i>…In the country's 1953 coup.</i>
+
+52
+00:05:00,208 --> 00:05:01,583
+- Hey, Lou.
+- [phone ringing]
+
+53
+00:05:01,666 --> 00:05:04,625
+<i>In other news, pages from
+the Rogers Commission's report</i>
+
+54
+00:05:04,708 --> 00:05:08,583
+<i>on the Space Shuttle Challenger disaster,
+with NASA under fire…</i>
+
+55
+00:05:09,083 --> 00:05:10,666
+You, uh, ready for the big storm?
+
+56
+00:05:12,041 --> 00:05:13,208
+Makin' a withdrawal.
+
+57
+00:05:13,291 --> 00:05:15,291
+And, uh, how much
+will you be taking out today?
+
+58
+00:05:15,416 --> 00:05:16,541
+Ah, whatever's in there.
+
+59
+00:05:16,625 --> 00:05:19,208
+- [Reagan] <i>…special position in Iran…</i>
+- Oh. Okay.
+
+60
+00:05:19,791 --> 00:05:22,083
+[Reagan] <i>…for the simplest</i>
+<i>and best of reasons.</i>
+
+61
+00:05:22,166 --> 00:05:26,416
+<i>Without Iran's cooperation, we cannot
+bring an end to the Persian Gulf War.</i>
+
+62
+00:05:26,500 --> 00:05:28,916
+- Oh! That is, uh…
+<i>- Without Iran's…</i>
+
+63
+00:05:29,416 --> 00:05:31,500
+- There's a lot of money.
+<i>- …Relationship with…</i>
+
+64
+00:05:31,583 --> 00:05:34,541
+I know. I'm the one who put it in there.
+
+65
+00:05:42,083 --> 00:05:43,583
+[gulls calling]
+
+66
+00:05:44,166 --> 00:05:45,000
+[unavailable tone]
+
+67
+00:05:45,083 --> 00:05:49,500
+<i>If you'd like to place a call,
+please deposit 25 cents before dialing.</i>
+
+68
+00:05:49,583 --> 00:05:53,166
+<i>If you need help,
+please hang up and try your call again.</i>
+
+69
+00:05:54,000 --> 00:05:55,041
+[whimpers]
+
+70
+00:05:59,375 --> 00:06:00,458
+Rankin.
+
+71
+00:06:00,541 --> 00:06:01,583
+Afternoon, Lou.
+
+72
+00:06:02,791 --> 00:06:04,250
+Jax is in a good mood.
+
+73
+00:06:04,875 --> 00:06:08,333
+Can't help but wonder if the spark
+of the hunt hasn't got him all worked up.
+
+74
+00:06:08,416 --> 00:06:10,500
+Unlikely. It isn't hunting season.
+
+75
+00:06:12,958 --> 00:06:13,833
+[Rankin] Oh.
+
+76
+00:06:15,208 --> 00:06:17,250
+Deer must have just bolted out of nowhere.
+
+77
+00:06:17,333 --> 00:06:18,458
+Happened so fast.
+
+78
+00:06:18,541 --> 00:06:20,958
+Well, I'm glad you and Jax
+came out of it okay.
+
+79
+00:06:30,125 --> 00:06:32,708
+You know, you ought to get yourself
+one of these copper bracelets.
+
+80
+00:06:33,416 --> 00:06:36,041
+- Pretty.
+- My niece got it for me on the mainland.
+
+81
+00:06:36,125 --> 00:06:40,041
+One of those stores, you know, with the
+dream catchers and crystals and whatnot.
+
+82
+00:06:40,125 --> 00:06:42,375
+- [starts engine]
+- I laughed at her.
+
+83
+00:06:42,458 --> 00:06:45,791
+But I swear to God,
+I barely feel the arthritis anymore.
+
+84
+00:06:45,875 --> 00:06:47,291
+I'm fishin' again.
+
+85
+00:06:47,375 --> 00:06:49,750
+Careful you don't get struck by lightning
+wearin' that thing.
+
+86
+00:06:59,708 --> 00:07:01,791
+- [man 1] Potatoes?
+- [man 2] Uh, yeah.
+
+87
+00:07:01,875 --> 00:07:05,416
+[man on radio] <i>Don't forget on the 15th,</i>
+<i>the county fair will be coming…</i>
+
+88
+00:07:05,500 --> 00:07:07,208
+- [woman] <i>Oh, that's right.</i>
+- Mornin', Lou!
+
+89
+00:07:07,291 --> 00:07:09,708
+- [man] <i>Got your ticket?</i>
+- [woman] <i>Of course! I got my ticket.</i>
+
+90
+00:07:09,791 --> 00:07:10,875
+[man] <i>Well, I'm gonna be...</i>
+
+91
+00:07:10,958 --> 00:07:12,875
+- [bleating]
+- [bells clanking]
+
+92
+00:07:14,166 --> 00:07:16,250
+- [man] <i>Bridget Hoffman...</i>
+- [woman] <i>I love...</i>
+
+93
+00:07:16,333 --> 00:07:17,875
+[buzzer sounds]
+
+94
+00:07:17,958 --> 00:07:20,125
+[man] <i>This is a severe weather watch.</i>
+
+95
+00:07:20,208 --> 00:07:23,166
+<i>The biggest storm
+the Pacific Northwest has seen in years</i>
+
+96
+00:07:23,250 --> 00:07:25,666
+<i>is expected to make landfall
+early this evening.</i>
+
+97
+00:07:25,750 --> 00:07:28,250
+<i>Residents are encouraged
+to stay in their homes</i>
+
+98
+00:07:28,333 --> 00:07:31,875
+<i>and be prepared for downed power lines
+and flooding in low-lying areas.</i>
+
+99
+00:07:31,958 --> 00:07:36,583
+<i>Ferry service to the San Juan Islands has
+also been suspended until further notice</i>
+
+100
+00:07:36,666 --> 00:07:39,541
+<i>as the area is directly
+in the storm's path.</i>
+
+101
+00:07:39,625 --> 00:07:41,416
+[radio signal breaking up]
+
+102
+00:07:44,416 --> 00:07:46,416
+[static]
+
+103
+00:07:48,000 --> 00:07:50,125
+[woman] Where could she be? I don't know.
+
+104
+00:07:50,208 --> 00:07:52,708
+She's not under this tree.
+
+105
+00:07:53,500 --> 00:07:55,000
+She's not over here.
+
+106
+00:07:55,083 --> 00:07:57,166
+Oh, she's so good at hiding.
+
+107
+00:07:57,250 --> 00:07:59,083
+- [distant thunder rumbles]
+- Ugh.
+
+108
+00:07:59,166 --> 00:08:00,250
+Gotta find her.
+
+109
+00:08:00,333 --> 00:08:01,750
+Maybe she's inside.
+
+110
+00:08:03,041 --> 00:08:04,750
+Yeah, I'm gonna check there.
+
+111
+00:08:06,500 --> 00:08:07,875
+[crow cawing]
+
+112
+00:08:09,125 --> 00:08:10,083
+[sighs]
+
+113
+00:08:16,875 --> 00:08:18,583
+- I got you!
+- [squeals]
+
+114
+00:08:18,666 --> 00:08:21,125
+- I got you! I got you!
+- [laughing]
+
+115
+00:08:21,208 --> 00:08:23,791
+- [giggling]
+- You didn't say the code! Little Rabbit.
+
+116
+00:08:23,875 --> 00:08:25,333
+Oh! Little Rabbit, Little Rabbit!
+
+117
+00:08:25,416 --> 00:08:26,958
+- Little Rabbit!
+- [both laughing]
+
+118
+00:08:27,041 --> 00:08:28,208
+One more time.
+
+119
+00:08:28,291 --> 00:08:30,041
+- No.
+- Please.
+
+120
+00:08:30,125 --> 00:08:32,166
+I said no, Vee. Come on.
+
+121
+00:08:34,708 --> 00:08:36,000
+Pass me a nail?
+
+122
+00:08:38,041 --> 00:08:39,166
+Thanks.
+
+123
+00:08:39,916 --> 00:08:43,208
+Mom, do you think
+Daddy's gonna find the treasure soon?
+
+124
+00:08:43,291 --> 00:08:45,291
+It's been two years.
+
+125
+00:08:45,791 --> 00:08:47,958
+I don't know, Vee. I bet he's real close.
+
+126
+00:08:48,041 --> 00:08:49,750
+And then is Daddy gonna come home?
+
+127
+00:08:50,875 --> 00:08:54,583
+You know,
+the storm looks like it's a while away.
+
+128
+00:08:55,166 --> 00:08:57,250
+We could probably fit in another game.
+
+129
+00:08:57,333 --> 00:09:00,208
+I bet you can't make it past three minutes
+before I find you, though.
+
+130
+00:09:00,291 --> 00:09:02,500
+- Oh, I can.
+- Oh, I don't think you can. Mm-mm.
+
+131
+00:09:02,583 --> 00:09:04,958
+All right. Let me see. Ready? Set…
+
+132
+00:09:05,458 --> 00:09:07,125
+- Game on!
+- [squeals] Game on!
+
+133
+00:09:07,208 --> 00:09:09,208
+One… two…
+
+134
+00:09:10,375 --> 00:09:12,875
+Three… four…
+
+135
+00:09:13,791 --> 00:09:16,333
+Five… six…
+
+136
+00:09:17,375 --> 00:09:18,833
+[sighs] Seven…
+
+137
+00:09:22,500 --> 00:09:23,625
+[sighs]
+
+138
+00:09:25,291 --> 00:09:27,083
+[vehicle approaching]
+
+139
+00:09:27,166 --> 00:09:28,875
+[horn blares]
+
+140
+00:09:33,750 --> 00:09:35,000
+[horn beeps]
+
+141
+00:09:36,375 --> 00:09:38,500
+- Hey, Lou.
+- Rent. Tomorrow.
+
+142
+00:09:39,083 --> 00:09:42,250
+I know. Listen, now, I had to lay in
+supplies for the storm.
+
+143
+00:09:42,333 --> 00:09:44,541
+- So I was wondering whether...
+- No extensions.
+
+144
+00:09:45,583 --> 00:09:48,916
+- [sighs] All right.
+- Tomorrow. Inside. On the table.
+
+145
+00:09:49,500 --> 00:09:50,958
+It'll get wet in the mailbox.
+
+146
+00:09:51,041 --> 00:09:52,083
+You'll get it.
+
+147
+00:09:55,208 --> 00:09:56,375
+[sighs]
+
+148
+00:10:12,625 --> 00:10:14,208
+[Jax barks]
+
+149
+00:10:14,291 --> 00:10:15,125
+[yells]
+
+150
+00:10:17,791 --> 00:10:18,750
+[yells] Vee!
+
+151
+00:10:18,833 --> 00:10:20,083
+[gasping]
+
+152
+00:10:20,166 --> 00:10:21,458
+[Lou sighs]
+
+153
+00:10:21,541 --> 00:10:22,458
+Oh my God!
+
+154
+00:10:23,916 --> 00:10:24,875
+[sighs]
+
+155
+00:10:25,416 --> 00:10:26,500
+Oh…
+
+156
+00:10:29,541 --> 00:10:31,250
+What the hell is wrong with you?
+
+157
+00:10:31,333 --> 00:10:34,000
+Why you gotta drive so goddamn fast?
+You know there's a child nearby.
+
+158
+00:10:34,083 --> 00:10:37,458
+World's not a playground.
+Teach your kid to look out for herself.
+
+159
+00:10:37,541 --> 00:10:38,458
+[mother sighs]
+
+160
+00:10:40,208 --> 00:10:41,875
+[starts engine]
+
+161
+00:10:59,250 --> 00:11:00,666
+[birdsong]
+
+162
+00:11:06,583 --> 00:11:07,833
+[sighs]
+
+163
+00:11:07,916 --> 00:11:09,125
+[Jax panting]
+
+164
+00:11:09,208 --> 00:11:10,375
+[scoffs]
+
+165
+00:11:14,625 --> 00:11:15,791
+[chuckles]
+
+166
+00:11:21,875 --> 00:11:23,083
+Come on, Jax.
+
+167
+00:11:23,166 --> 00:11:25,500
+[car radio] <i>♪ Yeah ♪</i>
+
+168
+00:11:26,125 --> 00:11:27,833
+<i>♪ It's not in the way you look ♪</i>
+
+169
+00:11:27,916 --> 00:11:29,458
+<i>- ♪ Or the things... ♪</i>
+- [engine turns off]
+
+170
+00:11:29,541 --> 00:11:30,791
+- [man] Hey.
+- [mother] Go inside.
+
+171
+00:11:30,875 --> 00:11:32,750
+- No, Mom!
+- Vee, go inside.
+
+172
+00:11:33,250 --> 00:11:35,208
+- Everything o... okay?
+- [stamps]
+
+173
+00:11:35,291 --> 00:11:37,500
+And no stomping, little girl.
+
+174
+00:11:37,583 --> 00:11:39,291
+[man]
+Heading into town to get some supplies.
+
+175
+00:11:39,375 --> 00:11:40,833
+- Can I get you anything?
+- [sighs]
+
+176
+00:11:40,916 --> 00:11:43,125
+- No. We're fine. Thanks, Chris.
+- [door slams]
+
+177
+00:11:43,208 --> 00:11:46,125
+- You doin' all right?
+- [sighing] Yeah, I'm just tired.
+
+178
+00:11:46,208 --> 00:11:47,291
+- [Chris] All right.
+- [sighs]
+
+179
+00:11:47,375 --> 00:11:49,291
+[Chris]
+Is Lou still bein' a pain in your ass?
+
+180
+00:11:50,125 --> 00:11:53,416
+- [sighs] I told you about that?
+- [chuckling] Yeah.
+
+181
+00:11:53,500 --> 00:11:55,666
+Yeah, you don't… you don't remember?
+
+182
+00:11:55,750 --> 00:11:56,958
+- No.
+- [sighs]
+
+183
+00:11:57,041 --> 00:11:59,916
+- Look, we were both pretty drunk, so…
+- Yeah.
+
+184
+00:12:00,000 --> 00:12:02,750
+- Yeah.
+- Clearly, 'cause I… I don't remember that.
+
+185
+00:12:02,833 --> 00:12:04,000
+[Chris sighs]
+
+186
+00:12:04,083 --> 00:12:06,958
+I do remember you singing "Like A Virgin"
+at the top of your lungs.
+
+187
+00:12:07,041 --> 00:12:07,916
+[chuckles]
+
+188
+00:12:08,000 --> 00:12:09,500
+Oh, please swear you'll never tell.
+
+189
+00:12:09,583 --> 00:12:10,750
+Ah… [exhales]
+
+190
+00:12:10,833 --> 00:12:11,916
+Or what?
+
+191
+00:12:12,625 --> 00:12:13,541
+I don't know.
+
+192
+00:12:14,291 --> 00:12:15,708
+Or, uh…
+
+193
+00:12:16,416 --> 00:12:19,166
+[Vee] Mom! I can't find Mr. Hippo!
+
+194
+00:12:19,250 --> 00:12:20,958
+- Ah.
+- [chuckles] Listen, I gotta go.
+
+195
+00:12:21,041 --> 00:12:22,250
+Hey, have you, um…
+
+196
+00:12:24,833 --> 00:12:27,000
+- [Chris sighs]
+- [Vee] Mom, help me find him.
+
+197
+00:12:27,083 --> 00:12:29,208
+Have you had a chance to talk to Vee yet?
+
+198
+00:12:30,208 --> 00:12:31,416
+About her dad?
+
+199
+00:12:46,708 --> 00:12:48,875
+[distant thunder rumbling]
+
+200
+00:13:08,416 --> 00:13:10,416
+["Hold the Line" by Toto]
+
+201
+00:13:18,333 --> 00:13:19,291
+[Chris] You all right?
+
+202
+00:13:19,375 --> 00:13:21,208
+- Any way I could get a ride?
+- Yeah, of course.
+
+203
+00:13:21,291 --> 00:13:22,333
+- Get in here.
+- Thank you.
+
+204
+00:13:22,416 --> 00:13:23,666
+- Yeah, yeah.
+- Thank you.
+
+205
+00:13:25,833 --> 00:13:27,708
+[grunts] Sorry about that.
+
+206
+00:13:27,791 --> 00:13:29,791
+[man]
+Oh, damn rental car broke down on me.
+
+207
+00:13:29,875 --> 00:13:32,500
+You're a lifesaver. [laughs]
+
+208
+00:13:32,583 --> 00:13:34,416
+Oh, jeez, I'm...
+
+209
+00:13:34,500 --> 00:13:36,125
+I'm gettin' your seat all soaked.
+
+210
+00:13:36,208 --> 00:13:38,750
+Don't worry about it, man.
+I'm just glad I passed you when I did.
+
+211
+00:13:38,833 --> 00:13:41,291
+- [man] Oh.
+- [Chris] The storm's gonna be gnarly.
+
+212
+00:14:02,791 --> 00:14:03,958
+Heavy reading.
+
+213
+00:14:04,666 --> 00:14:06,625
+Yeah, I bought it for a friend of mine.
+
+214
+00:14:06,708 --> 00:14:08,750
+Her ex died three months ago,
+and she's just...
+
+215
+00:14:08,833 --> 00:14:10,291
+She's havin' a hard time facin' it.
+
+216
+00:14:10,375 --> 00:14:13,000
+I see. And you wanna
+help her face it, right? Hm?
+
+217
+00:14:13,083 --> 00:14:14,791
+'Cause you wanna be more
+than just friends?
+
+218
+00:14:14,875 --> 00:14:18,458
+Oh, look, I just... She has a kid.
+She wants to take it slow.
+
+219
+00:14:24,041 --> 00:14:26,750
+Oh! I love this band.
+
+220
+00:14:26,833 --> 00:14:28,291
+Oh, Jeff Porcaro's the man.
+
+221
+00:14:28,375 --> 00:14:30,958
+- Oh, yeah. He's the best.
+<i>- ♪ …Things that you say that you'll do ♪</i>
+
+222
+00:14:31,041 --> 00:14:32,375
+<i>♪ Hold the line ♪</i>
+
+223
+00:14:34,208 --> 00:14:37,250
+<i>♪ Love isn't always on time ♪</i>
+
+224
+00:14:38,000 --> 00:14:40,125
+<i>♪ Whoa, whoa, whoa ♪</i>
+
+225
+00:14:40,208 --> 00:14:41,125
+[man chuckles]
+
+226
+00:14:41,208 --> 00:14:42,333
+<i>♪ Hold the line ♪</i>
+
+227
+00:14:44,333 --> 00:14:47,375
+<i>♪ Love isn't always on time ♪</i>
+
+228
+00:14:48,083 --> 00:14:49,291
+<i>♪ Whoa, whoa, whoa ♪</i>
+
+229
+00:14:51,416 --> 00:14:53,375
+[Chris] Ah! Fuck! What the fuck?
+
+230
+00:15:07,291 --> 00:15:08,791
+[engine stalls]
+
+231
+00:15:21,250 --> 00:15:23,375
+- [sighs]
+- [thunder rumbling]
+
+232
+00:15:23,458 --> 00:15:24,708
+[wind groaning]
+
+233
+00:16:07,750 --> 00:16:09,125
+[crowd cheering]
+
+234
+00:16:11,333 --> 00:16:12,833
+[gunshot echoes]
+
+235
+00:16:12,916 --> 00:16:14,125
+[chanting]
+
+236
+00:16:28,291 --> 00:16:29,541
+[thunder rolling]
+
+237
+00:16:39,333 --> 00:16:40,500
+[sighs]
+
+238
+00:16:42,416 --> 00:16:43,375
+Vee…
+
+239
+00:16:45,125 --> 00:16:46,500
+Vee, look at me.
+
+240
+00:16:50,333 --> 00:16:52,791
+You know when you were asking
+about Daddy earlier?
+
+241
+00:16:52,875 --> 00:16:54,875
+[wind whistling]
+
+242
+00:16:56,458 --> 00:16:59,000
+Well, um… [sighs]
+
+243
+00:17:00,541 --> 00:17:02,541
+Baby, he, um…
+
+244
+00:17:05,000 --> 00:17:06,208
+[sighs]
+
+245
+00:17:07,375 --> 00:17:09,875
+He loves you so much.
+
+246
+00:17:11,416 --> 00:17:14,041
+And he thinks about you all the time.
+
+247
+00:17:18,708 --> 00:17:20,041
+Um…
+
+248
+00:17:20,125 --> 00:17:21,500
+What are we making?
+
+249
+00:17:22,083 --> 00:17:23,791
+- Friendship bracelets.
+- Oh.
+
+250
+00:17:23,875 --> 00:17:25,625
+I wanna make a friendship bracelet.
+
+251
+00:17:25,708 --> 00:17:27,166
+This one is for Lou.
+
+252
+00:17:27,250 --> 00:17:29,208
+You're making a bracelet for Lou? Why?
+
+253
+00:17:29,916 --> 00:17:30,791
+I like Lou.
+
+254
+00:17:31,666 --> 00:17:33,750
+- I know you don't.
+- Yeah, I do.
+
+255
+00:17:34,708 --> 00:17:35,750
+[chuckles]
+
+256
+00:17:36,750 --> 00:17:38,791
+Okay. I actually don't like Lou.
+
+257
+00:17:38,875 --> 00:17:40,958
+But why do you like her?
+
+258
+00:17:41,041 --> 00:17:43,875
+Well, Jax likes her, and I like Jax.
+
+259
+00:17:43,958 --> 00:17:44,875
+[mom] Oh.
+
+260
+00:17:44,958 --> 00:17:47,333
+[thunder crashing]
+
+261
+00:17:50,291 --> 00:17:52,500
+[wind whistling]
+
+262
+00:17:52,583 --> 00:17:56,541
+[Lou] "<i>I've never been one for many words,</i>
+<i>so I'll keep this short."</i>
+
+263
+00:17:57,458 --> 00:18:00,125
+<i>"The house is yours. Sell it."</i>
+
+264
+00:18:00,208 --> 00:18:04,208
+<i>"There's a month's worth of meat for Jax
+in the freezer, and some cash for you."</i>
+
+265
+00:18:05,958 --> 00:18:10,000
+<i>"There are certain decisions I made
+that you will never understand."</i>
+
+266
+00:18:12,458 --> 00:18:14,708
+<i>"But that's all in the past now."</i>
+
+267
+00:18:16,166 --> 00:18:17,541
+<i>"Life can be cruel."</i>
+
+268
+00:18:18,041 --> 00:18:21,250
+<i>"What made me great at some things
+made me lousy at others."</i>
+
+269
+00:18:25,708 --> 00:18:29,333
+<i>"I wish I could say
+that some good came from what I did."</i>
+
+270
+00:18:30,250 --> 00:18:31,208
+<i>"In truth,</i>
+
+271
+00:18:32,375 --> 00:18:34,666
+<i>I left the world a more dangerous place."</i>
+
+272
+00:18:35,666 --> 00:18:37,083
+[whines]
+
+273
+00:18:50,333 --> 00:18:51,583
+- Bedtime, now!
+- [squealing]
+
+274
+00:18:51,666 --> 00:18:52,750
+- Okay.
+- [laughs] My pillow!
+
+275
+00:18:52,833 --> 00:18:53,916
+[sighs] Okay, lay down.
+
+276
+00:18:54,000 --> 00:18:56,541
+- Mr. Hippo!
+- I'm exhausted. Come on, Mr. Hippo.
+
+277
+00:18:56,625 --> 00:18:58,416
+- Good night.
+- I'm hot.
+
+278
+00:18:58,500 --> 00:19:02,083
+Yeah, now I'm hot too. But you'll be
+cold soon because it's raining.
+
+279
+00:19:02,166 --> 00:19:03,041
+[wind whistles]
+
+280
+00:19:03,125 --> 00:19:04,041
+- [crash]
+- [gasps]
+
+281
+00:19:04,125 --> 00:19:05,541
+[rattling]
+
+282
+00:19:06,250 --> 00:19:08,583
+Oh, it's just the wind, baby.
+Don't be scared.
+
+283
+00:19:08,666 --> 00:19:10,875
+- I'm not scared.
+- Okay.
+
+284
+00:19:10,958 --> 00:19:14,541
+- Are you scared?
+- Do you wanna sleep with me tonight?
+
+285
+00:19:14,625 --> 00:19:17,208
+- Oh, if you need me to, I will.
+- I think I do.
+
+286
+00:19:17,875 --> 00:19:19,208
+[both gasp]
+
+287
+00:19:19,958 --> 00:19:21,291
+Oh shit.
+
+288
+00:19:21,375 --> 00:19:22,958
+Shit, shit, shit, shit!
+
+289
+00:19:23,041 --> 00:19:24,458
+- Vee…
+- [chuckles]
+
+290
+00:19:24,541 --> 00:19:26,166
+- Watch your mouth.
+- Shit!
+
+291
+00:19:26,250 --> 00:19:27,208
+- Hey!
+- [lamp plays tune]
+
+292
+00:19:27,291 --> 00:19:30,583
+Do not test my patience, little lady.
+[laughing]
+
+293
+00:19:31,208 --> 00:19:33,208
+I'm just gonna go flip the breaker.
+
+294
+00:19:34,333 --> 00:19:35,458
+I'll be right back, okay?
+
+295
+00:19:51,708 --> 00:19:53,708
+[thunder crashes]
+
+296
+00:19:59,250 --> 00:20:01,250
+[whimpering]
+
+297
+00:20:08,833 --> 00:20:10,458
+[barking]
+
+298
+00:20:11,666 --> 00:20:13,666
+- [whining]
+- [scrabbling]
+
+299
+00:20:17,791 --> 00:20:19,083
+- [bang]
+- [gasps]
+
+300
+00:20:20,125 --> 00:20:22,125
+[nightlight playing melody]
+
+301
+00:20:25,458 --> 00:20:26,708
+Mommy?
+
+302
+00:20:28,000 --> 00:20:29,166
+Is that you?
+
+303
+00:20:34,875 --> 00:20:35,958
+- [rattling]
+- [gasps]
+
+304
+00:20:55,500 --> 00:20:56,666
+[creaking]
+
+305
+00:21:08,333 --> 00:21:10,083
+[hissing]
+
+306
+00:21:15,791 --> 00:21:17,000
+Chris!
+
+307
+00:21:32,125 --> 00:21:33,458
+[yelps]
+
+308
+00:21:36,750 --> 00:21:38,041
+[gasping]
+
+309
+00:21:38,125 --> 00:21:39,625
+Oh! Vee!
+
+310
+00:21:45,250 --> 00:21:47,416
+[gasping] No! Vee!
+
+311
+00:21:50,541 --> 00:21:51,625
+Vee!
+
+312
+00:21:51,708 --> 00:21:53,250
+[grunting and gasping]
+
+313
+00:21:55,250 --> 00:21:56,916
+[sobbing] Oh! No!
+
+314
+00:21:58,208 --> 00:21:59,875
+Vee! Vee! Vee!
+
+315
+00:22:00,500 --> 00:22:01,958
+Vee? Vee!
+
+316
+00:22:09,458 --> 00:22:11,458
+[nightlight playing melody]
+
+317
+00:22:13,583 --> 00:22:15,166
+[thunder rumbling]
+
+318
+00:22:19,541 --> 00:22:20,958
+[inhales]
+
+319
+00:22:22,166 --> 00:22:23,750
+[exhales slowly]
+
+320
+00:22:27,375 --> 00:22:28,916
+[thunder rumbles]
+
+321
+00:22:33,250 --> 00:22:35,041
+[creaking]
+
+322
+00:22:37,000 --> 00:22:39,125
+- [thunder crashes]
+- [light buzzes]
+
+323
+00:22:46,208 --> 00:22:48,375
+[inhales slowly]
+
+324
+00:22:52,458 --> 00:22:53,375
+[exhales]
+
+325
+00:22:53,458 --> 00:22:54,708
+- [crash]
+- [gasps]
+
+326
+00:22:54,791 --> 00:22:56,416
+- Where's your phone?
+- What the hell?
+
+327
+00:22:56,500 --> 00:22:59,500
+Where's your goddamn phone?
+I gotta call the sheriff.
+
+328
+00:22:59,583 --> 00:23:00,916
+[gasping]
+
+329
+00:23:01,916 --> 00:23:04,958
+- [gasps] God damn it! Fuck!
+- [Lou] Slow down. What happened?
+
+330
+00:23:05,041 --> 00:23:08,291
+- [gasps] Vee's gone.
+- What, you let her wander off again?
+
+331
+00:23:08,375 --> 00:23:10,500
+- She's not gonna get far in this.
+- No, no, no.
+
+332
+00:23:10,583 --> 00:23:12,208
+- Her father took her.
+- Her father?
+
+333
+00:23:12,291 --> 00:23:13,375
+[panting]
+
+334
+00:23:13,916 --> 00:23:16,416
+He's… he's here. How the hell is he here?
+
+335
+00:23:16,500 --> 00:23:18,291
+Hold on. You saw him?
+
+336
+00:23:18,375 --> 00:23:20,333
+No. I…
+
+337
+00:23:20,416 --> 00:23:23,375
+He… he's supposed to be dead,
+but he found us.
+
+338
+00:23:23,458 --> 00:23:25,458
+I... I thought we were free of him.
+
+339
+00:23:25,541 --> 00:23:28,125
+- He killed Chris.
+- Jesus Christ.
+
+340
+00:23:28,208 --> 00:23:32,375
+Where are your keys? The car won't start.
+I gotta get to the sheriff.
+
+341
+00:23:32,458 --> 00:23:33,791
+- [Lou] I'll drive.
+- Okay.
+
+342
+00:23:36,833 --> 00:23:38,583
+[engine spluttering]
+
+343
+00:23:40,833 --> 00:23:41,791
+Hm.
+
+344
+00:23:42,583 --> 00:23:44,625
+- [engine coughing]
+- No, no, no, no, no! Come on!
+
+345
+00:23:52,916 --> 00:23:54,333
+- [bleeps]
+- [plays melody]
+
+346
+00:23:56,208 --> 00:23:57,416
+- What's wrong?
+- Run!
+
+347
+00:23:57,500 --> 00:23:58,583
+What?
+
+348
+00:23:58,666 --> 00:24:00,791
+- [melody plays]
+- [Lou] Down!
+
+349
+00:24:08,666 --> 00:24:10,500
+- [clattering]
+- [gasps]
+
+350
+00:24:12,541 --> 00:24:14,458
+- [wind whistling]
+- [gasping]
+
+351
+00:24:14,541 --> 00:24:17,750
+Ho... how did you know
+it was gonna blow up?
+
+352
+00:24:17,833 --> 00:24:19,208
+Bombs tend to.
+
+353
+00:24:24,041 --> 00:24:25,125
+[bleep]
+
+354
+00:24:29,000 --> 00:24:30,541
+[thunder crashing]
+
+355
+00:24:38,333 --> 00:24:40,083
+[Jax barking]
+
+356
+00:24:42,416 --> 00:24:44,000
+- [whining]
+- Sorry about that, buddy.
+
+357
+00:24:44,083 --> 00:24:45,500
+Turns out I'm not done yet.
+
+358
+00:24:45,583 --> 00:24:48,375
+A bomb?
+It means he's been plannin' this, Lou.
+
+359
+00:24:48,875 --> 00:24:51,208
+We gotta get more help.
+We need to get to the sheriff.
+
+360
+00:24:51,291 --> 00:24:53,541
+Can't get to him.
+No cars. Phones are down.
+
+361
+00:24:53,625 --> 00:24:55,041
+We're ten miles outside of town.
+
+362
+00:24:55,125 --> 00:24:57,250
+Your kid's gettin' further away
+by the second.
+
+363
+00:24:57,333 --> 00:24:59,625
+- I have to track 'em.
+- What?
+
+364
+00:25:00,333 --> 00:25:01,541
+Track 'em? You?
+
+365
+00:25:01,625 --> 00:25:03,291
+[Lou] Get batteries. Kitchen.
+
+366
+00:25:09,458 --> 00:25:12,416
+You don't understand.
+Philip was a Green Beret.
+
+367
+00:25:12,500 --> 00:25:15,875
+Wanted for some terrible shit
+that he did in Central America.
+
+368
+00:25:16,458 --> 00:25:18,041
+War crimes kind of shit.
+
+369
+00:25:18,125 --> 00:25:21,458
+I saw the court transcripts.
+He was torturing hostages for fun.
+
+370
+00:25:22,041 --> 00:25:26,083
+He's highly trained. An explosives expert.
+Well, we're no match for him, Lou.
+
+371
+00:25:26,791 --> 00:25:30,541
+We need professional help.
+You and the dog ain't gonna cut it.
+
+372
+00:25:33,250 --> 00:25:35,166
+Did he take anything from your trailer?
+
+373
+00:25:36,833 --> 00:25:38,958
+[mother]
+Her... her favorite stuffy, Mr. Hippo.
+
+374
+00:25:39,041 --> 00:25:41,500
+- And a... a blanket.
+- He wants her comfortable.
+
+375
+00:25:42,000 --> 00:25:43,333
+He wants her quiet.
+
+376
+00:25:52,000 --> 00:25:53,375
+Renovations.
+
+377
+00:25:55,750 --> 00:25:57,750
+[wind whistling]
+
+378
+00:26:01,541 --> 00:26:04,416
+When they tried to arrest him,
+he blew his apartment up.
+
+379
+00:26:04,500 --> 00:26:07,875
+They sent a death certificate.
+How the hell could he still be alive?
+
+380
+00:26:07,958 --> 00:26:09,208
+[barking]
+
+381
+00:26:10,916 --> 00:26:13,125
+[Lou] Halothane. Sleeping gas.
+
+382
+00:26:13,708 --> 00:26:15,583
+You're lucky it didn't knock you out.
+
+383
+00:26:26,375 --> 00:26:28,583
+[Lou] He's pullin' her in somethin'.
+
+384
+00:26:28,666 --> 00:26:31,750
+If he gets her off the island,
+this will get a lot messier.
+
+385
+00:26:31,833 --> 00:26:33,666
+Airport and ferry are closed.
+
+386
+00:26:38,708 --> 00:26:40,791
+Private vessel. He's headed to the coast.
+
+387
+00:26:40,875 --> 00:26:43,125
+He's got a head start. I gotta move fast.
+
+388
+00:26:43,208 --> 00:26:45,833
+Stay here.
+The storm clears, head into town.
+
+389
+00:26:45,916 --> 00:26:48,000
+First house you see, call the sheriff.
+
+390
+00:26:51,708 --> 00:26:54,083
+- Hey, where are you goin'?
+- To find my child.
+
+391
+00:26:54,166 --> 00:26:56,000
+You don't know what you're doing.
+
+392
+00:27:01,750 --> 00:27:04,583
+If you slow me down,
+I will leave you behind.
+
+393
+00:27:06,791 --> 00:27:08,291
+Jax. Right on.
+
+394
+00:27:08,375 --> 00:27:09,833
+[barking]
+
+395
+00:27:27,000 --> 00:27:29,291
+[thunder crashing]
+
+396
+00:27:35,125 --> 00:27:36,375
+[soft breathing]
+
+397
+00:27:37,750 --> 00:27:39,458
+[rain falling on metal roof]
+
+398
+00:27:39,541 --> 00:27:41,375
+[muffled voices]
+
+399
+00:27:42,208 --> 00:27:43,541
+[groans softly]
+
+400
+00:27:47,625 --> 00:27:48,958
+[man] <i>You can't see shit.</i>
+
+401
+00:27:49,041 --> 00:27:52,166
+<i>We're close. We're clearing the ridge.
+We'll be there shortly.</i>
+
+402
+00:27:52,250 --> 00:27:54,125
+- [thump]
+- [Philip] Fuckin' idiots.
+
+403
+00:28:07,666 --> 00:28:09,291
+[gasps]
+
+404
+00:28:16,000 --> 00:28:18,083
+No. No, no, no. It's okay.
+
+405
+00:28:18,666 --> 00:28:19,958
+I know it's been a while.
+
+406
+00:28:21,000 --> 00:28:23,000
+Maybe this'll jog your memory.
+
+407
+00:28:25,333 --> 00:28:26,541
+Here's the church…
+
+408
+00:28:28,000 --> 00:28:29,500
+Here's the steeple…
+
+409
+00:28:30,166 --> 00:28:32,166
+Open it up and…
+
+410
+00:28:34,250 --> 00:28:35,125
+It's you.
+
+411
+00:28:36,166 --> 00:28:37,916
+Yes, it is. It's... it's me.
+
+412
+00:28:38,916 --> 00:28:40,083
+It's me, sweetie.
+
+413
+00:28:43,250 --> 00:28:45,000
+You came back from your adventure.
+
+414
+00:28:48,083 --> 00:28:49,208
+I sure did.
+
+415
+00:28:50,791 --> 00:28:52,833
+And… and I even brought you a present.
+
+416
+00:28:56,041 --> 00:28:57,583
+Is it part of the treasure?
+
+417
+00:28:58,291 --> 00:29:00,041
+Uh, treasure? Yeah!
+
+418
+00:29:00,750 --> 00:29:02,250
+Yeah, it sure is.
+
+419
+00:29:02,333 --> 00:29:06,916
+And… you and I are gonna go
+on our own adventure together.
+
+420
+00:29:07,000 --> 00:29:10,791
+Where's Mo... Where's Mommy?
+Is she coming with us?
+
+421
+00:29:12,625 --> 00:29:15,000
+Yeah, of course she is. Of course she is.
+
+422
+00:29:15,875 --> 00:29:19,458
+I left her a note
+and some clues to follow us,
+
+423
+00:29:20,041 --> 00:29:22,208
+and she's gonna
+meet up with us after, okay?
+
+424
+00:29:26,750 --> 00:29:28,000
+Uh... Whoa.
+
+425
+00:29:28,833 --> 00:29:30,000
+What do you say?
+
+426
+00:29:31,291 --> 00:29:32,291
+Thank you, Daddy.
+
+427
+00:29:35,208 --> 00:29:36,833
+- Okay.
+- [man on radio]<i> Do you copy?</i>
+
+428
+00:29:37,333 --> 00:29:38,875
+<i>Come on. Get on radio.</i>
+
+429
+00:29:38,958 --> 00:29:41,750
+<i>- Do you copy?</i>
+- All right, I've gotta do one more thing.
+
+430
+00:29:42,250 --> 00:29:44,500
+And then you and I are gonna start
+our adventure together.
+
+431
+00:29:44,583 --> 00:29:47,708
+See, you put these on…
+All right, like that.
+
+432
+00:29:48,208 --> 00:29:49,083
+Okay?
+
+433
+00:29:51,833 --> 00:29:53,166
+♪ <i>It's not in the way you look ♪</i>
+
+434
+00:29:53,250 --> 00:29:55,750
+♪ <i>Or the things that you say</i>
+<i>That you'll do ♪</i>
+
+435
+00:29:55,833 --> 00:29:57,291
+<i>♪ Hold the line ♪</i>
+
+436
+00:29:59,416 --> 00:30:01,958
+♪ <i>Love isn't always on time… ♪</i>
+
+437
+00:30:02,708 --> 00:30:04,875
+<i>♪ Whoa, whoa, whoa ♪</i>
+
+438
+00:30:05,541 --> 00:30:07,333
+<i>♪ Hold the line ♪</i>
+
+439
+00:30:12,291 --> 00:30:13,500
+[Jax barking]
+
+440
+00:30:19,208 --> 00:30:20,375
+[groans]
+
+441
+00:30:28,750 --> 00:30:30,291
+[gasps]
+
+442
+00:30:31,208 --> 00:30:32,541
+[barking]
+
+443
+00:30:55,083 --> 00:30:56,208
+[sighs]
+
+444
+00:30:57,291 --> 00:30:58,458
+[Lou] Here.
+
+445
+00:31:29,583 --> 00:31:30,958
+[Jax barks]
+
+446
+00:31:42,250 --> 00:31:43,666
+[mother] You see anything?
+
+447
+00:31:49,333 --> 00:31:50,291
+[gasps]
+
+448
+00:31:50,375 --> 00:31:53,291
+- [Lou] You know them?
+- Tony and Gerry. They served with Philip.
+
+449
+00:31:54,250 --> 00:31:56,791
+They're just as vicious as he is. Come on.
+
+450
+00:31:56,875 --> 00:32:00,708
+Stay down. Your jacket might as well
+have a target painted on it.
+
+451
+00:32:01,666 --> 00:32:02,958
+- [sighs]
+- We wait.
+
+452
+00:32:04,125 --> 00:32:07,791
+Suppose this is just a distraction?
+Buying him more time to get away with Vee.
+
+453
+00:32:07,875 --> 00:32:09,541
+It's the kind of game he likes to play.
+
+454
+00:32:09,625 --> 00:32:11,416
+Danglin' somethin' shiny in front of you,
+
+455
+00:32:11,500 --> 00:32:14,750
+and you don't notice when he's about
+to bash you over your goddamn head.
+
+456
+00:32:20,458 --> 00:32:22,375
+[grunts] Do you know how to use this?
+
+457
+00:32:23,000 --> 00:32:25,083
+Mmm, yeah. [grunts]
+
+458
+00:32:25,166 --> 00:32:28,125
+- I took lessons after I left him.
+- All right, I'm gonna go have a look.
+
+459
+00:32:28,958 --> 00:32:32,000
+If anybody gets too close, use this.
+
+460
+00:32:32,083 --> 00:32:34,666
+Go for the eyes.
+A man can't kill what he can't see.
+
+461
+00:32:37,125 --> 00:32:39,375
+- How do you know all this?
+- Girl Scouts.
+
+462
+00:32:40,916 --> 00:32:42,458
+Jax. Stay.
+
+463
+00:33:06,416 --> 00:33:08,791
+[man 1] All right, no one's gonna
+follow him in this shit.
+
+464
+00:33:10,291 --> 00:33:13,541
+I'm telling you, this feels like another
+one of Philip's fucked-up games.
+
+465
+00:33:34,500 --> 00:33:35,375
+Hello?
+
+466
+00:33:37,083 --> 00:33:41,250
+Oh, excuse me.
+I'm completely turned around out here. I...
+
+467
+00:33:41,333 --> 00:33:44,166
+I… I was looking for my dog.
+The poor little guy...
+
+468
+00:33:44,250 --> 00:33:45,833
+I haven't seen any dogs.
+
+469
+00:33:45,916 --> 00:33:49,000
+Okay. Do… do you have a phone I could use?
+
+470
+00:33:49,083 --> 00:33:50,375
+- I just want...
+- Are you alone?
+
+471
+00:33:51,583 --> 00:33:53,333
+Unfortunately. Um…
+
+472
+00:34:00,000 --> 00:34:04,250
+Look, I... I don't think I can make it
+the three hours back home, but…
+
+473
+00:34:05,750 --> 00:34:09,500
+If I could just rest
+and get my… my bearings?
+
+474
+00:34:15,333 --> 00:34:16,500
+Christ.
+
+475
+00:34:18,125 --> 00:34:20,500
+- Okay. Just two minutes.
+- Oh!
+
+476
+00:34:21,291 --> 00:34:22,666
+Thank you so much.
+
+477
+00:34:22,750 --> 00:34:23,916
+Oh shit.
+
+478
+00:34:25,041 --> 00:34:26,500
+[Lou] Oh, bless your heart.
+
+479
+00:34:27,625 --> 00:34:28,666
+Oh…
+
+480
+00:34:29,375 --> 00:34:30,791
+Oh, good morning.
+
+481
+00:34:30,875 --> 00:34:32,750
+She lost her dog, man. She's soaked.
+
+482
+00:34:32,833 --> 00:34:34,791
+Just need to get my blood movin' again.
+
+483
+00:34:35,291 --> 00:34:37,333
+My goodness. Quite a storm out there.
+
+484
+00:34:39,791 --> 00:34:41,916
+[chuckles] Whew.
+
+485
+00:34:44,000 --> 00:34:46,166
+- Oh.
+- [man 2] What's your name?
+
+486
+00:34:46,833 --> 00:34:49,833
+Oh, sorry, I'm... I'm Martha. Flemming.
+
+487
+00:34:50,583 --> 00:34:52,166
+But you might know my husband, Gordon.
+
+488
+00:34:52,250 --> 00:34:53,791
+- He works at the...
+- I don't.
+
+489
+00:34:58,416 --> 00:35:00,708
+Here. Why don't you grab a seat?
+
+490
+00:35:00,791 --> 00:35:04,000
+- Give those cold feet a break.
+- They sure could use it.
+
+491
+00:35:04,791 --> 00:35:05,875
+Thank you.
+
+492
+00:35:13,791 --> 00:35:15,250
+[whispers] Thank you so much.
+
+493
+00:35:16,708 --> 00:35:17,583
+Ooh.
+
+494
+00:35:19,291 --> 00:35:22,250
+- Oof…
+- So… been on this island long?
+
+495
+00:35:22,333 --> 00:35:25,583
+- Oh, 32 years.
+- I don't get the appeal.
+
+496
+00:35:25,666 --> 00:35:27,125
+It's a pain in the ass to get to.
+
+497
+00:35:27,208 --> 00:35:28,916
+- Weather's shit. [chuckles]
+- [sighs]
+
+498
+00:35:29,000 --> 00:35:30,958
+It's an acquired taste. [chuckles]
+
+499
+00:35:31,500 --> 00:35:32,875
+I love it, though.
+
+500
+00:35:34,000 --> 00:35:36,333
+- Good place to hide, I reckon.
+- Hmm.
+
+501
+00:35:36,416 --> 00:35:38,291
+Come on, Tony, relax.
+She's just an old lady.
+
+502
+00:35:45,708 --> 00:35:48,458
+[breathing shakily]
+The soup smells so good.
+
+503
+00:35:50,708 --> 00:35:51,666
+[inhales deeply]
+
+504
+00:35:51,750 --> 00:35:53,250
+[bubbling]
+
+505
+00:35:53,333 --> 00:35:55,333
+Ooh. [whistles through teeth]
+
+506
+00:35:55,916 --> 00:35:57,083
+[sighs]
+
+507
+00:35:57,166 --> 00:35:58,958
+So nice and warm in here.
+
+508
+00:35:59,041 --> 00:36:00,541
+[Jax barking]
+
+509
+00:36:02,500 --> 00:36:04,166
+That must be my Jax.
+
+510
+00:36:06,166 --> 00:36:07,083
+Sit down, Martha.
+
+511
+00:36:08,166 --> 00:36:09,541
+- [Lou grunts]
+- [Tony yells]
+
+512
+00:36:14,083 --> 00:36:16,083
+[Tony yells]
+
+513
+00:36:21,041 --> 00:36:22,708
+[groans]
+
+514
+00:36:39,958 --> 00:36:41,416
+- [Tony roars]
+- [Lou yells]
+
+515
+00:36:45,083 --> 00:36:46,166
+[growling]
+
+516
+00:36:51,666 --> 00:36:52,875
+[yells]
+
+517
+00:36:54,666 --> 00:36:56,416
+- [sizzling]
+- [grunting]
+
+518
+00:36:56,958 --> 00:36:58,208
+[yells]
+
+519
+00:36:58,833 --> 00:37:00,125
+[both screaming]
+
+520
+00:37:02,500 --> 00:37:03,750
+[Lou screams]
+
+521
+00:37:10,041 --> 00:37:11,000
+[yells]
+
+522
+00:37:11,875 --> 00:37:13,041
+[screams]
+
+523
+00:37:14,291 --> 00:37:15,833
+[growls]
+
+524
+00:37:20,458 --> 00:37:22,208
+[gasps and wheezes]
+
+525
+00:37:22,875 --> 00:37:24,125
+[choking]
+
+526
+00:37:24,208 --> 00:37:25,166
+[crash]
+
+527
+00:37:25,250 --> 00:37:26,666
+[panting]
+
+528
+00:37:28,000 --> 00:37:29,708
+Where is he taking her?
+
+529
+00:37:30,916 --> 00:37:32,291
+[wheezing]
+
+530
+00:37:32,375 --> 00:37:33,291
+Where…
+
+531
+00:37:33,375 --> 00:37:34,791
+- [cracking]
+- [wails]
+
+532
+00:37:35,791 --> 00:37:37,500
+…is he taking her?
+
+533
+00:37:38,166 --> 00:37:39,250
+[sighs]
+
+534
+00:37:40,041 --> 00:37:42,125
+[groans] Eagle Bay.
+
+535
+00:37:43,791 --> 00:37:44,958
+And then where?
+
+536
+00:37:46,041 --> 00:37:47,166
+[Tony] I don't know.
+
+537
+00:37:47,250 --> 00:37:48,416
+- [cracking]
+- [groans and gasps]
+
+538
+00:37:48,500 --> 00:37:50,583
+I swear. That's all I know.
+
+539
+00:37:51,083 --> 00:37:51,958
+[yells]
+
+540
+00:37:52,833 --> 00:37:53,958
+[Lou gasps]
+
+541
+00:38:00,125 --> 00:38:01,750
+You gonna shoot me?
+
+542
+00:38:04,125 --> 00:38:05,125
+[sighs]
+
+543
+00:38:06,541 --> 00:38:08,833
+[groans] Oh…
+
+544
+00:38:12,125 --> 00:38:13,083
+Things, uh…
+
+545
+00:38:14,750 --> 00:38:15,833
+Escalated.
+
+546
+00:38:18,625 --> 00:38:19,833
+[Lou sighs]
+
+547
+00:38:24,916 --> 00:38:25,958
+[sighs]
+
+548
+00:38:26,541 --> 00:38:27,958
+[sniffing]
+
+549
+00:38:31,791 --> 00:38:33,000
+[gags] Oh!
+
+550
+00:38:34,708 --> 00:38:37,250
+[sighs] Jax. What'd I tell you about that?
+
+551
+00:38:42,750 --> 00:38:46,916
+Gerry, he say anything about Vee
+before you killed him?
+
+552
+00:38:50,625 --> 00:38:51,458
+Not a word.
+
+553
+00:38:55,625 --> 00:38:56,625
+[grunts]
+
+554
+00:38:59,000 --> 00:39:01,833
+Here. Take this outside. Go through it.
+
+555
+00:39:01,916 --> 00:39:02,916
+[groans]
+
+556
+00:39:06,375 --> 00:39:07,708
+[grunts]
+
+557
+00:39:29,583 --> 00:39:30,791
+[sighs]
+
+558
+00:39:35,833 --> 00:39:37,541
+[static crackling]
+
+559
+00:39:41,458 --> 00:39:43,625
+Hello? Come on!
+
+560
+00:39:43,708 --> 00:39:44,708
+Turn that thing off.
+
+561
+00:39:44,833 --> 00:39:47,833
+- We might be able to reach the sheriff.
+- Not in this weather.
+
+562
+00:39:47,916 --> 00:39:49,583
+More likely it'll tip off Philip.
+
+563
+00:39:49,666 --> 00:39:53,000
+- What channel would the emergency...
+- Don't argue with me. Leave it.
+
+564
+00:39:53,708 --> 00:39:55,125
+- [Jax whimpers]
+- [Lou grunts]
+
+565
+00:39:55,208 --> 00:39:56,166
+[exhales]
+
+566
+00:39:56,916 --> 00:39:57,916
+Unbelievable.
+
+567
+00:40:14,291 --> 00:40:16,125
+You know, I was in the Girl Scouts, too.
+
+568
+00:40:17,208 --> 00:40:20,791
+Got my archery badge, pen pal, first aid.
+
+569
+00:40:20,875 --> 00:40:25,125
+There wasn't one for hand-to-hand combat
+or murder with household objects.
+
+570
+00:40:25,208 --> 00:40:28,125
+Really? Must've just been my troop, then.
+
+571
+00:40:30,375 --> 00:40:32,583
+What branch of the military were you in?
+
+572
+00:40:34,500 --> 00:40:35,708
+[sighs]
+
+573
+00:40:36,708 --> 00:40:37,791
+[groans]
+
+574
+00:40:38,625 --> 00:40:39,625
+CIA.
+
+575
+00:40:41,000 --> 00:40:42,833
+26 years in the field.
+
+576
+00:40:43,416 --> 00:40:44,375
+A spy?
+
+577
+00:40:45,416 --> 00:40:48,708
+- Wouldn't have guessed that.
+- Be a shit spy if you did.
+
+578
+00:40:52,208 --> 00:40:54,041
+- Come on, Jax.
+- [whines]
+
+579
+00:41:01,916 --> 00:41:03,916
+["Africa" by Toto]
+
+580
+00:41:12,541 --> 00:41:15,833
+<i>♪ I hear the drums echoing tonight ♪</i>
+
+581
+00:41:15,916 --> 00:41:20,916
+<i>♪ But she hears only whispers
+Of some quiet conversation… ♪</i>
+
+582
+00:41:21,000 --> 00:41:23,125
+- [Vee] Daddy?
+- [Philip] Yeah!
+
+583
+00:41:23,208 --> 00:41:24,333
+I need to pee.
+
+584
+00:41:24,958 --> 00:41:27,333
+- [Philip] Can... can you hold it?
+- [Vee] Nuh-uh.
+
+585
+00:41:27,416 --> 00:41:30,041
+<i>♪ The moonlit wings reflect the stars ♪</i>
+
+586
+00:41:30,125 --> 00:41:33,666
+<i>- ♪ That guide me towards salvation… ♪</i>
+- [Philip] Okay. Short break.
+
+587
+00:41:35,875 --> 00:41:41,208
+<i>♪ I stopped an old man along the way
+Hoping to find some… ♪</i>
+
+588
+00:42:02,000 --> 00:42:03,208
+[radio static]
+
+589
+00:42:05,750 --> 00:42:06,625
+[radio bleeps]
+
+590
+00:42:10,541 --> 00:42:11,750
+[bleeping]
+
+591
+00:42:12,833 --> 00:42:14,708
+- Hello?
+- [static]
+
+592
+00:42:19,166 --> 00:42:20,375
+[static]
+
+593
+00:42:24,166 --> 00:42:25,208
+Damn it.
+
+594
+00:42:25,291 --> 00:42:27,375
+Hello, hello. Is anyone there?
+
+595
+00:42:28,208 --> 00:42:29,750
+[static]
+
+596
+00:42:30,458 --> 00:42:31,916
+[voice breaking up]
+
+597
+00:42:36,000 --> 00:42:36,916
+Let's go!
+
+598
+00:42:40,041 --> 00:42:41,125
+[Philip] Okay, come on, Vee.
+
+599
+00:42:46,458 --> 00:42:47,625
+Vee?
+
+600
+00:42:48,125 --> 00:42:49,000
+[caws]
+
+601
+00:42:49,708 --> 00:42:50,791
+Vee!
+
+602
+00:43:00,625 --> 00:43:01,708
+[Philip sighs]
+
+603
+00:43:04,625 --> 00:43:05,750
+Let me see?
+
+604
+00:43:08,541 --> 00:43:11,625
+Yeah. No, he's got...
+He's got a bad wing, Vee.
+
+605
+00:43:12,916 --> 00:43:14,541
+Yeah. You know…
+
+606
+00:43:16,208 --> 00:43:18,541
+Sometimes, in nature, when a…
+
+607
+00:43:19,833 --> 00:43:21,333
+Creature's damaged…
+
+608
+00:43:23,708 --> 00:43:25,625
+There's nothing you can do to save them.
+
+609
+00:43:27,416 --> 00:43:29,583
+It's almost like they were meant to die.
+
+610
+00:43:32,666 --> 00:43:34,500
+[Vee] But maybe he's just tired.
+
+611
+00:43:36,583 --> 00:43:38,541
+Maybe. Yeah.
+
+612
+00:43:39,958 --> 00:43:42,625
+Uh… Here. We'll put him right up here.
+
+613
+00:43:47,708 --> 00:43:50,291
+- All right. Come on.
+- Wait, I haven't peed yet.
+
+614
+00:44:17,375 --> 00:44:18,375
+[Vee gasps]
+
+615
+00:44:22,750 --> 00:44:24,125
+[gasps]
+
+616
+00:44:24,666 --> 00:44:26,666
+Come on, Vee. Now!
+
+617
+00:44:27,125 --> 00:44:28,333
+[Lou] Fuck!
+
+618
+00:44:29,875 --> 00:44:31,875
+[mother winces]
+
+619
+00:44:33,000 --> 00:44:34,250
+[groans]
+
+620
+00:44:35,291 --> 00:44:36,583
+- Fuck.
+- What's hurtin'?
+
+621
+00:44:38,250 --> 00:44:39,125
+Nothin'.
+
+622
+00:44:42,208 --> 00:44:43,833
+Come on. We gotta keep movin'.
+
+623
+00:44:46,166 --> 00:44:51,916
+<i>♪ Gonna take some time
+To do the things we never had… ♪</i>
+
+624
+00:44:52,000 --> 00:44:54,000
+[music slowing and distorting]
+
+625
+00:44:57,833 --> 00:45:00,083
+- [music stops]
+- [Philip] Fucking kidding me!
+
+626
+00:45:00,666 --> 00:45:02,500
+Damn it. Fuck!
+
+627
+00:45:05,000 --> 00:45:06,000
+[gasps]
+
+628
+00:45:14,250 --> 00:45:17,208
+Hi. We have to walk now, okay?
+
+629
+00:45:19,000 --> 00:45:20,416
+[mother sighs]
+
+630
+00:45:21,541 --> 00:45:22,375
+[struggling]
+
+631
+00:45:23,250 --> 00:45:24,333
+[Lou sighs]
+
+632
+00:45:30,083 --> 00:45:32,125
+- I need a break.
+- Huh?
+
+633
+00:45:32,958 --> 00:45:34,916
+I need a break to warm up.
+
+634
+00:45:35,875 --> 00:45:37,083
+No time, Lou.
+
+635
+00:45:37,166 --> 00:45:40,500
+He takes breaks too.
+I can tell by the tracks. Come on.
+
+636
+00:45:58,916 --> 00:46:00,458
+[Lou] Oh, God damn it!
+
+637
+00:46:01,250 --> 00:46:02,666
+[sighs] Oh shit.
+
+638
+00:46:05,208 --> 00:46:06,583
+I'm not too cold.
+
+639
+00:46:08,291 --> 00:46:09,166
+You?
+
+640
+00:46:29,250 --> 00:46:30,541
+[winces]
+
+641
+00:46:30,625 --> 00:46:31,875
+Shit. [gasps]
+
+642
+00:46:32,458 --> 00:46:35,166
+[Lou] You walked a long way on that.
+You should've said somethin'.
+
+643
+00:46:36,625 --> 00:46:38,875
+And give you an excuse to abandon me?
+
+644
+00:46:40,291 --> 00:46:41,250
+Aah.
+
+645
+00:46:48,000 --> 00:46:49,250
+Is that for me?
+
+646
+00:46:49,333 --> 00:46:50,250
+No.
+
+647
+00:46:52,333 --> 00:46:53,583
+Well, can I have some?
+
+648
+00:46:59,416 --> 00:47:00,291
+Thanks.
+
+649
+00:47:13,041 --> 00:47:14,291
+[sighs]
+
+650
+00:47:30,041 --> 00:47:31,583
+[blowing]
+
+651
+00:47:52,625 --> 00:47:53,833
+And yet you stayed.
+
+652
+00:47:56,500 --> 00:47:58,250
+Well, should've done somethin'.
+
+653
+00:48:00,208 --> 00:48:01,166
+[mother] Yeah.
+
+654
+00:48:02,125 --> 00:48:05,250
+Thanks, Lou. That's… very helpful.
+
+655
+00:48:05,333 --> 00:48:07,541
+Just saying you could've left him sooner.
+
+656
+00:48:12,791 --> 00:48:15,291
+What is it you know
+about being with someone like him?
+
+657
+00:48:21,666 --> 00:48:23,458
+So maybe don't tell me
+what I should have done.
+
+658
+00:48:26,125 --> 00:48:28,291
+I didn't recognize who I was with him.
+
+659
+00:48:30,666 --> 00:48:32,666
+I actually felt I could fix him.
+
+660
+00:48:33,583 --> 00:48:37,625
+You know, when we met,
+he was loving, he was caring…
+
+661
+00:48:37,708 --> 00:48:40,000
+But so broken.
+
+662
+00:48:47,916 --> 00:48:49,208
+For so long, I thought…
+
+663
+00:48:50,250 --> 00:48:51,625
+Thought it was all me.
+
+664
+00:48:53,333 --> 00:48:54,291
+I thought…
+
+665
+00:48:56,375 --> 00:49:01,541
+[sighs] "Why am I failing him?
+Why isn't my love enough?"
+
+666
+00:49:05,291 --> 00:49:06,375
+I don't know.
+
+667
+00:49:09,666 --> 00:49:11,666
+That son of a bitch is a monster.
+
+668
+00:49:13,125 --> 00:49:15,125
+Whatever the hell made him this way.
+
+669
+00:49:16,375 --> 00:49:20,250
+There ain't no amount of love
+in this entire world
+
+670
+00:49:20,333 --> 00:49:22,250
+that's gonna be able to save that man.
+
+671
+00:49:30,000 --> 00:49:31,166
+He ever hurt Vee?
+
+672
+00:49:35,833 --> 00:49:36,875
+No.
+
+673
+00:49:38,458 --> 00:49:39,625
+Not yet.
+
+674
+00:49:41,083 --> 00:49:44,333
+When he would get into his moods,
+
+675
+00:49:44,416 --> 00:49:47,416
+I'd whisper to her, "Game on,"
+
+676
+00:49:48,375 --> 00:49:49,916
+and she'd run and hide.
+
+677
+00:49:54,083 --> 00:49:57,125
+Actually made it into a… a goddamn game.
+
+678
+00:50:01,791 --> 00:50:03,166
+How pathetic is that?
+
+679
+00:50:05,333 --> 00:50:09,750
+[sniffling] He always said,
+if I took Vee away, he'd kill us both.
+
+680
+00:50:15,791 --> 00:50:16,833
+Go on…
+
+681
+00:50:17,708 --> 00:50:19,250
+Tell me what I should've done.
+
+682
+00:50:22,958 --> 00:50:26,416
+I guess we've all been through things
+other people will never understand.
+
+683
+00:50:32,750 --> 00:50:33,791
+Hannah?
+
+684
+00:50:35,833 --> 00:50:37,041
+We'll get her back.
+
+685
+00:50:38,125 --> 00:50:39,625
+[barking]
+
+686
+00:50:40,208 --> 00:50:41,875
+[Hannah gasping]
+
+687
+00:50:46,541 --> 00:50:48,833
+[Jax barking]
+
+688
+00:51:21,458 --> 00:51:22,500
+[Jax barks]
+
+689
+00:51:23,500 --> 00:51:24,583
+[Hannah] Oh…
+
+690
+00:51:26,208 --> 00:51:27,541
+[Jax barking]
+
+691
+00:51:29,750 --> 00:51:30,625
+Come on.
+
+692
+00:51:31,750 --> 00:51:33,000
+[creaking]
+
+693
+00:51:36,333 --> 00:51:38,708
+[Hannah murmurs]
+Oh, shit, shit, shit, shit.
+
+694
+00:51:39,333 --> 00:51:40,583
+[grunts]
+
+695
+00:51:41,833 --> 00:51:44,041
+- [panting]
+- Slow and steady.
+
+696
+00:51:44,791 --> 00:51:45,875
+[Jax barks]
+
+697
+00:51:47,750 --> 00:51:48,750
+Home, Jax.
+
+698
+00:51:49,666 --> 00:51:51,416
+No arguments. Home.
+
+699
+00:51:51,500 --> 00:51:52,416
+Now!
+
+700
+00:51:52,500 --> 00:51:53,833
+[whining]
+
+701
+00:51:56,375 --> 00:51:57,291
+Oh shit.
+
+702
+00:51:57,375 --> 00:51:58,958
+[creaking]
+
+703
+00:51:59,666 --> 00:52:00,916
+[grunting]
+
+704
+00:52:01,958 --> 00:52:03,000
+Ah…
+
+705
+00:52:03,875 --> 00:52:05,791
+How the hell did he do this with Vee?
+
+706
+00:52:10,250 --> 00:52:11,083
+[gasps]
+
+707
+00:52:20,458 --> 00:52:21,708
+Gotta climb around it.
+
+708
+00:52:22,291 --> 00:52:23,416
+Oh shit.
+
+709
+00:52:23,500 --> 00:52:25,375
+[creaking]
+
+710
+00:52:37,875 --> 00:52:39,666
+- Whoa!
+- [whimpers]
+
+711
+00:52:41,708 --> 00:52:43,166
+- [creaking]
+- [Hannah strains]
+
+712
+00:52:44,166 --> 00:52:45,125
+[yells]
+
+713
+00:52:46,333 --> 00:52:47,625
+[struggling]
+
+714
+00:52:49,375 --> 00:52:50,791
+- Aah!
+- Come on!
+
+715
+00:52:51,958 --> 00:52:53,583
+[grunts and yells]
+
+716
+00:52:53,666 --> 00:52:54,625
+[Lou] I got you.
+
+717
+00:52:54,708 --> 00:52:56,666
+[Hannah gasping]
+
+718
+00:52:56,750 --> 00:52:57,791
+[Lou] Good job.
+
+719
+00:52:58,458 --> 00:52:59,750
+[Hannah gasps]
+
+720
+00:53:04,125 --> 00:53:05,250
+[gasping]
+
+721
+00:53:11,166 --> 00:53:12,333
+Oh!
+
+722
+00:53:16,708 --> 00:53:17,583
+[Lou] Shit.
+
+723
+00:53:17,666 --> 00:53:19,625
+[groans] Jesus.
+
+724
+00:53:20,416 --> 00:53:22,208
+[grunts] Not now. God damn it.
+
+725
+00:53:23,208 --> 00:53:24,083
+[gasping]
+
+726
+00:53:24,166 --> 00:53:26,708
+- Lou, what's the matter?
+- Nothing.
+
+727
+00:53:29,333 --> 00:53:32,041
+- [gasps]
+- Lou! [screams]
+
+728
+00:53:32,125 --> 00:53:33,250
+[both yelling]
+
+729
+00:53:45,041 --> 00:53:49,000
+[coughing]
+
+730
+00:53:50,083 --> 00:53:51,166
+[spits]
+
+731
+00:53:52,083 --> 00:53:53,583
+[coughs]
+
+732
+00:53:53,666 --> 00:53:55,250
+[wheezes]
+
+733
+00:53:55,333 --> 00:53:56,625
+[sobs]
+
+734
+00:53:57,416 --> 00:53:58,916
+[grunts and gasps]
+
+735
+00:53:59,708 --> 00:54:01,416
+[strains]
+
+736
+00:54:01,500 --> 00:54:04,083
+[gasping]
+
+737
+00:54:06,166 --> 00:54:07,458
+Oh God.
+
+738
+00:54:07,541 --> 00:54:09,541
+Lou, wake up. Lou.
+
+739
+00:54:10,125 --> 00:54:11,375
+- Oh…
+- [coughs]
+
+740
+00:54:11,458 --> 00:54:13,458
+- [yells]
+- Oh, thank God.
+
+741
+00:54:13,541 --> 00:54:14,500
+Let me help you up.
+
+742
+00:54:14,583 --> 00:54:16,583
+- [grunts] Get off me.
+- [gasps]
+
+743
+00:54:18,541 --> 00:54:19,458
+[gasps]
+
+744
+00:54:19,541 --> 00:54:20,833
+[both groaning]
+
+745
+00:54:23,791 --> 00:54:25,708
+I can help you if you just let me.
+
+746
+00:54:25,791 --> 00:54:27,416
+[Lou] I don't need your help.
+
+747
+00:54:28,541 --> 00:54:30,416
+[groaning]
+
+748
+00:54:33,750 --> 00:54:35,541
+- [crack]
+- [groans] Oh, fuck!
+
+749
+00:54:37,041 --> 00:54:39,958
+[grunts] Get up.
+We just lost an hour on him.
+
+750
+00:54:41,500 --> 00:54:43,375
+[gasping]
+
+751
+00:54:45,875 --> 00:54:47,291
+[groans]
+
+752
+00:54:50,958 --> 00:54:52,500
+[gasping]
+
+753
+00:54:53,208 --> 00:54:55,125
+- [Lou groaning]
+- [sniffles and spits]
+
+754
+00:55:03,166 --> 00:55:04,375
+[crow cawing]
+
+755
+00:55:20,041 --> 00:55:21,125
+[Hannah grunts]
+
+756
+00:55:25,333 --> 00:55:26,333
+[static crackles]
+
+757
+00:55:26,416 --> 00:55:28,958
+Hey, I told you to leave that behind.
+
+758
+00:55:29,041 --> 00:55:32,041
+Storm's passed.
+I'm gonna climb up to that hilltop.
+
+759
+00:55:32,125 --> 00:55:33,916
+- Try to connect.
+- There's no time.
+
+760
+00:55:34,416 --> 00:55:37,416
+God damn it. Can you stop
+bein' so stubborn? We need help.
+
+761
+00:55:37,500 --> 00:55:39,583
+- There is no one who can help us.
+- [sighs] Shit.
+
+762
+00:55:39,666 --> 00:55:43,666
+- I'm all you've got. Now keep movin'.
+- [sighs] Why are you helpin' me, Lou?
+
+763
+00:55:43,750 --> 00:55:45,500
+- Huh?
+- Eagle Bay's just ahead.
+
+764
+00:55:46,000 --> 00:55:47,708
+- Don't slow me down.
+- God damn it.
+
+765
+00:55:48,708 --> 00:55:49,708
+[sighs]
+
+766
+00:56:01,041 --> 00:56:02,541
+[sighs] We missed them.
+
+767
+00:56:02,625 --> 00:56:04,833
+No one's comin' or goin'
+in water this rough.
+
+768
+00:56:05,833 --> 00:56:07,958
+- [Hannah] Then what's his plan?
+- Over here.
+
+769
+00:56:40,666 --> 00:56:41,875
+[grunts]
+
+770
+00:56:44,000 --> 00:56:45,583
+[creaking]
+
+771
+00:56:58,750 --> 00:57:00,458
+- [grunts]
+- [Hannah] Vee!
+
+772
+00:57:01,416 --> 00:57:02,291
+Vee!
+
+773
+00:57:02,375 --> 00:57:03,375
+[Lou gasps]
+
+774
+00:57:03,458 --> 00:57:05,333
+- Where did you take her?
+- Stop.
+
+775
+00:57:05,416 --> 00:57:07,500
+- [muffled sobs]
+- He's fucking with you.
+
+776
+00:57:08,500 --> 00:57:10,083
+[muffled cries]
+
+777
+00:57:10,166 --> 00:57:11,458
+We can do this all day.
+
+778
+00:57:11,541 --> 00:57:12,875
+[sobbing]
+
+779
+00:57:15,500 --> 00:57:16,958
+[weeping]
+
+780
+00:57:39,458 --> 00:57:41,875
+[Lou] Maybe you're right.
+Maybe we do need help.
+
+781
+00:57:42,708 --> 00:57:44,000
+[Hannah sighs]
+
+782
+00:57:44,083 --> 00:57:45,625
+Go back to that hill.
+
+783
+00:57:46,125 --> 00:57:49,708
+See if you can raise Rankin.
+Emergency services are channel 16.
+
+784
+00:57:49,791 --> 00:57:51,625
+Meet me back here when you're done.
+
+785
+00:57:52,416 --> 00:57:53,458
+Thank you.
+
+786
+00:57:54,291 --> 00:57:55,875
+What are you gonna do?
+
+787
+00:57:55,958 --> 00:57:57,250
+[Lou] I need to rest.
+
+788
+00:57:57,333 --> 00:57:58,500
+[gasping] Go on.
+
+789
+00:57:59,916 --> 00:58:01,166
+Hey, hold up.
+
+790
+00:58:03,708 --> 00:58:05,333
+Try not to blow your brains out.
+
+791
+00:58:13,166 --> 00:58:14,250
+[sighs]
+
+792
+00:58:58,458 --> 00:59:00,333
+[whirring]
+
+793
+00:59:08,208 --> 00:59:10,208
+[gasping]
+
+794
+00:59:24,291 --> 00:59:25,708
+There we are. [chuckles]
+
+795
+00:59:26,791 --> 00:59:27,875
+Frozen in time.
+
+796
+00:59:28,666 --> 00:59:30,083
+Together forever.
+
+797
+00:59:30,666 --> 00:59:32,041
+Wanna do another one?
+
+798
+00:59:40,541 --> 00:59:41,625
+Did you know…
+
+799
+00:59:43,250 --> 00:59:48,000
+That there are hand prints like these
+in caves all over the world?
+
+800
+00:59:48,083 --> 00:59:51,333
+And long after you
+and Mommy and I are all dead…
+
+801
+00:59:52,750 --> 00:59:55,708
+These hand prints are still gonna be here.
+
+802
+01:00:16,416 --> 01:00:17,916
+[Philip grunts]
+
+803
+01:00:18,000 --> 01:00:19,875
+[Philip breathing shakily]
+
+804
+01:00:28,583 --> 01:00:29,958
+[owl hoots]
+
+805
+01:00:34,958 --> 01:00:36,250
+[gasps and shudders]
+
+806
+01:00:41,625 --> 01:00:42,875
+[sighs]
+
+807
+01:00:47,291 --> 01:00:48,875
+[panting]
+
+808
+01:00:50,791 --> 01:00:52,458
+[groans] Hello?
+
+809
+01:00:52,541 --> 01:00:53,541
+[static crackling]
+
+810
+01:00:53,625 --> 01:00:56,708
+[Hannah, breaking up] <i>Hello?</i>
+<i>Can anyone hear me? Hello?</i>
+
+811
+01:00:56,791 --> 01:00:58,000
+[chainsaw roars]
+
+812
+01:01:00,833 --> 01:01:02,041
+Can anybody hear me?
+
+813
+01:01:04,416 --> 01:01:05,333
+Hello?
+
+814
+01:01:06,500 --> 01:01:08,083
+Hello, anybody?
+
+815
+01:01:08,166 --> 01:01:09,625
+- God damn it.
+<i>- This is Sheriff Rankin.</i>
+
+816
+01:01:09,708 --> 01:01:10,958
+- [gasps]
+<i>- Who is this? Over.</i>
+
+817
+01:01:11,041 --> 01:01:13,333
+Sheriff! [laughs] Sheriff Rankin.
+
+818
+01:01:13,416 --> 01:01:14,875
+Oh God. Thank God.
+
+819
+01:01:14,958 --> 01:01:16,250
+This is... this is Hannah Dawson.
+
+820
+01:01:16,333 --> 01:01:19,416
+[breaking up] <i>…kidnapped.</i>
+
+821
+01:01:19,500 --> 01:01:20,500
+Kidnapped?
+
+822
+01:01:23,250 --> 01:01:24,375
+Hannah, can you hear me?
+
+823
+01:01:24,458 --> 01:01:25,833
+<i>Can you repeat that, please?</i>
+
+824
+01:01:25,916 --> 01:01:27,250
+Uh... Okay.
+
+825
+01:01:27,333 --> 01:01:29,708
+[gasps] My daughter
+was kidnapped by her father.
+
+826
+01:01:29,791 --> 01:01:32,250
+[voice breaking up] <i>I'm…</i>
+
+827
+01:01:32,333 --> 01:01:33,583
+<i>Lou Adell is with me…</i>
+
+828
+01:01:33,666 --> 01:01:35,208
+Hannah, can you please confirm?
+
+829
+01:01:35,291 --> 01:01:37,458
+[breaking up] <i>Hannah Dawson?</i>
+<i>Can you hear me?</i>
+
+830
+01:01:37,541 --> 01:01:38,625
+What?
+
+831
+01:01:38,708 --> 01:01:40,083
+<i>Say that… say that again?</i>
+
+832
+01:01:40,166 --> 01:01:41,666
+- Come on, come on, come on.
+- [static]
+
+833
+01:01:41,750 --> 01:01:42,833
+Sheriff?
+
+834
+01:01:43,958 --> 01:01:46,708
+[sighs] Oh fuck. Okay…
+
+835
+01:01:46,791 --> 01:01:47,666
+[static]
+
+836
+01:01:47,750 --> 01:01:48,750
+Shit.
+
+837
+01:01:50,500 --> 01:01:51,666
+Torres, come in.
+
+838
+01:01:53,000 --> 01:01:55,583
+- [Torres] <i>Go, Sheriff.</i>
+- Listen, we got a situation.
+
+839
+01:01:56,083 --> 01:01:57,416
+This is gonna sound a bit crazy,
+
+840
+01:01:57,500 --> 01:02:02,250
+but I think Hannah Dawson's daughter
+has been kidnapped by… by her father.
+
+841
+01:02:03,291 --> 01:02:04,333
+<i>What?</i>
+
+842
+01:02:05,083 --> 01:02:08,833
+Listen, let's put it on the wire,
+right away,
+
+843
+01:02:08,916 --> 01:02:10,750
+in case she's taken off the island.
+
+844
+01:02:11,333 --> 01:02:14,791
+Okay? Hannah and Vee Dawson and Lou Adell.
+
+845
+01:02:14,875 --> 01:02:16,250
+I think she mentioned Lou.
+
+846
+01:03:46,833 --> 01:03:49,041
+[footsteps]
+
+847
+01:03:50,208 --> 01:03:51,125
+The guns.
+
+848
+01:03:52,125 --> 01:03:53,041
+Slowly.
+
+849
+01:04:16,250 --> 01:04:17,541
+[clattering]
+
+850
+01:04:29,500 --> 01:04:30,791
+Hello, Philip.
+
+851
+01:04:34,833 --> 01:04:35,958
+Don't worry about her.
+
+852
+01:04:36,916 --> 01:04:39,041
+I've made sure she'll sleep through this.
+
+853
+01:04:39,833 --> 01:04:42,291
+Just tell me one thing.
+And be honest here.
+
+854
+01:04:43,666 --> 01:04:45,125
+Why'd you sell me out?
+
+855
+01:04:48,791 --> 01:04:51,708
+I knew you'd track down Hannah and Vee
+sooner or later.
+
+856
+01:04:51,791 --> 01:04:53,666
+I wasn't gonna be able
+to protect them forever.
+
+857
+01:04:53,750 --> 01:04:56,875
+Protect them? [scoffs]
+All of this is happening because of you.
+
+858
+01:04:58,416 --> 01:05:01,708
+Okay? And Hannah may be too naive
+to... to see it, but I don't.
+
+859
+01:05:01,791 --> 01:05:03,333
+Hannah doesn't know who I am.
+
+860
+01:05:09,000 --> 01:05:10,000
+[laughs]
+
+861
+01:05:10,666 --> 01:05:12,666
+You still can't even admit I'm your son.
+
+862
+01:05:14,708 --> 01:05:16,000
+[sighs]
+
+863
+01:05:18,958 --> 01:05:21,791
+So what's the plan, Philip?
+Why the elaborate chase?
+
+864
+01:05:22,291 --> 01:05:24,708
+Why let us track you?
+You don't wanna hurt your kid.
+
+865
+01:05:24,791 --> 01:05:28,708
+Did you know that Vee is the same age
+as I was when those... those men took me?
+
+866
+01:05:30,041 --> 01:05:32,500
+Yeah, but they weren't as nice as, uh…
+
+867
+01:05:33,958 --> 01:05:35,041
+As I'm being to her.
+
+868
+01:05:36,833 --> 01:05:39,875
+Can you appreciate that?
+The symmetry of that?
+
+869
+01:05:42,291 --> 01:05:44,708
+I thought my mommy
+was comin' back to save me, too.
+
+870
+01:05:44,791 --> 01:05:48,458
+It was a trap. If I'd tried to save you,
+they would have had us both.
+
+871
+01:05:48,541 --> 01:05:50,375
+Bullshit. You wanted
+to maintain your cover.
+
+872
+01:05:50,458 --> 01:05:52,583
+I was a pawn for your mission.
+Nothin' else.
+
+873
+01:05:52,666 --> 01:05:57,291
+- I had you rescued. I got you out of Iran.
+- Then why didn't you come back with me?
+
+874
+01:05:57,375 --> 01:05:58,416
+Here's why.
+
+875
+01:05:59,166 --> 01:06:02,875
+Because you chose the fucking CIA
+over your own child.
+
+876
+01:06:04,041 --> 01:06:06,041
+Yeah, how'd that work out for you? Hmm?
+
+877
+01:06:06,708 --> 01:06:09,291
+I mean, did you guys fuck up anything
+worse than you fucked up Iran?
+
+878
+01:06:11,500 --> 01:06:14,416
+And then you steal my wife
+and... and my kid...
+
+879
+01:06:14,500 --> 01:06:17,416
+Hannah and Vee had nothing to do
+with my mistakes. Leave them out of this.
+
+880
+01:06:17,500 --> 01:06:19,583
+Oh, spare me the fuckin' morality lesson.
+
+881
+01:06:19,666 --> 01:06:21,666
+You gave up that right a long time ago.
+
+882
+01:06:24,458 --> 01:06:25,625
+It's not too late.
+
+883
+01:06:27,625 --> 01:06:29,791
+You move, I'mma put a bullet in you.
+
+884
+01:06:31,333 --> 01:06:32,541
+It's not too late.
+
+885
+01:06:33,333 --> 01:06:35,500
+Leave Vee with me and go.
+
+886
+01:06:36,625 --> 01:06:38,250
+I'll throw them off your trail.
+
+887
+01:06:39,916 --> 01:06:41,875
+Philip, listen to me.
+
+888
+01:06:41,958 --> 01:06:43,041
+You're right.
+
+889
+01:06:43,750 --> 01:06:45,833
+I didn't protect you when you were a kid.
+
+890
+01:06:45,916 --> 01:06:47,208
+So let me do it now.
+
+891
+01:06:47,291 --> 01:06:48,791
+[chuckles]
+
+892
+01:06:48,875 --> 01:06:49,833
+Shut up.
+
+893
+01:06:49,916 --> 01:06:51,333
+What, you wanna kill me?
+
+894
+01:06:52,541 --> 01:06:53,500
+Do it.
+
+895
+01:06:55,083 --> 01:06:58,291
+Before I knew you took Vee last night,
+I had my rifle pressed against my head.
+
+896
+01:06:58,375 --> 01:06:59,416
+I'm not afraid to go.
+
+897
+01:07:00,375 --> 01:07:04,041
+[mumbles] You just can't stop
+messin' with my head, can't you?
+
+898
+01:07:04,125 --> 01:07:05,833
+Kid, I wouldn't even know where to start.
+
+899
+01:07:07,250 --> 01:07:10,083
+The minute I heard you blew yourself up,
+I knew it was time.
+
+900
+01:07:10,166 --> 01:07:13,208
+I thought Hannah and Vee were safe.
+My mission was complete.
+
+901
+01:07:13,291 --> 01:07:14,750
+But you tricked me there, didn't you?
+
+902
+01:07:16,500 --> 01:07:18,166
+You always were smarter than me.
+
+903
+01:07:21,208 --> 01:07:23,666
+Beat my ass at chess
+when you were five years old.
+
+904
+01:07:26,250 --> 01:07:27,416
+Remember that?
+
+905
+01:07:30,291 --> 01:07:31,291
+I do.
+
+906
+01:07:37,375 --> 01:07:38,708
+Oh, Philip.
+
+907
+01:07:40,458 --> 01:07:41,708
+You know what?
+
+908
+01:07:45,250 --> 01:07:48,125
+For once, we're playin' my game.
+
+909
+01:07:59,333 --> 01:08:01,208
+It's time to end this legacy.
+
+910
+01:08:01,291 --> 01:08:03,958
+Put this whole family out of its misery.
+
+911
+01:08:07,166 --> 01:08:08,208
+Philip,
+
+912
+01:08:08,791 --> 01:08:10,125
+you're her father.
+
+913
+01:08:10,208 --> 01:08:12,166
+And you're my mother.
+
+914
+01:08:12,250 --> 01:08:13,791
+[grunts]
+
+915
+01:08:15,166 --> 01:08:16,916
+Oh my God…
+
+916
+01:08:17,000 --> 01:08:19,125
+[both yelling]
+
+917
+01:08:22,875 --> 01:08:24,041
+[groans]
+
+918
+01:08:26,666 --> 01:08:28,083
+[screams]
+
+919
+01:08:35,458 --> 01:08:36,791
+[yells]
+
+920
+01:08:44,333 --> 01:08:45,583
+[growls]
+
+921
+01:08:58,000 --> 01:08:59,333
+[screams]
+
+922
+01:08:59,416 --> 01:09:00,958
+[sounds fade]
+
+923
+01:09:02,875 --> 01:09:04,750
+[muffled gasping]
+
+924
+01:09:21,958 --> 01:09:23,958
+[muffled screaming]
+
+925
+01:09:27,708 --> 01:09:29,166
+[Lou] <i>No!</i>
+
+926
+01:09:29,250 --> 01:09:30,791
+[man shouts]
+
+927
+01:09:33,041 --> 01:09:34,916
+<i>Mom! Mom!</i>
+
+928
+01:09:35,416 --> 01:09:36,500
+[gasps]
+
+929
+01:09:37,458 --> 01:09:39,958
+We'll be waiting for you
+at the lighthouse.
+
+930
+01:09:40,541 --> 01:09:42,000
+Make sure you bring Hannah.
+
+931
+01:09:42,500 --> 01:09:43,750
+Don't take too long.
+
+932
+01:09:45,541 --> 01:09:47,666
+[grunts and gasps]
+
+933
+01:09:48,791 --> 01:09:49,791
+Fuck.
+
+934
+01:09:58,833 --> 01:10:01,583
+[man on radio]<i> Just checking in on ya.</i>
+<i>How are you doing out there?</i>
+
+935
+01:10:01,666 --> 01:10:04,458
+- Talk to me, Deputy.
+- Still no hits on the APBs.
+
+936
+01:10:04,541 --> 01:10:07,666
+I notified ATF about the bomb in the truck
+and the coroner about the body.
+
+937
+01:10:07,750 --> 01:10:10,250
+They're sending teams
+when the weather lets up.
+
+938
+01:10:10,333 --> 01:10:11,875
+[phone ringing]
+
+939
+01:10:13,666 --> 01:10:15,625
+Orcas Island Sheriff's Department.
+
+940
+01:10:15,708 --> 01:10:16,750
+Yes, sir.
+
+941
+01:10:16,833 --> 01:10:19,125
+Sheriff, it's the federal marshals.
+
+942
+01:10:21,958 --> 01:10:24,958
+- This is Rankin. Who's this?
+<i>- Sheriff, Dominick Crown here.</i>
+
+943
+01:10:25,041 --> 01:10:26,666
+<i>Did you receive
+our facsimile transmission?</i>
+
+944
+01:10:26,750 --> 01:10:28,083
+Yeah, I got it right here.
+
+945
+01:10:28,583 --> 01:10:31,875
+<i>We've seen the APB
+for the woman you know as Lou Adell.</i>
+
+946
+01:10:31,958 --> 01:10:34,000
+<i>Is she a match
+for the person in that photo?</i>
+
+947
+01:10:34,083 --> 01:10:36,125
+[Rankin] Yeah.
+Yeah, it sure looks like her.
+
+948
+01:10:36,208 --> 01:10:38,416
+<i>- How confident are you, Sheriff?</i>
+- It's her.
+
+949
+01:10:38,500 --> 01:10:41,000
+- [fax machine whirs]
+<i>- And the second individual?</i>
+
+950
+01:10:41,500 --> 01:10:43,541
+- [bleep]
+- [Rankin] Hang on one second.
+
+951
+01:10:43,625 --> 01:10:45,208
+<i>Do you recognize him?</i>
+
+952
+01:10:45,291 --> 01:10:48,250
+No. Are you telling me
+that this guy is involved?
+
+953
+01:10:48,333 --> 01:10:51,125
+<i>Do you have any intel
+on the location of these individuals?</i>
+
+954
+01:10:51,208 --> 01:10:53,500
+<i>- Are they together?</i>
+- Well, I don't know if they're together.
+
+955
+01:10:53,583 --> 01:10:57,250
+What I believe is that they're headed to
+Eagle Bay, on the west side of our island.
+
+956
+01:10:57,333 --> 01:11:00,250
+<i>We need to make sure no civilians
+go anywhere near that location.</i>
+
+957
+01:11:00,333 --> 01:11:01,958
+<i>Set up roadblocks and cordon the area.</i>
+
+958
+01:11:02,041 --> 01:11:04,500
+There's a kidnapped girl
+and her mother out there.
+
+959
+01:11:05,500 --> 01:11:07,083
+<i>- Hold.</i>
+- Excuse me?
+
+960
+01:11:07,166 --> 01:11:08,833
+[hold music plays]
+
+961
+01:11:08,916 --> 01:11:11,708
+Asshole put me on hold. Unbelievable.
+
+962
+01:11:12,416 --> 01:11:13,708
+[scoffs]
+
+963
+01:11:13,791 --> 01:11:14,916
+Un-fuckin'-believable.
+
+964
+01:11:15,000 --> 01:11:17,291
+- [marshal] <i>Sheriff Rankin?</i>
+- Yeah, right here.
+
+965
+01:11:17,375 --> 01:11:19,916
+<i>The male fugitive
+is US Army Special Forces,</i>
+
+966
+01:11:20,000 --> 01:11:22,500
+<i>convicted in the murder
+of numerous civilians.</i>
+
+967
+01:11:22,583 --> 01:11:25,750
+<i>The female is a high-priority target
+for the CIA.</i>
+
+968
+01:11:25,833 --> 01:11:27,500
+The CIA? Lou Adell?
+
+969
+01:11:27,583 --> 01:11:31,000
+<i>This investigation is now under
+the jurisdiction of the US Marshals.</i>
+
+970
+01:11:31,083 --> 01:11:33,000
+<i>Lethal force has been authorized.</i>
+
+971
+01:11:33,083 --> 01:11:35,083
+<i>Do not allow any approach to Eagle Bay.</i>
+
+972
+01:11:35,166 --> 01:11:37,166
+<i>- Not by your department, not...</i>
+- Whoa, whoa, whoa.
+
+973
+01:11:37,250 --> 01:11:40,291
+There... there is a kidnapped girl
+and her mother out there.
+
+974
+01:11:40,375 --> 01:11:42,166
+<i>Stay out of our way, Sheriff.</i>
+
+975
+01:11:43,458 --> 01:11:45,625
+- [hangs up]
+- [engaged tone]
+
+976
+01:11:48,166 --> 01:11:50,416
+- [Lou groaning]
+- [Hannah panting]
+
+977
+01:11:53,416 --> 01:11:55,958
+[Hannah] Lou, sorry it took me so long.
+
+978
+01:11:56,041 --> 01:11:59,166
+I tried to get as high as I could, but…
+
+979
+01:11:59,250 --> 01:12:02,166
+- [groans]
+- Jesus. Oh shit.
+
+980
+01:12:02,750 --> 01:12:05,583
+Oh God, oh God, oh God. Okay, wait, wait.
+Let me help. Let me help.
+
+981
+01:12:05,666 --> 01:12:07,041
+- [groans]
+- [gasps]
+
+982
+01:12:07,833 --> 01:12:09,666
+- Did he do this?
+- [groans]
+
+983
+01:12:10,416 --> 01:12:12,500
+And Vee? Is she… is she all right?
+
+984
+01:12:12,583 --> 01:12:16,458
+She's okay for now.
+He's taking her to the lighthouse.
+
+985
+01:12:17,250 --> 01:12:18,416
+- Okay, wait, wait, wait.
+- Wait.
+
+986
+01:12:18,500 --> 01:12:20,125
+- Move your hand right now.
+- Okay…
+
+987
+01:12:21,041 --> 01:12:22,083
+Do it quick...
+
+988
+01:12:22,166 --> 01:12:23,416
+[screams]
+
+989
+01:12:24,375 --> 01:12:25,583
+- [groans]
+- Oh shit.
+
+990
+01:12:25,666 --> 01:12:28,375
+- Pack the wound.
+- I'm coming. I'm coming. I'm coming.
+
+991
+01:12:28,875 --> 01:12:31,583
+Fill it with gauze.
+As... as much as you can.
+
+992
+01:12:31,666 --> 01:12:33,666
+[Hannah whimpers] Oh God.
+
+993
+01:12:34,583 --> 01:12:36,208
+- Oh shit.
+- Come on, deeper.
+
+994
+01:12:36,291 --> 01:12:38,500
+- Really pack it in. [grunts]
+- I'm trying.
+
+995
+01:12:38,583 --> 01:12:40,125
+- [groans]
+- Jesus, Lou.
+
+996
+01:12:40,208 --> 01:12:42,583
+- I'm so sorry I dragged you into this.
+- [moans]
+
+997
+01:12:42,666 --> 01:12:44,583
+Put your hand here. Right. Press down.
+
+998
+01:12:44,666 --> 01:12:46,500
+Okay, good. I gotta...
+I gotta grab some tape.
+
+999
+01:12:46,583 --> 01:12:49,291
+Hannah. Did you reach the sheriff?
+
+1000
+01:12:49,375 --> 01:12:50,916
+- Uh, I don't know.
+- Leave it.
+
+1001
+01:12:51,000 --> 01:12:52,583
+- [Hannah] Wait, uh...
+- It's fine.
+
+1002
+01:13:05,208 --> 01:13:07,625
+I found those at the cabin.
+I meant to tell you.
+
+1003
+01:13:10,750 --> 01:13:11,750
+You're lying.
+
+1004
+01:13:33,625 --> 01:13:35,125
+[gasps]
+
+1005
+01:13:36,458 --> 01:13:38,125
+This message isn't for me, is it?
+
+1006
+01:13:38,708 --> 01:13:40,416
+[sighs] None of them are.
+
+1007
+01:13:45,708 --> 01:13:47,208
+[breathing shakily]
+
+1008
+01:13:48,291 --> 01:13:49,541
+Say it.
+
+1009
+01:13:51,208 --> 01:13:52,583
+I need you to say it.
+
+1010
+01:13:57,208 --> 01:13:58,208
+Say it!
+
+1011
+01:14:00,000 --> 01:14:02,791
+He's… my son.
+
+1012
+01:14:04,958 --> 01:14:06,250
+[gasps]
+
+1013
+01:14:07,833 --> 01:14:08,708
+[exhales]
+
+1014
+01:14:09,500 --> 01:14:13,708
+When I was stationed in Iran, I had
+to get close to a very dangerous man.
+
+1015
+01:14:13,791 --> 01:14:15,791
+- [gasps]
+- Very close.
+
+1016
+01:14:16,708 --> 01:14:17,958
+No, no, no, no.
+
+1017
+01:14:18,458 --> 01:14:19,500
+[sighs] Oh God…
+
+1018
+01:14:20,041 --> 01:14:22,125
+I kept the baby to keep my cover.
+
+1019
+01:14:22,208 --> 01:14:25,958
+You mean… you mean Philip?
+The baby? You mean your son?
+
+1020
+01:14:26,041 --> 01:14:27,375
+[sighs]
+
+1021
+01:14:27,458 --> 01:14:28,916
+So what is this? Some game?
+
+1022
+01:14:29,000 --> 01:14:32,083
+You fucking with me?
+What, you tell him where we were, or…
+
+1023
+01:14:32,166 --> 01:14:34,500
+- What... what is this?
+- No. I wasn't helping him.
+
+1024
+01:14:34,583 --> 01:14:37,250
+- I was helping you. You and Vee.
+- Stop lying to me.
+
+1025
+01:14:37,333 --> 01:14:39,333
+- Tell me the goddamn truth!
+- [yells]
+
+1026
+01:14:40,458 --> 01:14:43,000
+I got you to this island.
+
+1027
+01:14:43,083 --> 01:14:44,958
+Your old friend from college?
+
+1028
+01:14:45,041 --> 01:14:49,208
+The one who told you about the beautiful
+secluded place on Orcas Island
+
+1029
+01:14:49,291 --> 01:14:51,000
+with the cheap rent?
+
+1030
+01:14:51,083 --> 01:14:54,208
+I had her run into you on the street.
+[sighs]
+
+1031
+01:14:55,250 --> 01:14:56,375
+[scoffs]
+
+1032
+01:14:57,666 --> 01:14:59,666
+I tried to stop him.
+
+1033
+01:15:01,750 --> 01:15:03,416
+I blackmailed the CIA
+
+1034
+01:15:03,500 --> 01:15:06,416
+to force an investigation
+into what he did in El Salvador.
+
+1035
+01:15:07,250 --> 01:15:10,166
+- You think you saved us?
+- I knew he'd track you eventually.
+
+1036
+01:15:10,250 --> 01:15:13,583
+You didn't save us.
+I got Vee away from him.
+
+1037
+01:15:14,833 --> 01:15:17,333
+I took care of her every goddamn day
+and made sure she was safe.
+
+1038
+01:15:17,416 --> 01:15:19,916
+Now she's out there with him
+because of you.
+
+1039
+01:15:20,000 --> 01:15:22,208
+You're no damn hero.
+You're a fucking coward.
+
+1040
+01:15:22,291 --> 01:15:24,625
+- Wow.
+- All that rage that that man felt.
+
+1041
+01:15:24,708 --> 01:15:26,708
+All the rage inside of that man
+that he felt,
+
+1042
+01:15:26,791 --> 01:15:29,833
+that he aimed towards me,
+is because of you.
+
+1043
+01:15:29,916 --> 01:15:32,541
+Not everybody is meant to be a mother.
+
+1044
+01:15:33,125 --> 01:15:34,208
+[sighs]
+
+1045
+01:15:34,291 --> 01:15:35,375
+[coughs]
+
+1046
+01:15:39,875 --> 01:15:41,166
+Yeah, maybe not.
+
+1047
+01:15:43,375 --> 01:15:45,583
+But you could have been
+a little more human.
+
+1048
+01:15:47,833 --> 01:15:50,166
+You drove past our trailer every day.
+
+1049
+01:15:50,250 --> 01:15:52,625
+You drove past
+your own granddaughter, Lou.
+
+1050
+01:15:52,708 --> 01:15:56,500
+You didn't talk to her.
+You didn't speak to her.
+
+1051
+01:15:56,583 --> 01:15:58,416
+You didn't look at her.
+
+1052
+01:15:59,208 --> 01:16:02,250
+What kind of person
+could do that to their own family?
+
+1053
+01:16:07,250 --> 01:16:10,125
+[grunts] Come on. We gotta keep moving.
+
+1054
+01:16:10,208 --> 01:16:11,541
+There ain't no more "we."
+
+1055
+01:16:11,625 --> 01:16:13,916
+Hannah, you don't know
+where they're going.
+
+1056
+01:16:14,000 --> 01:16:16,625
+You said the lighthouse.
+I'll follow the coastline.
+
+1057
+01:16:16,708 --> 01:16:19,083
+Not on your own. It's a trap.
+
+1058
+01:16:19,166 --> 01:16:23,291
+- Please. There's one thing I'm good for.
+- Not anymore.
+
+1059
+01:16:23,875 --> 01:16:25,333
+You'll just slow me down.
+
+1060
+01:16:31,583 --> 01:16:33,583
+[cicadas chirping]
+
+1061
+01:16:42,583 --> 01:16:43,625
+[gasps]
+
+1062
+01:17:04,958 --> 01:17:06,208
+[Philip screaming] <i>Mama!</i>
+
+1063
+01:17:06,291 --> 01:17:07,708
+<i>Mama!</i>
+
+1064
+01:17:07,791 --> 01:17:09,833
+<i>Mama! Mom!</i>
+
+1065
+01:17:16,416 --> 01:17:17,416
+[crash]
+
+1066
+01:17:37,833 --> 01:17:39,041
+[chirps]
+
+1067
+01:17:51,416 --> 01:17:52,666
+[Jax growls]
+
+1068
+01:17:55,708 --> 01:17:56,916
+[whimpers]
+
+1069
+01:18:04,833 --> 01:18:06,833
+[Jax barking]
+
+1070
+01:18:09,791 --> 01:18:10,833
+- Jax.
+- [barking]
+
+1071
+01:18:11,833 --> 01:18:12,875
+[whining]
+
+1072
+01:18:14,500 --> 01:18:16,083
+- [barking]
+- [engine idling]
+
+1073
+01:18:17,041 --> 01:18:18,541
+[groans]
+
+1074
+01:18:20,750 --> 01:18:22,000
+- [grunts]
+- [Rankin] Lou!
+
+1075
+01:18:23,083 --> 01:18:24,500
+Are you okay?
+
+1076
+01:18:25,250 --> 01:18:27,541
+Never thought I'd be excited to see you.
+
+1077
+01:18:27,625 --> 01:18:29,166
+- First time for everything.
+- [sighs]
+
+1078
+01:18:29,250 --> 01:18:31,250
+- Where's Hannah?
+- On her way to the lighthouse.
+
+1079
+01:18:31,333 --> 01:18:32,833
+And her daughter?
+
+1080
+01:18:32,916 --> 01:18:35,208
+- Already there with the…
+- Okay.
+
+1081
+01:18:36,583 --> 01:18:37,500
+…the kidnapper.
+
+1082
+01:18:38,208 --> 01:18:41,750
+He's armed. Very dangerous.
+
+1083
+01:18:41,833 --> 01:18:43,833
+That's exactly what the feds said
+about you.
+
+1084
+01:18:44,333 --> 01:18:47,416
+You stay here. I'll send someone for you
+as soon as the road's clear.
+
+1085
+01:18:47,500 --> 01:18:51,416
+Wait. For fuck's sake, help me outside.
+I'm suffocating in here.
+
+1086
+01:18:51,500 --> 01:18:54,083
+- Come on. I got this.
+- [groans]
+
+1087
+01:18:54,666 --> 01:18:55,541
+[Lou sighs]
+
+1088
+01:18:55,625 --> 01:18:58,041
+You gonna tell me why
+the CIA's lookin' for you, Lou?
+
+1089
+01:18:58,125 --> 01:19:00,166
+[Lou] I used some evidence I held onto.
+
+1090
+01:19:00,250 --> 01:19:01,833
+- [groans]
+- What kind of evidence?
+
+1091
+01:19:03,500 --> 01:19:07,083
+Documents. Proving CIA involvement
+in the coup in Iran.
+
+1092
+01:19:07,166 --> 01:19:10,208
+Ah. I can see why
+they'd be pissed about that.
+
+1093
+01:19:10,291 --> 01:19:12,208
+- [sighs]
+- Lou, they're on their way.
+
+1094
+01:19:12,291 --> 01:19:14,583
+[Lou] Fuck, they won't care
+about collateral damage.
+
+1095
+01:19:14,666 --> 01:19:16,541
+You gotta get Hannah and Vee out of there.
+
+1096
+01:19:16,625 --> 01:19:17,583
+- Ow!
+- [Rankin] Here.
+
+1097
+01:19:17,666 --> 01:19:18,500
+[Lou] Come on.
+
+1098
+01:19:19,000 --> 01:19:22,291
+[groans] This thing starts up again,
+I'm gonna bleed out.
+
+1099
+01:19:23,583 --> 01:19:26,166
+Will you get the first-aid kit?
+I left it in there.
+
+1100
+01:19:26,250 --> 01:19:27,666
+[groans]
+
+1101
+01:19:30,125 --> 01:19:31,625
+[Lou whistles]
+
+1102
+01:19:34,750 --> 01:19:35,875
+[grunts] Okay.
+
+1103
+01:19:39,208 --> 01:19:40,750
+[engine revs]
+
+1104
+01:19:41,791 --> 01:19:43,791
+Lou! Lou!
+
+1105
+01:19:48,666 --> 01:19:50,125
+You gotta be kidding me.
+
+1106
+01:19:50,208 --> 01:19:51,291
+[yells] Lou!
+
+1107
+01:19:52,208 --> 01:19:53,250
+[Vee screams] Mommy!
+
+1108
+01:19:53,333 --> 01:19:54,250
+[gasps]
+
+1109
+01:19:55,125 --> 01:19:56,333
+- [Vee] Mommy!
+- [Hannah] Vee!
+
+1110
+01:19:57,083 --> 01:19:59,416
+- [Vee] Come! Please, come!
+- [panting]
+
+1111
+01:19:59,500 --> 01:20:01,791
+- Vee!
+- I'm here, Mama!
+
+1112
+01:20:01,875 --> 01:20:03,791
+- Up here!
+- I'm coming!
+
+1113
+01:20:05,458 --> 01:20:07,458
+[gasping]
+
+1114
+01:20:19,708 --> 01:20:21,958
+[gull squawking]
+
+1115
+01:20:29,416 --> 01:20:32,166
+[breathing heavily] Baby?
+
+1116
+01:20:43,041 --> 01:20:44,083
+- Mommy!
+- [Hannah laughs]
+
+1117
+01:20:44,166 --> 01:20:45,208
+Hi, Mommy.
+
+1118
+01:20:45,291 --> 01:20:46,666
+[sighs] Hi, baby.
+
+1119
+01:20:46,750 --> 01:20:49,208
+We were afraid you weren't gonna show up.
+Weren't we, Vee?
+
+1120
+01:20:49,291 --> 01:20:50,375
+You okay?
+
+1121
+01:20:50,458 --> 01:20:53,250
+Of course she's okay.
+She's with her daddy.
+
+1122
+01:20:57,791 --> 01:20:59,000
+[grunts]
+
+1123
+01:20:59,916 --> 01:21:01,291
+Come, give Mommy a hug.
+
+1124
+01:21:02,208 --> 01:21:03,291
+[Vee and Hannah gasp]
+
+1125
+01:21:04,416 --> 01:21:07,916
+Hey, how's... how's Lou doin'?
+Is she... Is she on her way?
+
+1126
+01:21:08,916 --> 01:21:11,208
+Jesus, look at me. [chuckles]
+
+1127
+01:21:12,333 --> 01:21:15,666
+Still waitin' for my mommy to come back
+after all these years, huh?
+
+1128
+01:21:17,250 --> 01:21:19,291
+But we do need her here to finish this.
+
+1129
+01:21:23,208 --> 01:21:25,583
+I wanna give Mommy a hug.
+
+1130
+01:21:27,750 --> 01:21:28,625
+Well…
+
+1131
+01:21:35,625 --> 01:21:37,000
+Philip, please.
+
+1132
+01:21:46,833 --> 01:21:48,166
+[Vee] Please, Daddy?
+
+1133
+01:21:49,041 --> 01:21:50,458
+[Philip] Okay, Vee. [kisses]
+
+1134
+01:21:50,541 --> 01:21:52,375
+One quick hug while we wait for Lou.
+
+1135
+01:21:52,458 --> 01:21:53,750
+[both laugh]
+
+1136
+01:21:53,833 --> 01:21:55,291
+[Hannah sobbing]
+
+1137
+01:21:55,375 --> 01:21:57,666
+[laughing] Oh, I missed you so much.
+
+1138
+01:22:00,583 --> 01:22:01,750
+[breathing rapidly]
+
+1139
+01:22:04,916 --> 01:22:06,541
+[breathing shakily]
+
+1140
+01:22:09,958 --> 01:22:11,583
+[whispers] Game on.
+
+1141
+01:22:16,833 --> 01:22:18,916
+Daddy, may I go to the bathroom?
+
+1142
+01:22:26,750 --> 01:22:28,333
+[Philip] Of course you can, Vee.
+
+1143
+01:22:28,833 --> 01:22:31,625
+But hey… Come right back, okay?
+
+1144
+01:22:42,041 --> 01:22:43,666
+[chuckles]
+
+1145
+01:22:45,416 --> 01:22:47,333
+Wow, Lou is really rubbin' off on you.
+
+1146
+01:22:49,458 --> 01:22:52,333
+Come on, just give me the gun.
+We both know you're not gonna shoot me.
+
+1147
+01:22:52,916 --> 01:22:56,125
+You don't know me, Phil. You never did.
+
+1148
+01:22:56,791 --> 01:22:58,041
+[Philip] No?
+
+1149
+01:22:58,125 --> 01:23:01,291
+I know that if you were gonna shoot me,
+you would have done it years ago.
+
+1150
+01:23:04,875 --> 01:23:07,000
+I know that you're not like Lou and me.
+
+1151
+01:23:10,083 --> 01:23:11,000
+You're not.
+
+1152
+01:23:11,083 --> 01:23:13,208
+Yeah, 'cause she would've shot me already.
+
+1153
+01:23:18,791 --> 01:23:19,875
+Come on. Give me the gun.
+
+1154
+01:23:20,416 --> 01:23:21,625
+[screams]
+
+1155
+01:23:21,708 --> 01:23:22,833
+[whimpering]
+
+1156
+01:23:31,833 --> 01:23:34,250
+[groaning] Oh, you...
+
+1157
+01:23:35,750 --> 01:23:39,750
+You abandon me, and then
+you steal my baby from me,
+
+1158
+01:23:39,833 --> 01:23:41,125
+and now you shoot me?
+
+1159
+01:23:41,208 --> 01:23:42,625
+That shit won't work on me.
+
+1160
+01:23:42,708 --> 01:23:44,416
+Not gonna work on me anymore, Phil.
+
+1161
+01:23:44,500 --> 01:23:47,125
+[shudders] I'm not afraid of you anymore.
+
+1162
+01:23:48,458 --> 01:23:52,083
+And I won't let you hurt my little girl
+the way you hurt me.
+
+1163
+01:23:55,583 --> 01:23:56,750
+- [yells]
+- [grunts]
+
+1164
+01:24:00,250 --> 01:24:01,416
+[Philip groans]
+
+1165
+01:24:02,416 --> 01:24:03,666
+[Hannah yells]
+
+1166
+01:24:03,750 --> 01:24:04,625
+[screams]
+
+1167
+01:24:07,375 --> 01:24:09,250
+[Hannah yelling]
+
+1168
+01:24:11,208 --> 01:24:13,208
+- Hannah!
+- [gasping]
+
+1169
+01:24:14,875 --> 01:24:16,958
+Hannah. Hannah.
+
+1170
+01:24:18,000 --> 01:24:19,375
+[both panting]
+
+1171
+01:24:25,041 --> 01:24:26,166
+Do you remember?
+
+1172
+01:24:27,750 --> 01:24:29,250
+[Hannah shudders]
+
+1173
+01:24:33,708 --> 01:24:34,916
+Do you remember…
+
+1174
+01:24:37,291 --> 01:24:38,666
+How it felt?
+
+1175
+01:24:45,416 --> 01:24:46,541
+[shakily] Yeah.
+
+1176
+01:24:46,625 --> 01:24:48,333
+[gasping] I remember.
+
+1177
+01:24:48,958 --> 01:24:50,458
+- [grunts]
+- [screams]
+
+1178
+01:24:55,000 --> 01:24:57,333
+[Philip yelling]
+
+1179
+01:24:58,166 --> 01:24:59,416
+[screams]
+
+1180
+01:25:09,666 --> 01:25:11,416
+Vee! We have to run!
+
+1181
+01:25:12,000 --> 01:25:13,708
+[grunting]
+
+1182
+01:25:15,916 --> 01:25:16,791
+[gasps]
+
+1183
+01:25:18,291 --> 01:25:19,958
+[growling]
+
+1184
+01:25:21,375 --> 01:25:22,791
+[screams]
+
+1185
+01:25:28,041 --> 01:25:28,916
+Vee!
+
+1186
+01:25:29,000 --> 01:25:30,541
+[straining]
+
+1187
+01:25:31,333 --> 01:25:32,541
+[groans]
+
+1188
+01:25:34,458 --> 01:25:35,750
+[clang echoes]
+
+1189
+01:25:39,875 --> 01:25:41,458
+[gasps]
+
+1190
+01:25:49,708 --> 01:25:51,666
+[bleeping]
+
+1191
+01:25:54,416 --> 01:25:55,750
+[Hannah] Oh shit.
+
+1192
+01:25:59,625 --> 01:26:00,708
+Vee?
+
+1193
+01:26:00,791 --> 01:26:02,000
+[Philip sighs]
+
+1194
+01:26:05,000 --> 01:26:07,666
+Game's over, okay?
+Come here, Little Rabbit.
+
+1195
+01:26:07,750 --> 01:26:10,375
+[groans] We gotta go right now.
+
+1196
+01:26:10,458 --> 01:26:12,458
+[footsteps echoing on stairs]
+
+1197
+01:26:14,625 --> 01:26:15,875
+[gasps]
+
+1198
+01:26:15,958 --> 01:26:17,916
+Oh! Oh, baby.
+
+1199
+01:26:18,000 --> 01:26:20,250
+Come on. Get up. Are you okay?
+
+1200
+01:26:20,791 --> 01:26:22,791
+Did he hurt you?
+He didn't hurt you, right?
+
+1201
+01:26:22,875 --> 01:26:23,833
+Mm-mm.
+
+1202
+01:26:25,333 --> 01:26:27,000
+[metal creaking]
+
+1203
+01:26:28,000 --> 01:26:30,666
+Oh! Hide. Hide. Hide.
+
+1204
+01:26:33,000 --> 01:26:34,208
+[footsteps on stairs]
+
+1205
+01:26:43,416 --> 01:26:44,291
+Lou.
+
+1206
+01:26:45,291 --> 01:26:46,750
+- Hannah.
+- [Hannah] Come on.
+
+1207
+01:26:49,791 --> 01:26:51,583
+- [clattering]
+- We need to move.
+
+1208
+01:26:54,166 --> 01:26:55,416
+- [Philip] Vee?
+- [gasps]
+
+1209
+01:26:58,500 --> 01:27:00,125
+- My gun.
+- [Hannah] Lost it.
+
+1210
+01:27:00,750 --> 01:27:03,083
+- Knife?
+- Stuck in Philip's hand.
+
+1211
+01:27:04,041 --> 01:27:05,375
+[clattering]
+
+1212
+01:27:05,458 --> 01:27:07,166
+[grunting]
+
+1213
+01:27:08,458 --> 01:27:10,541
+Try that hatch. Go, go, now.
+
+1214
+01:27:18,333 --> 01:27:21,416
+- Wait, your jacket's stuck.
+- [Lou] Oh fuck.
+
+1215
+01:27:22,541 --> 01:27:23,708
+[Hannah] Push you up.
+
+1216
+01:27:24,500 --> 01:27:25,750
+[grunts]
+
+1217
+01:27:27,041 --> 01:27:27,916
+[yells]
+
+1218
+01:27:28,541 --> 01:27:30,333
+Run to the end of the beach.
+
+1219
+01:27:30,416 --> 01:27:31,708
+- Run as fast as you can.
+- No!
+
+1220
+01:27:31,791 --> 01:27:33,291
+- I'll meet you there.
+- Don't leave me.
+
+1221
+01:27:33,375 --> 01:27:35,958
+We won't fit.
+You gotta run now. Go, go, go, go.
+
+1222
+01:27:36,041 --> 01:27:37,833
+Run, Little Rabbit! Run!
+
+1223
+01:27:38,875 --> 01:27:40,708
+[Lou] It's rigged. I can't defuse it.
+
+1224
+01:27:40,791 --> 01:27:43,250
+Could buy us some time
+if I can change the frequency.
+
+1225
+01:27:43,333 --> 01:27:45,083
+- Wait. Where are you going?
+- [panting]
+
+1226
+01:27:45,166 --> 01:27:47,291
+One of us was actually a Girl Scout.
+
+1227
+01:27:48,541 --> 01:27:50,291
+[Philip groaning]
+
+1228
+01:28:06,500 --> 01:28:07,916
+[gasps]
+
+1229
+01:28:13,250 --> 01:28:14,708
+[banging]
+
+1230
+01:28:15,375 --> 01:28:17,500
+- Do you still have the radio?
+- Yeah.
+
+1231
+01:28:17,583 --> 01:28:20,875
+Maybe we can use it after all.
+Go bust that gate open.
+
+1232
+01:28:24,166 --> 01:28:25,000
+[Philip] Lou?
+
+1233
+01:28:25,791 --> 01:28:26,708
+[gasps]
+
+1234
+01:28:26,791 --> 01:28:28,000
+We're all here.
+
+1235
+01:28:32,375 --> 01:28:33,250
+We're all here.
+
+1236
+01:28:33,333 --> 01:28:34,166
+[grunts]
+
+1237
+01:28:34,250 --> 01:28:35,250
+[bleeping]
+
+1238
+01:28:35,333 --> 01:28:38,666
+I was hoping
+that we could all do this together.
+
+1239
+01:28:42,833 --> 01:28:45,125
+- Face to face!
+- [bleeping]
+
+1240
+01:28:47,000 --> 01:28:49,666
+So that we could end this… the right way.
+
+1241
+01:28:51,750 --> 01:28:53,500
+End this right.
+
+1242
+01:28:56,291 --> 01:28:57,583
+As a family.
+
+1243
+01:29:00,208 --> 01:29:01,250
+As a family.
+
+1244
+01:29:03,291 --> 01:29:04,625
+[bleeping]
+
+1245
+01:29:04,708 --> 01:29:06,833
+But sometimes,
+you don't get what you want.
+
+1246
+01:29:14,500 --> 01:29:16,083
+[shuddering]
+
+1247
+01:29:18,833 --> 01:29:19,750
+Fuck!
+
+1248
+01:29:19,833 --> 01:29:21,333
+[helicopter engine whirring]
+
+1249
+01:29:31,500 --> 01:29:33,416
+- [gasping]
+- [Philip yells] Fuck!
+
+1250
+01:29:36,125 --> 01:29:38,375
+- [gasping]
+- [Philip yells] Fuck!
+
+1251
+01:29:38,875 --> 01:29:41,208
+[screams] Fuck! You fuckin' let me in!
+
+1252
+01:29:41,958 --> 01:29:43,458
+Oh, thank God.
+
+1253
+01:29:43,541 --> 01:29:44,666
+[screams]
+
+1254
+01:29:52,708 --> 01:29:53,833
+Oh shit.
+
+1255
+01:29:54,875 --> 01:29:56,750
+[barking]
+
+1256
+01:30:00,708 --> 01:30:02,250
+- [Lou] Oh shit.
+- [Hannah] What?
+
+1257
+01:30:02,333 --> 01:30:04,208
+- [Lou] The CIA's on the hunt.
+- [barks]
+
+1258
+01:30:04,750 --> 01:30:07,250
+[panting] They comin' for Philip or you?
+
+1259
+01:30:07,333 --> 01:30:08,291
+[both grunt]
+
+1260
+01:30:08,375 --> 01:30:10,708
+They won't want either one of us
+to leave here alive.
+
+1261
+01:30:10,791 --> 01:30:12,333
+- Go, go.
+- No.
+
+1262
+01:30:12,416 --> 01:30:14,583
+- I'll just slow you down.
+- I'm not gonna leave you here.
+
+1263
+01:30:14,666 --> 01:30:17,875
+Lou, go get your granddaughter to safety.
+I'll catch up.
+
+1264
+01:30:24,291 --> 01:30:26,291
+[Philip panting]
+
+1265
+01:30:37,083 --> 01:30:38,166
+Fuck!
+
+1266
+01:30:40,500 --> 01:30:41,333
+[yells] Fuck!
+
+1267
+01:30:48,750 --> 01:30:49,833
+Fuck!
+
+1268
+01:30:56,750 --> 01:30:57,666
+[gasps]
+
+1269
+01:30:59,500 --> 01:31:00,958
+[barks]
+
+1270
+01:31:06,916 --> 01:31:07,875
+Vee…
+
+1271
+01:31:08,666 --> 01:31:10,208
+Oh! Come here.
+
+1272
+01:31:12,208 --> 01:31:13,208
+Oof!
+
+1273
+01:31:25,125 --> 01:31:27,416
+You're a brave little girl. You know that?
+
+1274
+01:31:32,000 --> 01:31:33,625
+Good. Help me up, will you?
+
+1275
+01:31:34,166 --> 01:31:35,750
+[gasping]
+
+1276
+01:31:38,416 --> 01:31:42,083
+Okay, listen to me.
+I want you to go grab a stick, okay?
+
+1277
+01:31:42,166 --> 01:31:44,250
+The longest one you can find. Go, go, go.
+
+1278
+01:32:18,916 --> 01:32:20,583
+- Mommy!
+- Hey, baby.
+
+1279
+01:32:21,166 --> 01:32:23,208
+Hannah. The radio.
+
+1280
+01:32:23,291 --> 01:32:24,375
+[Hannah] In my pocket.
+
+1281
+01:32:25,166 --> 01:32:26,458
+- [Lou] Come on.
+- [Hannah] Help me.
+
+1282
+01:32:26,541 --> 01:32:27,916
+- All right.
+- Come on, go, run.
+
+1283
+01:32:28,000 --> 01:32:29,291
+[Hannah gasps]
+
+1284
+01:32:29,833 --> 01:32:31,375
+Hannah, hold this up as high as you can.
+
+1285
+01:32:34,125 --> 01:32:36,125
+- [Hannah] Are you calling for help?
+- [Lou] Yeah.
+
+1286
+01:32:36,625 --> 01:32:37,791
+[Vee squeals]
+
+1287
+01:32:43,791 --> 01:32:46,250
+[Lou] Yeah.
+That ought to get their attention.
+
+1288
+01:32:52,541 --> 01:32:55,000
+You gotta go.
+Take the road back towards town.
+
+1289
+01:32:55,500 --> 01:32:57,875
+- Bring Jax with you.
+- You… you come with us.
+
+1290
+01:32:57,958 --> 01:33:00,208
+Hannah, you take care of your kid…
+
+1291
+01:33:01,416 --> 01:33:02,500
+I'll take care of mine.
+
+1292
+01:33:03,250 --> 01:33:06,208
+I left a letter for you at my house.
+Make sure you find it.
+
+1293
+01:33:06,791 --> 01:33:09,000
+Okay. Go on, Vee.
+
+1294
+01:33:10,083 --> 01:33:11,333
+Oh, God damn it.
+
+1295
+01:33:14,250 --> 01:33:15,208
+[gasps]
+
+1296
+01:33:15,833 --> 01:33:17,208
+Don't die on me now, Lou.
+
+1297
+01:33:19,875 --> 01:33:22,166
+Everything that matters
+is right here in front of you.
+
+1298
+01:33:23,875 --> 01:33:24,750
+I know.
+
+1299
+01:33:26,416 --> 01:33:28,041
+Go. Now!
+
+1300
+01:33:35,458 --> 01:33:37,166
+[grunting]
+
+1301
+01:34:17,166 --> 01:34:18,583
+- [yells]
+- [gasps]
+
+1302
+01:34:21,833 --> 01:34:22,666
+[growls]
+
+1303
+01:34:23,166 --> 01:34:24,166
+- [yells]
+- [screams]
+
+1304
+01:36:28,375 --> 01:36:29,666
+I'm sorry, kid.
+
+1305
+01:36:31,833 --> 01:36:33,541
+[gunfire]
+
+1306
+01:37:16,416 --> 01:37:18,833
+[birdsong]
+
+1307
+01:37:38,666 --> 01:37:39,916
+- Hey, Vee.
+- [Vee] Hey.
+
+1308
+01:37:40,541 --> 01:37:41,791
+[Rankin] Hello, Jax.
+
+1309
+01:37:42,458 --> 01:37:44,583
+Hey, you got two bracelets now.
+
+1310
+01:37:45,250 --> 01:37:47,750
+Yeah. Just like you.
+
+1311
+01:37:48,625 --> 01:37:49,833
+[chuckles]
+
+1312
+01:37:49,916 --> 01:37:51,083
+One's for a friend.
+
+1313
+01:37:51,666 --> 01:37:54,583
+[man] So, out of the blue, she just leaves
+you and your daughter this house?
+
+1314
+01:37:54,666 --> 01:37:58,458
+Mm-hm. Yeah, this house
+and a ton of frozen deer meat.
+
+1315
+01:37:58,541 --> 01:37:59,625
+[knocking]
+
+1316
+01:37:59,708 --> 01:38:01,083
+It's open.
+
+1317
+01:38:01,583 --> 01:38:03,375
+- Hey, Han.
+- [Hannah] Hey.
+
+1318
+01:38:03,458 --> 01:38:04,541
+Oh, hello.
+
+1319
+01:38:06,416 --> 01:38:07,666
+You guys still around?
+
+1320
+01:38:07,750 --> 01:38:09,583
+We had a few more questions
+for Ms. Dawson here.
+
+1321
+01:38:09,666 --> 01:38:12,291
+Oh. I hope I'm not interrupting.
+
+1322
+01:38:12,375 --> 01:38:16,416
+[clears throat]
+Hannah, uh, coroner's got an issue.
+
+1323
+01:38:16,500 --> 01:38:20,375
+You're next of kin. He needs a signature
+to release Philip's body for burial.
+
+1324
+01:38:20,875 --> 01:38:22,583
+- [sighs]
+- Yeah. Sorry.
+
+1325
+01:38:25,583 --> 01:38:27,833
+Ms. Dawson, did Lou Adell ever mention
+
+1326
+01:38:27,916 --> 01:38:31,375
+anything about documents
+from her time in the CIA to you?
+
+1327
+01:38:31,458 --> 01:38:33,583
+She'd be a pretty shit spy if she did.
+
+1328
+01:38:33,666 --> 01:38:34,791
+[snorts]
+
+1329
+01:38:36,875 --> 01:38:38,250
+If you think of anything…
+
+1330
+01:38:39,000 --> 01:38:42,416
+[chuckles] You gave me a card last time
+you were here, and the time before that.
+
+1331
+01:38:42,500 --> 01:38:43,708
+Anything at all.
+
+1332
+01:38:45,500 --> 01:38:46,541
+All right.
+
+1333
+01:38:51,375 --> 01:38:53,416
+- [agent] Sheriff.
+- Good to see you again.
+
+1334
+01:38:55,708 --> 01:38:57,333
+- [door closes]
+- [sighs]
+
+1335
+01:38:58,875 --> 01:39:00,375
+[both chuckle]
+
+1336
+01:39:01,166 --> 01:39:02,625
+- Forget them.
+- Mm.
+
+1337
+01:39:02,708 --> 01:39:04,875
+Looks like you two are ready for Seattle.
+
+1338
+01:39:04,958 --> 01:39:06,500
+Yeah, you're all packed up.
+
+1339
+01:39:07,041 --> 01:39:08,333
+Yeah, almost.
+
+1340
+01:39:08,416 --> 01:39:11,625
+I wanted to tell you, you just did
+a beautiful job with the memorial service.
+
+1341
+01:39:11,708 --> 01:39:12,541
+- Stop.
+- No, you did.
+
+1342
+01:39:12,625 --> 01:39:14,625
+And I think Lou would have
+really appreciated it.
+
+1343
+01:39:14,708 --> 01:39:18,916
+[scoffs] Come on now. All that sincere
+emotion would have made her puke.
+
+1344
+01:39:19,000 --> 01:39:20,583
+- [both laugh]
+- Yeah!
+
+1345
+01:39:21,875 --> 01:39:23,166
+Oh, well…
+
+1346
+01:39:23,666 --> 01:39:24,958
+[Hannah sighs]
+
+1347
+01:39:25,583 --> 01:39:27,791
+- She was her own person.
+- Mm-hm.
+
+1348
+01:39:27,875 --> 01:39:31,666
+I mean, sometimes,
+I'm just so damn mad at her, and then…
+
+1349
+01:39:33,166 --> 01:39:35,458
+[sighs] Other times I miss her.
+
+1350
+01:39:36,666 --> 01:39:38,916
+Isn't that just how it is with family?
+
+1351
+01:39:45,625 --> 01:39:49,416
+[Lou]<i> "I've never been one for many words,</i>
+<i>so I'll keep this short."</i>
+
+1352
+01:39:53,125 --> 01:39:55,500
+<i>"The house is yours. Sell it."</i>
+
+1353
+01:39:56,333 --> 01:40:00,291
+<i>"There's a month's worth of meat for Jax
+in the freezer, and some cash for you."</i>
+
+1354
+01:40:04,833 --> 01:40:07,125
+<i>"Life doesn't give you second chances,</i>
+
+1355
+01:40:07,208 --> 01:40:09,500
+<i>but sometimes
+it does offer a fresh start."</i>
+
+1356
+01:40:16,958 --> 01:40:20,166
+<i>"Hannah, you're going
+to wonder why I did it."</i>
+
+1357
+01:40:20,250 --> 01:40:21,750
+<i>"Why I left this all for you."</i>
+
+1358
+01:40:23,541 --> 01:40:24,958
+<i>"The simple answer is,</i>
+
+1359
+01:40:26,458 --> 01:40:29,000
+<i>you'll leave the world
+a better place than I did."</i>

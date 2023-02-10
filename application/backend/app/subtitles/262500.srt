@@ -1,0 +1,4309 @@
+1
+00:00:42,547 --> 00:00:43,964
+<i>Pace.</i>
+
+2
+00:00:44,064 --> 00:00:46,363
+<i>Cu mult timp în urmă,</i>
+
+3
+00:00:46,563 --> 00:00:49,619
+<i>înainte ca strămoşii noştri
+să fondeze marele nostru oraş,</i>
+
+4
+00:00:49,819 --> 00:00:54,821
+<i>era un cuvânt aproape fără semnificaţie,
+un ideal evaziv, ca un vis.</i>
+
+5
+00:00:55,455 --> 00:00:57,867
+<i>Acum, la 200 de ani,</i>
+
+6
+00:00:58,633 --> 00:01:02,791
+<i>suntem cu toţii proba vie
+că pacea se poate obţine cu adevărat.</i>
+
+7
+00:01:03,597 --> 00:01:06,745
+<i>Şi asta, datorită
+sistemului nostru de facţiuni.</i>
+
+8
+00:01:07,234 --> 00:01:11,880
+<i>Erudiţii, Neînfricaţii, Paşnicii,
+Candizii, Abnegaţii.</i>
+
+9
+00:01:12,234 --> 00:01:15,615
+<i>Împărţind oamenii după personalitate
+şi înclinaţie</i>
+
+10
+00:01:15,830 --> 00:01:20,039
+<i>am creat o societate în care
+fiecare facţiune joacă un rol fundamental</i>
+
+11
+00:01:20,239 --> 00:01:21,595
+<i>în menţinerea ordinii.</i>
+
+12
+00:01:21,795 --> 00:01:28,504
+<i>Dar armonia obţinută este acum sub atac
+din partea unui grup extrem de periculos.</i>
+
+13
+00:01:28,704 --> 00:01:31,638
+<i>Noi îi numim "Divergenţii".</i>
+
+14
+00:01:31,838 --> 00:01:35,965
+<i>Sunt faţa cea mai urâtă a omenirii.</i>
+
+15
+00:01:36,457 --> 00:01:40,178
+<i>Rebeli, dispreţuitori şi de necontrolat.</i>
+
+16
+00:01:41,949 --> 00:01:48,134
+<i>Acum cinci zile, un grup de divergenţi
+a invadat sectorul Abnegaţilor.</i>
+
+17
+00:01:48,135 --> 00:01:52,143
+<i>Un atac asupra sistemului facţiunilor.</i>
+
+18
+00:01:55,379 --> 00:01:59,568
+<i>Divergenţii dispreţuiesc sistemul pentru că
+nu sunt capabili să i se conformeze.</i>
+
+19
+00:01:59,768 --> 00:02:02,236
+<i>Zvonurile nefondate vor să vă facă
+să credeţi că eu sunt</i>
+
+20
+00:02:02,436 --> 00:02:04,380
+<i>în spatele atacurilor
+împotriva Abnegaţilor.</i>
+
+21
+00:02:04,650 --> 00:02:07,361
+<i>E vorba doar de o propagandă Divergentă.</i>
+
+22
+00:02:07,561 --> 00:02:12,331
+<i>Eforturile mele vor fi dedicate
+predării fugarilor către justiţie.</i>
+
+23
+00:02:12,925 --> 00:02:16,094
+<i>Şeful Consiliului
+a constituit legea marţială.</i>
+
+24
+00:02:16,294 --> 00:02:19,703
+<i>Şi va rămâne în vigoare până când
+orice ameninţare la siguranţa noastră</i>
+
+25
+00:02:19,903 --> 00:02:20,976
+<i>va fi eliminată.</i>
+
+26
+00:02:21,445 --> 00:02:23,366
+Spune-i lui Jeanine că o avem.
+
+27
+00:02:25,547 --> 00:02:28,465
+<i>Noi suntem
+ceea ce a mai rămas din omenire.</i>
+
+28
+00:02:28,665 --> 00:02:30,286
+<i>Zidul care înconjoară oraşul</i>
+
+29
+00:02:30,486 --> 00:02:34,416
+<i>ne protejează de tot ceea ce e
+potenţial distructiv în jurul nostru,</i>
+
+30
+00:02:34,616 --> 00:02:38,899
+<i>dar e datoria noastră să luptăm cu orice
+element ce ne poate ameninţa din interior.</i>
+
+31
+00:02:39,099 --> 00:02:41,690
+<i>Pentru că,
+dacă suntem ultima speranţă a civilizaţiei,</i>
+
+32
+00:02:42,325 --> 00:02:44,147
+<i>pacea nu e o onoare ideală,</i>
+
+33
+00:02:45,300 --> 00:02:46,402
+<i>ci e o datorie.</i>
+
+34
+00:02:46,602 --> 00:02:51,154
+<i>Şi e obligaţia noastră să luăm poziţie
+împotriva singurului său inamic adevărat.</i>
+
+35
+00:02:52,395 --> 00:02:53,800
+<i>Divergenţii.</i>
+
+36
+00:02:54,967 --> 00:02:58,333
+INSURGENT
+
+37
+00:03:00,216 --> 00:03:06,239
+Traducerea şi adaptarea după sonor:
+dani67 & Snake_Eyes
+
+38
+00:03:26,515 --> 00:03:28,860
+Pacifiştii.
+
+39
+00:03:29,814 --> 00:03:31,879
+Trebuie să controlăm dacă e sigur.
+
+40
+00:03:33,010 --> 00:03:34,353
+Tris!
+
+41
+00:03:50,505 --> 00:03:54,132
+Ajutaţi-ne!
+Vă rog, ajutaţi-ne, vă rog!
+
+42
+00:03:55,859 --> 00:03:58,509
+Ajutaţi-ne, vă rog!
+Trebuie să ne ajutaţi!
+
+43
+00:03:58,709 --> 00:04:01,359
+Îmi pare rău,
+trebuie să plecaţi de aici.
+
+44
+00:04:01,631 --> 00:04:05,045
+- Voi nu sunteţi Paşnicii.
+- E numai vina ei.
+
+45
+00:04:10,558 --> 00:04:12,671
+Tu l-ai ucis pe Will?
+
+46
+00:04:13,594 --> 00:04:14,775
+Nu.
+
+47
+00:04:15,491 --> 00:04:16,641
+<i>Ea l-a omorât...</i>
+
+48
+00:04:26,111 --> 00:04:27,225
+Mamă!
+
+49
+00:04:31,120 --> 00:04:34,253
+Ne-ai omorât pe toţi.
+
+50
+00:06:27,422 --> 00:06:31,059
+- Aşa!
+- Mai sus!
+
+51
+00:06:33,442 --> 00:06:36,893
+- Mai tare! Mai sus!
+- Mai sus!
+
+52
+00:06:37,093 --> 00:06:39,108
+Cu toţii în clasă, copii!
+
+53
+00:06:54,018 --> 00:06:55,919
+Voiam să fac mai altfel.
+
+54
+00:06:57,458 --> 00:06:58,803
+Bine.
+
+55
+00:07:11,325 --> 00:07:13,005
+Chiar că e mult mai altfel.
+
+56
+00:07:14,394 --> 00:07:18,578
+- Nu-ţi place?
+- Şi încă cum! Serios.
+
+57
+00:07:19,561 --> 00:07:21,379
+Sunt doar surprins.
+
+58
+00:07:23,725 --> 00:07:27,327
+- Ce se-ntâmplă, Tris?
+- Nimic. Sunt bine.
+
+59
+00:07:27,527 --> 00:07:29,257
+Doar că...
+
+60
+00:07:31,139 --> 00:07:32,803
+Mai ai coşmarurile?
+
+61
+00:07:35,295 --> 00:07:36,513
+Nu.
+
+62
+00:07:41,889 --> 00:07:43,719
+Noi suntem în regulă.
+
+63
+00:07:45,572 --> 00:07:49,868
+Noi doi.
+Nimic altceva nu e, dar noi suntem.
+
+64
+00:07:56,498 --> 00:07:58,027
+E timpul să muncim.
+
+65
+00:08:13,742 --> 00:08:17,567
+- Cât mai trebuie să stăm aici, Patru?
+- Până când va fi sigur să plecăm.
+
+66
+00:08:47,888 --> 00:08:50,706
+- Bună.
+- Bună.
+
+67
+00:08:51,458 --> 00:08:52,822
+Fiule!
+
+68
+00:08:55,741 --> 00:08:57,646
+Nu mă poţi ignora mereu.
+
+69
+00:08:59,621 --> 00:09:03,182
+Te gândeşti la ce trebuie să faci acum,
+dar sunt lucruri pe care nu le ştii.
+
+70
+00:09:03,382 --> 00:09:05,320
+Marcus, te rog,
+lasă-ne în pace.
+
+71
+00:09:07,013 --> 00:09:09,876
+Mama ta nu s-a-ntors de la Abnegaţi
+doar pentru a te salva.
+
+72
+00:09:10,076 --> 00:09:13,351
+A murit pentru a ascunde de Jeanine
+ceva ce a fost încredinţat Abnegaţilor
+
+73
+00:09:13,551 --> 00:09:15,161
+- mult timp în urmă.
+- Marcus! Termină!
+
+74
+00:09:15,361 --> 00:09:17,828
+Nu vei obţine nimic
+din ceea ce vrei de la noi.
+
+75
+00:09:21,816 --> 00:09:23,862
+Nu eu sunt duşmanul vostru.
+
+76
+00:09:36,436 --> 00:09:38,247
+Ai găsit-o?
+
+77
+00:09:41,433 --> 00:09:44,890
+Era în casa lui Natalie şi Andrew Prior,
+exact cum aţi crezut.
+
+78
+00:09:52,557 --> 00:09:54,519
+Ne poţi spune ce conţine?
+
+79
+00:09:55,138 --> 00:09:57,424
+Un mesaj al strămoşilor
+ce ne va garanta viitorul
+
+80
+00:09:57,624 --> 00:09:59,228
+pe care-l merită poporul nostru.
+
+81
+00:10:02,392 --> 00:10:08,896
+Divergenţii ne vor distruge societatea,
+dacă nu-i distrugem noi.
+
+82
+00:10:12,885 --> 00:10:15,337
+Şi acum o putem face.
+
+83
+00:10:16,219 --> 00:10:19,639
+Şi totuşi, doar un Divergent
+poate deschide cutia asta.
+
+84
+00:10:24,884 --> 00:10:26,345
+Găseşte-i!
+
+85
+00:10:27,282 --> 00:10:29,108
+Pe toţi, până la ultimul!
+
+86
+00:10:47,735 --> 00:10:49,939
+Fie ca fericirea să te însoţească.
+
+87
+00:10:50,326 --> 00:10:52,120
+Fie ca fericirea să te însoţească.
+
+88
+00:10:52,692 --> 00:10:55,032
+- Fie ca fericirea să te însoţească.
+- Mulţumesc.
+
+89
+00:10:59,230 --> 00:11:00,927
+Fie ca fericirea să te însoţească.
+
+90
+00:11:02,605 --> 00:11:05,676
+Nu voi suporta prea mult atitudinea lor
+de pace.
+
+91
+00:11:06,147 --> 00:11:08,226
+Paşnicii aşa sunt,
+încearcă să te adaptezi.
+
+92
+00:11:08,805 --> 00:11:12,166
+Încerc să mă adaptez,
+dar se pare că nu-mi iese.
+
+93
+00:11:12,511 --> 00:11:15,888
+Faceţi loc, mulţumesc!
+Ia uite, curcubeul!
+
+94
+00:11:16,088 --> 00:11:18,313
+- E frumos!
+- Ai câştigat!
+
+95
+00:11:18,576 --> 00:11:21,920
+Cordialitatea patologică
+alături de pasivitate. Îmi place aici.
+
+96
+00:11:22,120 --> 00:11:24,384
+Mulţumesc.
+Fie ca fericirea să te însoţească.
+
+97
+00:11:24,584 --> 00:11:28,050
+Scuze!
+Tris, îmi place părul tău.
+
+98
+00:11:28,250 --> 00:11:30,010
+Ai făcut-o special?
+Ce tunsoare absurdă!
+
+99
+00:11:30,210 --> 00:11:32,712
+Peter, ştii ceva?
+Ia-ţi de mâncat şi du-te de te aşează.
+
+100
+00:11:32,912 --> 00:11:34,073
+Dacă nu?
+
+101
+00:11:35,981 --> 00:11:39,175
+Ar trebui să stăm împreună,
+doar suntem oficial nişte fugari.
+
+102
+00:11:39,375 --> 00:11:44,120
+- De ce suntem oficial nişte fugari?
+- A, nu ştii? Nu i-aţi spus lui Caleb?
+
+103
+00:11:44,414 --> 00:11:47,324
+Acum Jeanine spune tuturor
+că atacul asupra Abnegaţilor
+
+104
+00:11:47,524 --> 00:11:49,972
+a fost organizat
+de un grup de renegaţi divergenţi
+
+105
+00:11:50,172 --> 00:11:51,301
+şi de simpatizanţii lor.
+
+106
+00:11:51,501 --> 00:11:53,627
+- Dă vina pe noi pentru tot?
+- Da.
+
+107
+00:11:54,119 --> 00:11:57,707
+Jeanine voia un pretext pentru a cere
+consiliului să impună legea marţială.
+
+108
+00:11:57,907 --> 00:11:59,722
+L-a obţinut.
+
+109
+00:12:08,888 --> 00:12:11,440
+Deocamdată e cel mai bine pentru noi
+să rămânem aici.
+
+110
+00:12:12,215 --> 00:12:15,197
+Mai întâi trebuie să aflăm
+unde sunt ceilalţi.
+
+111
+00:12:15,989 --> 00:12:19,721
+- De-abia atunci putem acţiona.
+- Trebuie s-o ucidem pe Jeanine.
+
+112
+00:12:21,827 --> 00:12:24,301
+Ştiu, dar încă nu suntem pregătiţi.
+
+113
+00:12:29,464 --> 00:12:32,913
+- Doar nu vorbeşti serios, nu-i aşa?
+- Ba vorbesc foarte serios.
+
+114
+00:12:33,912 --> 00:12:36,212
+Nu mă voi opri
+până nu va fi moartă.
+
+115
+00:12:36,912 --> 00:12:40,497
+- Nu poţi ucide oamenii.
+- Are dreptate ea, ascult-o pe sora ta!
+
+116
+00:12:40,697 --> 00:12:44,294
+Tris, cred c-ar trebui să te duci tu
+la Erudiţi şi s-o ucizi pe Jeanine.
+
+117
+00:12:44,735 --> 00:12:47,066
+Eu rămân aici cu Caleb,
+aşa nu-l vei ucide.
+
+118
+00:12:50,734 --> 00:12:51,861
+Poftim?
+
+119
+00:12:53,031 --> 00:12:54,455
+Hai c-ai priceput tu.
+
+120
+00:12:55,648 --> 00:12:57,254
+Aşa cum ai făcut cu ai tăi.
+
+121
+00:13:14,080 --> 00:13:15,381
+Termină!
+
+122
+00:13:15,581 --> 00:13:17,721
+Ce faceţi acolo?
+
+123
+00:13:20,577 --> 00:13:23,057
+În biroul meu! Imediat!
+
+124
+00:13:25,011 --> 00:13:27,987
+Continuaţi să mâncaţi, vă rog!
+
+125
+00:13:28,187 --> 00:13:30,403
+Calmează-te acum!
+Trebuie să te calmezi!
+
+126
+00:13:36,731 --> 00:13:39,668
+Nu v-am spus destul de clar că,
+dacă trebuie să rămâneţi aici,
+
+127
+00:13:39,868 --> 00:13:41,588
+nu trebuie să folosiţi violenţa?
+
+128
+00:13:42,133 --> 00:13:45,077
+Îţi pot garanta
+că nu se va mai întâmpla aşa ceva.
+
+129
+00:13:46,431 --> 00:13:50,117
+Oricum ar fi,
+nu mai puteţi rămâne aici cu noi.
+
+130
+00:13:50,317 --> 00:13:53,241
+Prezenţa voastră
+e prea destabilizatoare.
+
+131
+00:13:55,829 --> 00:13:59,839
+Adevărul e că prezenţa noastră aici
+n-ar fi durat prea mult.
+
+132
+00:14:00,039 --> 00:14:03,102
+Corect?
+Având în vedere frica voastră de Jeanine.
+
+133
+00:14:05,033 --> 00:14:07,957
+- Tu chiar nu ne înţelegi.
+- Ba vă-nţeleg foarte bine.
+
+134
+00:14:08,157 --> 00:14:10,881
+Înţeleg că vreţi să staţi deoparte,
+dar nu puteţi.
+
+135
+00:14:11,081 --> 00:14:15,437
+Jeanine va veni aici într-o zi
+şi vă va lua puterea ce credeţi c-o aveţi.
+
+136
+00:14:15,637 --> 00:14:16,637
+Tris! Tris!
+
+137
+00:14:19,658 --> 00:14:23,186
+Johanna,
+noi avem nevoie de ceva mai mult timp.
+
+138
+00:14:24,036 --> 00:14:27,072
+Trebuie să aflu unde sunt ceilalţi excluşi,
+apoi plecăm.
+
+139
+00:14:27,272 --> 00:14:29,728
+Şi ce veţi face?
+Îi veţi ataca pe Erudiţi?
+
+140
+00:14:29,928 --> 00:14:33,488
+- Nu voi fi complicele violenţei.
+- Nimeni nu-ţi cere asta.
+
+141
+00:14:33,688 --> 00:14:36,573
+Mai dă-ne câteva zile.
+
+142
+00:14:40,561 --> 00:14:42,248
+Doar una.
+
+143
+00:14:43,762 --> 00:14:48,587
+- Ce anume?
+- Vă dau o ultimă şansă.
+
+144
+00:14:51,526 --> 00:14:57,128
+A fi un Paşnic
+înseamnă să-i ierţi pe ceilalţi şi pe tine.
+
+145
+00:14:58,034 --> 00:15:00,249
+Tu eşti rănită.
+
+146
+00:15:03,209 --> 00:15:06,186
+Şi în asta îţi sunt alături.
+
+147
+00:15:07,729 --> 00:15:11,508
+Ştiu bine ce-nseamnă
+să te simţi neputincios
+
+148
+00:15:11,708 --> 00:15:13,535
+în faţa pierderii celor dragi.
+
+149
+00:15:15,725 --> 00:15:18,640
+Dar uciderea lui Jeanine
+nu-ţi va aduce mama înapoi.
+
+150
+00:15:19,658 --> 00:15:23,830
+Acum eşti supărată,
+dar, dacă te laşi consumată de asta...
+
+151
+00:15:26,741 --> 00:15:28,703
+Ce este?
+
+152
+00:15:46,696 --> 00:15:48,967
+Rămâneţi aici
+şi fără gălăgie.
+
+153
+00:16:09,115 --> 00:16:12,994
+Domnilor, Paşnicii vă dau bineţe.
+
+154
+00:16:13,343 --> 00:16:16,657
+- Cărui fapt îi datorăm plăcerea.
+- Nu-i o vizită de curtoazie, Johanna.
+
+155
+00:16:16,857 --> 00:16:19,980
+- Îi căutăm pe Divergenţi.
+- Înţeleg.
+
+156
+00:16:20,180 --> 00:16:24,315
+- Vom face totul să vă ajutăm.
+- Permite-ne să testăm facţiunea ta.
+
+157
+00:16:25,951 --> 00:16:28,556
+E o nouă tehnologie.
+
+158
+00:16:28,756 --> 00:16:29,864
+Paşnică.
+
+159
+00:16:30,064 --> 00:16:32,755
+Cu Jeanine la şefia consiliului,
+procedurile s-au simplificat.
+
+160
+00:16:32,955 --> 00:16:36,091
+- Nu suntem în jurisdicţia voastră.
+- Spune-mi, Johanna.
+
+161
+00:16:36,304 --> 00:16:39,180
+Ce s-a-ntâmplat
+cu curtoazia Paşnicilor?
+
+162
+00:16:39,380 --> 00:16:45,256
+Vrei s-o facem cu bune, sau cu rele?
+Doar de tine depinde.
+
+163
+00:16:49,150 --> 00:16:53,184
+Procedaţi,
+dar protestez cu toată puterea.
+
+164
+00:16:54,372 --> 00:16:57,163
+Avem liber.
+Faceţi cu calm.
+
+165
+00:16:59,255 --> 00:17:03,759
+Toţi Paşnicii să vină la Cupolă
+pentru a se supune testului.
+
+166
+00:17:10,950 --> 00:17:13,941
+Intraţi cu toţii!
+Staţi în rând!
+
+167
+00:17:15,527 --> 00:17:17,636
+Cu toţii în rând, haideţi!
+
+168
+00:17:27,700 --> 00:17:29,505
+Ce este, Johanna?
+
+169
+00:17:30,950 --> 00:17:33,430
+Parcă ai înţepenit în faţa acelei uşi.
+
+170
+00:17:45,770 --> 00:17:49,210
+Eric e aici.
+Trebuie să plecăm imediat, haideţi!
+
+171
+00:17:57,332 --> 00:18:00,880
+- Ce-i acolo?
+- Biroul meu.
+
+172
+00:18:07,540 --> 00:18:08,590
+Veniţi.
+
+173
+00:18:23,616 --> 00:18:24,960
+Sunt gărzile armate.
+
+174
+00:18:26,525 --> 00:18:28,184
+Plecăm pe fereastră.
+
+175
+00:18:29,470 --> 00:18:31,170
+Trebuie să ne despărţim.
+
+176
+00:18:32,230 --> 00:18:35,436
+Bine, da.
+De acord.
+
+177
+00:18:35,980 --> 00:18:37,757
+Fiecare îşi vede de-ale lui.
+
+178
+00:18:37,970 --> 00:18:39,350
+Bine.
+
+179
+00:18:40,865 --> 00:18:43,163
+Eric, sunt aici, sus!
+
+180
+00:18:44,360 --> 00:18:46,724
+Eric, sunt aici, sus!
+Vino repede, că scapă!
+
+181
+00:18:48,944 --> 00:18:50,355
+Eşti gata?
+
+182
+00:19:03,590 --> 00:19:05,146
+Pe-aici, pe fereastră!
+
+183
+00:19:07,715 --> 00:19:09,523
+Se îndreaptă către Cupolă!
+
+184
+00:19:10,620 --> 00:19:13,760
+Staţi în rând!
+
+185
+00:19:14,457 --> 00:19:15,926
+Eric, pe-acolo!
+
+186
+00:19:16,126 --> 00:19:18,147
+- Cer azil politic!
+- Stai jos! Stai jos!
+
+187
+00:19:18,347 --> 00:19:20,369
+Sunt şeful Abnegaţilor,
+e dreptul meu!
+
+188
+00:19:28,619 --> 00:19:31,722
+- Reţine-l!
+- Haide!
+
+189
+00:19:33,436 --> 00:19:34,930
+Încetişor.
+
+190
+00:19:37,801 --> 00:19:38,842
+Haide.
+
+191
+00:19:39,741 --> 00:19:41,443
+Nu vă opriţi!
+
+192
+00:19:52,575 --> 00:19:53,688
+Grăbiţi-vă!
+
+193
+00:19:54,349 --> 00:19:55,501
+Haideţi!
+
+194
+00:20:03,450 --> 00:20:05,201
+Haideţi!
+
+195
+00:20:10,445 --> 00:20:11,678
+Pe aici!
+
+196
+00:20:31,540 --> 00:20:32,574
+Hai!
+
+197
+00:20:39,808 --> 00:20:41,983
+- Îl auziţi?
+- Ce?
+
+198
+00:20:42,183 --> 00:20:43,447
+Un tren!
+
+199
+00:20:45,327 --> 00:20:46,506
+Hai! Hai! Hai!
+
+200
+00:20:52,081 --> 00:20:53,251
+Caleb!
+
+201
+00:20:54,281 --> 00:20:55,282
+Luaţi-o înainte!
+
+202
+00:21:01,898 --> 00:21:02,943
+Fugi!
+
+203
+00:21:04,511 --> 00:21:05,755
+Acoperă-mă!
+
+204
+00:21:20,395 --> 00:21:21,640
+Haide! Fugi!
+
+205
+00:21:42,129 --> 00:21:43,734
+- Hai! Hai!
+- Caleb!
+
+206
+00:21:44,963 --> 00:21:46,045
+Haide!
+
+207
+00:22:22,189 --> 00:22:24,133
+Felicitări!
+Ce intrare spectaculoasă!
+
+208
+00:22:29,282 --> 00:22:32,749
+- Excluşii!
+- Paşnicii!
+
+209
+00:22:33,030 --> 00:22:35,415
+Vă mişcaţi ca Neînfricaţii.
+
+210
+00:22:37,000 --> 00:22:38,842
+Noi, în schimb, habar n-avem cine sunteţi.
+
+211
+00:22:39,042 --> 00:22:43,066
+- Trebuie s-ajungem în oraş.
+- Îmi pare rău, trenul e deja ocupat.
+
+212
+00:22:43,380 --> 00:22:46,370
+- Şi ne-aţi deteriorat încărcătura.
+- Aşa e!
+
+213
+00:22:49,280 --> 00:22:53,645
+Asta-i stofa Abnegaţilor.
+Iar voi sunteţi Excluşii, corect?
+
+214
+00:22:53,845 --> 00:22:55,305
+- Caleb!
+- Înainte eram în Abnegaţie.
+
+215
+00:22:55,505 --> 00:22:58,691
+Foloseam stofa asta
+pentru a vă face haine vouă.
+
+216
+00:23:00,440 --> 00:23:02,219
+Spui că le furăm?
+
+217
+00:23:03,050 --> 00:23:05,872
+Nu, eu nu mai sunt din Abnegaţie,
+de aceea...
+
+218
+00:23:06,072 --> 00:23:08,894
+voi nu mă furaţi.
+De fapt, voi chiar nu furaţi.
+
+219
+00:23:09,094 --> 00:23:12,290
+În fine, poate e o chestiune de semantică
+
+220
+00:23:12,490 --> 00:23:13,974
+pentru a defini hoţia ori...
+
+221
+00:23:14,174 --> 00:23:15,933
+- E cam acelaşi lucru.
+- Gata, dă-i pace!
+
+222
+00:23:16,133 --> 00:23:18,400
+Să ne calmăm cu toţii.
+Ai fost destul de clar.
+
+223
+00:23:18,600 --> 00:23:21,965
+- Vom coborî din tren.
+- Sigur, ce spuneţi să ne calmăm cu toţii?
+
+224
+00:23:22,165 --> 00:23:23,793
+De ce nu ne aşezăm?
+
+225
+00:23:27,271 --> 00:23:29,416
+- Voiam doar să vă ajut!
+- N-o face.
+
+226
+00:23:29,616 --> 00:23:30,948
+A, da!
+Urmează distracţia.
+
+227
+00:23:31,148 --> 00:23:33,161
+Să ne calmăm într-adevăr cu toţii, bine?
+
+228
+00:24:53,030 --> 00:24:54,070
+Caleb.
+
+229
+00:25:01,278 --> 00:25:03,443
+Lasă-mă! Lasă-mă!
+
+230
+00:25:30,706 --> 00:25:31,974
+- Eşti bine?
+- Da.
+
+231
+00:25:32,174 --> 00:25:33,443
+Eşti în regulă?
+
+232
+00:25:44,800 --> 00:25:47,527
+- Tobias Eaton.
+- Mai zi o dată.
+
+233
+00:25:48,360 --> 00:25:50,123
+Tobias Eaton.
+
+234
+00:25:52,450 --> 00:25:54,060
+Atunci îl ştii?
+
+235
+00:25:54,950 --> 00:25:56,100
+Sigur, eu sunt.
+
+236
+00:25:57,620 --> 00:25:58,658
+Tu?
+
+237
+00:26:02,930 --> 00:26:04,913
+Tocmai pe tine te căutam.
+
+238
+00:26:06,636 --> 00:26:07,970
+Despre ce vorbeşte?
+
+239
+00:26:26,325 --> 00:26:27,407
+Vino după mine.
+
+240
+00:26:33,003 --> 00:26:35,842
+Tris!
+Iartă-mă, voiam să ajut.
+
+241
+00:26:46,572 --> 00:26:50,424
+Patru!
+De ce te căutau?
+
+242
+00:26:51,390 --> 00:26:53,120
+De unde-ţi ştiu numele?
+
+243
+00:27:05,814 --> 00:27:07,664
+Refugiul Excluşilor.
+
+244
+00:27:09,350 --> 00:27:11,134
+Nu-mi vine să cred.
+
+245
+00:27:47,776 --> 00:27:48,987
+Tobias!
+
+246
+00:27:52,867 --> 00:27:54,345
+Mamă.
+
+247
+00:28:01,442 --> 00:28:02,987
+Credeam că a murit.
+
+248
+00:28:06,432 --> 00:28:07,592
+Şi eu.
+
+249
+00:28:24,230 --> 00:28:26,249
+Îmi spuneţi şi mie ce se-ntâmplă?
+
+250
+00:28:30,980 --> 00:28:33,585
+Tatăl lui Tobias era un om foarte violent.
+
+251
+00:28:34,973 --> 00:28:38,685
+Mi-am dat seama
+că singurul mod de a scăpa de el era...
+
+252
+00:28:38,885 --> 00:28:40,595
+să dispar complet.
+
+253
+00:28:43,010 --> 00:28:45,698
+Abnegaţii m-au ajutat
+să-mi simulez moartea.
+
+254
+00:28:45,970 --> 00:28:48,522
+Pentru că voiau să protejeze
+imaginea lui Marcus.
+
+255
+00:28:48,722 --> 00:28:51,407
+Şi l-ai lăsat pe el singur cu Marcus.
+
+256
+00:28:52,358 --> 00:28:54,087
+Atunci nu înţelegeam.
+
+257
+00:28:55,513 --> 00:28:57,783
+Am reluat legătura cu el acum un an.
+
+258
+00:28:58,367 --> 00:29:00,882
+Mi s-a părut că a venit momentul
+să refacem legătura.
+
+259
+00:29:02,687 --> 00:29:06,043
+- Tot mama ta sunt.
+- Ba nu, mama mea e moartă.
+
+260
+00:29:07,640 --> 00:29:09,812
+Când aveam 9 ani,
+am fost la înmormântarea ei.
+
+261
+00:29:11,490 --> 00:29:14,126
+Iar ea n-a încercat
+să refacă raportul cu mine.
+
+262
+00:29:14,326 --> 00:29:16,963
+A încercat să mă folosească.
+Ceea ce faci acum.
+
+263
+00:29:17,163 --> 00:29:18,163
+De ce?
+
+264
+00:29:19,463 --> 00:29:20,783
+Vrea o armată.
+
+265
+00:29:21,481 --> 00:29:23,394
+- O armată.
+- Vreau o alianţă.
+
+266
+00:29:23,594 --> 00:29:26,480
+- Ba nu! Tu vrei doar răzbunare.
+- N-o fac pentru mine.
+
+267
+00:29:26,680 --> 00:29:30,967
+Vreau să pun capăt unui sistem care afirmă
+că un grup merită mai mult decât altul.
+
+268
+00:29:31,167 --> 00:29:35,420
+Un zid înconjoară oraşul acela,
+dar nu trebuie să fie o închisoare.
+
+269
+00:29:36,090 --> 00:29:37,668
+Mi se pare excesiv.
+
+270
+00:29:38,150 --> 00:29:41,170
+Sistemul facţiunilor n-o fi perfect,
+dar nici o închisoare nu-i.
+
+271
+00:29:41,370 --> 00:29:44,274
+Lasă-mă să ghicesc,
+eşti un erudit?
+
+272
+00:29:46,623 --> 00:29:47,801
+Eram un erudit.
+
+273
+00:29:52,847 --> 00:29:56,210
+- Vrei s-o omori pe Jeanine?
+- Sigur că da.
+
+274
+00:29:57,816 --> 00:29:59,986
+Când eram măritată cu Marcus
+o cunoşteam bine.
+
+275
+00:30:00,186 --> 00:30:02,511
+Şi, crede-mă,
+nu e nimic de care să nu fie în stare.
+
+276
+00:30:02,711 --> 00:30:07,868
+- Dar tu ştii deja, cred.
+- Tris, nu putem avea încredere.
+
+277
+00:30:08,790 --> 00:30:11,571
+- Da, dar...
+- Suntem pe aceeaşi baricadă, Tris.
+
+278
+00:30:12,770 --> 00:30:15,871
+Eu sunt Exclusă pentru că
+nu sunt pentru niciuna dintre facţiuni.
+
+279
+00:30:16,071 --> 00:30:19,173
+Iar tu eşti o Divergentă,
+pentru că poţi aparţine mai multora.
+
+280
+00:30:19,373 --> 00:30:21,926
+Dar suntem amândouă
+o ameninţare pentru Jeanine.
+
+281
+00:30:22,841 --> 00:30:25,674
+Suntem pregătite de luptă,
+dacă de asta e nevoie.
+
+282
+00:30:25,874 --> 00:30:26,874
+Şi apoi?
+
+283
+00:30:28,330 --> 00:30:31,490
+- Vom destitui pe cine e la putere.
+- Şi după ce o vei face?
+
+284
+00:30:32,821 --> 00:30:36,131
+După ce Jeanine va fi ucisă,
+cine va fi la putere?
+
+285
+00:30:37,150 --> 00:30:41,550
+Vezi?
+Asta-i partea pe care ea o sare mereu.
+
+286
+00:30:43,690 --> 00:30:47,057
+Nu-mi spune că n-o faci pentru tine,
+pentru că o faci doar pentru tine.
+
+287
+00:30:49,890 --> 00:30:52,822
+Ştiu unde se ascund neînfricaţii rămaşi.
+
+288
+00:30:53,022 --> 00:30:55,977
+- Unde?
+- S-au refugiat la Candizi.
+
+289
+00:30:56,177 --> 00:30:57,657
+Aşa ştiu, că sunt tot acolo.
+
+290
+00:30:59,157 --> 00:31:01,531
+Gândiţi-vă!
+Dacă ne unim forţele
+
+291
+00:31:01,731 --> 00:31:05,865
+Neînfricaţii şi Excluşii,
+vom fi de neoprit.
+
+292
+00:31:06,065 --> 00:31:07,269
+Nu se va-ntâmpla asta.
+
+293
+00:31:07,469 --> 00:31:12,075
+Mulţumim pentru ospitalitatea ta,
+dar noi plecăm mâine dimineaţă.
+
+294
+00:31:12,275 --> 00:31:13,529
+- Poate că...
+- Poftim?
+
+295
+00:31:13,729 --> 00:31:15,890
+Tobias, te rog să te mai gândeşti.
+
+296
+00:31:16,360 --> 00:31:17,975
+Nu-mi mai spune aşa!
+
+297
+00:31:20,570 --> 00:31:21,998
+Pe mine mă cheamă Patru.
+
+298
+00:31:31,300 --> 00:31:33,571
+Îl înveleşti tu, sau mă duc eu?
+
+299
+00:31:56,706 --> 00:31:58,378
+Mâncarea pare grozavă.
+
+300
+00:32:00,834 --> 00:32:02,123
+Mulţumesc.
+
+301
+00:32:15,607 --> 00:32:16,752
+Îmi pare rău.
+
+302
+00:32:24,246 --> 00:32:26,320
+Ar fi trebuit să-ţi spun de ea.
+
+303
+00:32:36,976 --> 00:32:38,983
+Să nu mai fie secrete între noi.
+
+304
+00:32:40,162 --> 00:32:41,567
+Bine?
+
+305
+00:32:43,097 --> 00:32:44,247
+Da.
+
+306
+00:32:52,241 --> 00:32:55,335
+Scuză-mă.
+Nu voiam să te trezesc.
+
+307
+00:32:59,841 --> 00:33:02,364
+Mereu mi-a plăcut
+să-l privesc dormind.
+
+308
+00:33:06,205 --> 00:33:08,911
+Îmi imaginez că veţi merge la Candizi
+mâine dimineaţă.
+
+309
+00:33:09,111 --> 00:33:10,111
+Da.
+
+310
+00:33:15,431 --> 00:33:19,251
+Ştii,
+eu vreau doar ce-i mai bun pentru el.
+
+311
+00:33:21,198 --> 00:33:23,019
+Abia îl cunoşti.
+
+312
+00:33:25,165 --> 00:33:30,900
+Te consolează gândul ăsta, dar cred
+că ţi-e teamă că-l cunosc prea bine.
+
+313
+00:33:33,678 --> 00:33:35,965
+- Nu mi-e teamă.
+- Ba da.
+
+314
+00:33:36,165 --> 00:33:40,242
+Ţi-e teamă că, până la urmă,
+te va vedea cum eşti cu adevărat
+
+315
+00:33:42,643 --> 00:33:44,517
+Letală.
+
+316
+00:33:47,417 --> 00:33:49,137
+Nu mă crezi?
+
+317
+00:33:53,016 --> 00:33:54,709
+Întreabă-l pe el.
+
+318
+00:34:01,330 --> 00:34:02,855
+Te simţi bine?
+
+319
+00:34:03,055 --> 00:34:04,055
+Da.
+
+320
+00:34:06,468 --> 00:34:09,061
+- Sigur?
+- Da.
+
+321
+00:34:58,671 --> 00:35:01,751
+- Nu vin cu voi, băieţi.
+- Poftim?
+
+322
+00:35:03,701 --> 00:35:06,928
+La Candizi.
+Eu nu vin cu voi.
+
+323
+00:35:10,658 --> 00:35:13,212
+- Ce tot spui?
+- Ce plan aveţi?
+
+324
+00:35:14,885 --> 00:35:16,838
+Să-i găsiţi pe neînfricaţii rămaşi,
+dar apoi?
+
+325
+00:35:17,290 --> 00:35:18,467
+Să-i atacaţi pe Erudiţi?
+
+326
+00:35:18,667 --> 00:35:21,309
+S-o ucideţi pe Jeanine
+şi să începeţi un război civil?
+
+327
+00:35:22,284 --> 00:35:24,935
+Îmi pare rău,
+nu sunt făcut pentru aşa ceva.
+
+328
+00:35:26,900 --> 00:35:28,451
+Nu sunt ca voi.
+
+329
+00:35:32,592 --> 00:35:36,428
+Ar trebui să mă-ntorc la Abnegaţi, să pun
+în ordine lucrurile părinţilor noştri.
+
+330
+00:35:36,628 --> 00:35:37,974
+Măcar acolo aş fi de folos.
+
+331
+00:35:38,174 --> 00:35:41,079
+Caleb, n-a mai rămas nimic din Abnegaţi.
+
+332
+00:35:43,356 --> 00:35:44,475
+Ai dreptate.
+
+333
+00:36:17,873 --> 00:36:20,683
+- Te simţi bine?
+- Vreau s-ajung la Candizi.
+
+334
+00:36:24,213 --> 00:36:25,253
+Tris!
+
+335
+00:36:29,270 --> 00:36:33,607
+Te simţi responsabilă pentru Caleb, ştiu,
+dar el a ales.
+
+336
+00:36:34,670 --> 00:36:36,516
+Nu-i poţi proteja pe toţi.
+
+337
+00:36:38,216 --> 00:36:41,963
+- Nu-i pot proteja pe toţi.
+- Nimeni nu poate.
+
+338
+00:36:42,890 --> 00:36:47,090
+Nu-i vina ta că a plecat.
+Nimic din toate astea nu sunt din vina ta.
+
+339
+00:36:49,220 --> 00:36:52,599
+Johanna avea dreptate.
+Trebuie să te ierţi.
+
+340
+00:37:00,141 --> 00:37:01,182
+Mulţumesc.
+
+341
+00:37:02,430 --> 00:37:04,185
+- Trebuie să ne grăbim.
+- Da.
+
+342
+00:37:31,389 --> 00:37:33,495
+- I-am găsit!
+- Da.
+
+343
+00:37:33,695 --> 00:37:35,802
+- Uitaţi-vă!
+- El este!
+
+344
+00:37:38,739 --> 00:37:40,638
+- Sunt foarte fericit să vă văd.
+- Ce mai faci?
+
+345
+00:37:40,838 --> 00:37:42,737
+Acum, mai bine.
+Inactivitatea nu-i pentru mine.
+
+346
+00:37:42,937 --> 00:37:44,266
+Tris!
+
+347
+00:37:47,589 --> 00:37:49,812
+- Sunt fericită să te văd.
+- Şi eu.
+
+348
+00:37:50,012 --> 00:37:52,045
+Ai aflat ceva de Will?
+
+349
+00:37:55,316 --> 00:37:57,193
+- Nu.
+- Nimic?
+
+350
+00:37:57,393 --> 00:37:58,393
+Nimic.
+
+351
+00:37:59,783 --> 00:38:01,481
+I s-o fi întâmplat ceva.
+
+352
+00:38:02,362 --> 00:38:04,279
+M-ar fi găsit până acum, nu?
+
+353
+00:38:05,960 --> 00:38:08,189
+Tris! Bună.
+
+354
+00:38:09,025 --> 00:38:10,255
+Cum te simţi? E-n regulă?
+
+355
+00:38:11,723 --> 00:38:14,025
+- Câţi suntem?
+- 165 de toţi.
+
+356
+00:38:14,225 --> 00:38:16,726
+- 165? Doar atât?
+- Ceilalţi l-au urmat pe Max.
+
+357
+00:38:16,926 --> 00:38:19,427
+- Suntem departe de ceea ce avem nevoie.
+- Foarte.
+
+358
+00:38:19,627 --> 00:38:22,357
+Hei! Lăsaţi armele!
+
+359
+00:38:24,587 --> 00:38:27,313
+- Hei, sunt cu noi.
+- Ştim cine sunteţi.
+
+360
+00:38:27,513 --> 00:38:30,240
+Ultimul avertisment.
+Lăsaţi jos pistoalele.
+
+361
+00:38:32,728 --> 00:38:34,137
+Bine.
+
+362
+00:38:45,669 --> 00:38:47,086
+Mai uşor.
+
+363
+00:38:59,310 --> 00:39:02,848
+- Sunt Jack Kang, şeful facţiunii.
+- Ştim cine eşti.
+
+364
+00:39:03,048 --> 00:39:04,732
+Nu suntem o ameninţare pentru Candizi.
+
+365
+00:39:04,832 --> 00:39:07,714
+O fi adevărul tău,
+dar nu-i obligatoriu să fie şi al meu.
+
+366
+00:39:08,580 --> 00:39:12,606
+Ceea ce ştiu e că sunteţi amândoi căutaţi
+pentru insurecţie şi conspiraţie
+
+367
+00:39:12,806 --> 00:39:14,365
+după atacul asupra abnegaţilor.
+
+368
+00:39:18,089 --> 00:39:19,145
+Numai minciuni.
+
+369
+00:39:19,245 --> 00:39:22,219
+Dacă aţi fi candizi,
+v-aş fi crezut pe cuvânt.
+
+370
+00:39:23,950 --> 00:39:27,135
+Date fiind circumstanţele,
+sunt obligat să vă predau consiliului.
+
+371
+00:39:27,335 --> 00:39:30,415
+- Vă veţi apăra acolo.
+- Ca şi cum ne-aţi ucide acum.
+
+372
+00:39:30,615 --> 00:39:33,787
+Dacă Jeanine ne găseşte,
+nu vom mai avea parte de un proces.
+
+373
+00:39:33,987 --> 00:39:37,159
+Permite-mi să mă îndoiesc.
+N-are trece niciodată peste consiliu.
+
+374
+00:39:37,359 --> 00:39:41,057
+Sunteţi sigur?
+Cine o va face? Tu?
+
+375
+00:39:42,300 --> 00:39:44,530
+Legile facţiunii se respectă.
+
+376
+00:39:44,730 --> 00:39:46,642
+Nu, staţi o clipă!
+
+377
+00:39:47,110 --> 00:39:48,860
+Te pot întreba ceva?
+
+378
+00:39:50,326 --> 00:39:51,785
+Te pot întreba ceva?
+
+379
+00:39:51,985 --> 00:39:54,768
+Pentru Jeanine,
+erudiţii sunt cei mai apţi pentru guvernare
+
+380
+00:39:54,968 --> 00:39:56,540
+pentru că sunt cei mai inteligenţi.
+
+381
+00:39:56,640 --> 00:40:00,044
+Voi sunteţi cei mai apţi de a judeca
+pentru că sunteţi cei mai sinceri?
+
+382
+00:40:00,244 --> 00:40:02,668
+Recunosc că am convingerea asta.
+
+383
+00:40:02,868 --> 00:40:05,440
+Atunci poţi afirma
+că un proces ţinut de candizi
+
+384
+00:40:05,640 --> 00:40:08,212
+va fi mai corect decât unul ţinut
+de erudiţi.
+
+385
+00:40:12,550 --> 00:40:14,191
+Răspunsul e da.
+
+386
+00:40:14,391 --> 00:40:18,967
+Un proces de-al candizilor ar avea
+o probabilitatea mai mare să fac dreptate.
+
+387
+00:40:19,450 --> 00:40:23,095
+Vrei să cer consiliului să ne acorde
+gestiunea proceselor?
+
+388
+00:40:23,295 --> 00:40:26,940
+În timpul iniţializării voastre
+administraţi serul adevărului.
+
+389
+00:40:27,140 --> 00:40:28,140
+Exact.
+
+390
+00:40:30,200 --> 00:40:32,862
+Nu discutăm despre asta
+cu cine nu face parte din facţiune.
+
+391
+00:40:33,062 --> 00:40:35,725
+- E un răspuns evaziv.
+- A fi evaziv nu înseamnă că minţi.
+
+392
+00:40:35,925 --> 00:40:37,330
+Dar nu înseamnă să fii sincer.
+
+393
+00:40:38,860 --> 00:40:42,742
+- Da, suntem în posesia serului.
+- Folosiţi-l pe noi.
+
+394
+00:40:42,942 --> 00:40:44,042
+Patru!
+
+395
+00:40:44,142 --> 00:40:46,742
+Dacă suntem vinovaţi,
+ne vom preda consiliului.
+
+396
+00:40:46,942 --> 00:40:49,733
+Dacă nu e aşa,
+aţi salvat două vieţi.
+
+397
+00:40:49,933 --> 00:40:53,231
+- Şi aţi găsit doi aliaţi fideli.
+- De acord.
+
+398
+00:40:53,431 --> 00:40:55,761
+Dar ar putea fi o experienţă cam dură.
+
+399
+00:40:55,961 --> 00:41:00,362
+Serul e studiat pentru candizii aspiranţi
+predispuşi la sinceritate.
+
+400
+00:41:00,562 --> 00:41:03,555
+Nu pentru toţi e uşor
+să-şi împărtăşească secretele.
+
+401
+00:41:05,215 --> 00:41:07,517
+- Nu vreau s-o fac.
+- Dar trebuie.
+
+402
+00:41:08,180 --> 00:41:10,634
+N-avem nimic de ascuns.
+
+403
+00:41:20,660 --> 00:41:22,587
+Fie ca adevărul să te elibereze.
+
+404
+00:41:40,250 --> 00:41:41,300
+Tobias Eaton.
+
+405
+00:41:45,320 --> 00:41:49,247
+Eşti acuzat de conspiraţie cu alţi
+neînfricaţi în atacul asupra abnegaţilor.
+
+406
+00:41:49,830 --> 00:41:51,585
+Ce e adevărat aici?
+
+407
+00:41:53,460 --> 00:41:55,476
+Conspiraţia nu.
+
+408
+00:41:55,676 --> 00:41:57,492
+Dar atacul, da.
+
+409
+00:41:57,692 --> 00:42:02,633
+Eram sub simulare, controlat de Jeanine
+şi de ceilalţi neînfricaţi recrutaţi de ea.
+
+410
+00:42:03,774 --> 00:42:05,255
+Tris m-a găsit.
+
+411
+00:42:06,550 --> 00:42:11,882
+Ea m-a eliberat din simulare
+şi împreună am luptat să scăpăm.
+
+412
+00:42:17,077 --> 00:42:20,098
+Vrei să spui
+că Jeanine a organizat atacul?
+
+413
+00:42:21,666 --> 00:42:23,016
+Da.
+
+414
+00:42:27,530 --> 00:42:29,141
+Încă ceva.
+
+415
+00:42:30,630 --> 00:42:33,307
+Dacă ai suspectat
+că Jeanine a corupt Neînfricaţii
+
+416
+00:42:33,800 --> 00:42:35,400
+de ce n-ai plecat?
+
+417
+00:42:36,856 --> 00:42:39,002
+De ce ai rămas?
+
+418
+00:42:39,410 --> 00:42:41,416
+Voiam să plec.
+
+419
+00:42:42,490 --> 00:42:44,770
+Dar m-am îndrăgostit de Tris Prior.
+
+420
+00:42:48,240 --> 00:42:49,909
+Şi nu puteam s-o las singură.
+
+421
+00:42:58,530 --> 00:43:00,687
+Mulţumesc pentru sinceritatea ta.
+
+422
+00:43:00,887 --> 00:43:02,844
+Mulţumim pentru sinceritatea ta.
+
+423
+00:43:03,044 --> 00:43:05,585
+Tobias Eaton,
+procesul acesta s-a concluzionat.
+
+424
+00:43:05,785 --> 00:43:08,326
+Eşti absolvit
+de acuzaţia de a fi atacat abnegaţii.
+
+425
+00:43:10,900 --> 00:43:12,473
+Tris Prior, te rog.
+
+426
+00:43:23,780 --> 00:43:25,558
+Fie ca adevărul să te elibereze.
+
+427
+00:43:40,504 --> 00:43:41,769
+Tris Prior
+
+428
+00:43:43,989 --> 00:43:46,413
+Tobias a spus
+că l-ai eliberat din simulare.
+
+429
+00:43:49,070 --> 00:43:50,397
+Da.
+
+430
+00:43:50,830 --> 00:43:53,159
+Deci tu n-ai fost niciodată sub simulare.
+
+431
+00:43:54,481 --> 00:43:55,515
+Nu.
+
+432
+00:43:56,640 --> 00:43:58,179
+Cum e posibil?
+
+433
+00:43:59,586 --> 00:44:01,767
+Pentru că sunt un divergent.
+
+434
+00:44:08,223 --> 00:44:09,885
+Înţeleg.
+
+435
+00:44:12,630 --> 00:44:17,060
+Deci n-ai făcut niciodată rău
+neînfricaţilor sau abnegaţilor.
+
+436
+00:44:17,260 --> 00:44:21,089
+Ba le-am făcut rău.
+
+437
+00:44:24,014 --> 00:44:25,231
+Am făcut-o.
+
+438
+00:44:28,728 --> 00:44:29,865
+Cui?
+
+439
+00:44:32,828 --> 00:44:34,374
+Mamei mele...
+
+440
+00:44:36,860 --> 00:44:42,393
+Am văzut murind mai întâi pe mama
+şi apoi pe tata.
+
+441
+00:44:42,493 --> 00:44:45,273
+Încercau să mă salveze şi i-au ucis.
+
+442
+00:44:49,900 --> 00:44:51,601
+Eu...
+
+443
+00:44:53,020 --> 00:44:57,139
+Tris Prior, cu cât rezişti mai mult,
+cu atât durerea va fi mai mare.
+
+444
+00:45:04,766 --> 00:45:09,392
+Prietenul meu...
+Mi-am omorât prietenul.
+
+445
+00:45:10,110 --> 00:45:12,175
+Voia să mă împuşte.
+
+446
+00:45:19,360 --> 00:45:21,051
+Şi... eu am tras prima.
+
+447
+00:45:25,220 --> 00:45:27,078
+Cum îl chema?
+
+448
+00:45:33,504 --> 00:45:35,351
+Cum îl chema?
+
+449
+00:45:39,086 --> 00:45:43,572
+Will.
+L-am ucis pe Will.
+
+450
+00:45:48,250 --> 00:45:51,015
+Asta se întâmplă celor care...
+
+451
+00:45:53,410 --> 00:45:56,208
+se apropie de mine.
+
+452
+00:46:04,789 --> 00:46:06,330
+Riscă să moară.
+
+453
+00:46:09,029 --> 00:46:11,570
+N-am să mi-o iert niciodată.
+
+454
+00:46:14,463 --> 00:46:16,537
+Mulţumesc pentru sinceritatea ta.
+
+455
+00:46:16,737 --> 00:46:18,811
+Mulţumim pentru sinceritatea ta.
+
+456
+00:46:34,056 --> 00:46:37,168
+Tris!
+
+457
+00:46:40,435 --> 00:46:42,372
+Îmi pare rău, sincer.
+
+458
+00:46:43,720 --> 00:46:46,192
+- Ţi-am zis că nu vreau s-o fac.
+- Eu...
+
+459
+00:46:58,664 --> 00:46:59,664
+- Christina.
+- Pleacă.
+
+460
+00:47:03,022 --> 00:47:04,348
+Pleacă.
+
+461
+00:47:13,618 --> 00:47:15,948
+<i>Simulare Abnegaţie terminată.</i>
+
+462
+00:47:17,620 --> 00:47:18,820
+<i>Începe simulare Neînfricaţi.</i>
+
+463
+00:47:22,560 --> 00:47:24,785
+Parametri vitali ai divergentei
+sunt în cădere.
+
+464
+00:47:24,985 --> 00:47:28,742
+- Dacă nu întrerupem, o pierdem.
+- Vei întrerupe când voi spune eu.
+
+465
+00:47:35,493 --> 00:47:37,180
+Va reuşi.
+
+466
+00:47:41,385 --> 00:47:43,312
+Trebuie să reuşească.
+
+467
+00:47:46,452 --> 00:47:49,135
+<i>Simulare eşuată.</i>
+
+468
+00:47:50,500 --> 00:47:52,931
+Subiectul Divergent 6 nu mai e în viaţă.
+
+469
+00:47:56,080 --> 00:47:58,056
+Sfârşitul experimentului.
+
+470
+00:48:00,390 --> 00:48:01,856
+O pierdere de timp.
+
+471
+00:48:03,930 --> 00:48:08,206
+Eram sigură
+că toţi Divergenţii sunt la fel.
+
+472
+00:48:11,191 --> 00:48:13,688
+Dar unii sunt mai puternici decât alţii.
+
+473
+00:48:16,048 --> 00:48:19,682
+Trimiteţi personalul ne esenţial
+în căutarea divergenţilor.
+
+474
+00:48:19,960 --> 00:48:21,883
+Trebuie să ne implicăm mai mult.
+
+475
+00:48:22,350 --> 00:48:24,503
+Trebuie să găsim subiectul perfect.
+
+476
+00:48:44,400 --> 00:48:46,349
+Unde-i tulburătorul tău prieten?
+
+477
+00:48:50,083 --> 00:48:52,323
+S-o fi dus să facă lucruri
+de tip tulburător.
+
+478
+00:48:58,216 --> 00:48:59,902
+Pot să-ţi ţin companie?
+
+479
+00:49:04,647 --> 00:49:06,093
+Îmi place înălţimea.
+
+480
+00:49:08,010 --> 00:49:10,350
+De-aici totul pare atât de mic.
+
+481
+00:49:13,100 --> 00:49:15,014
+Ştii, pare nebunesc, dar...
+
+482
+00:49:15,380 --> 00:49:19,250
+câteodată mi se pare că văd lumini
+dincolo de zid.
+
+483
+00:49:21,410 --> 00:49:25,529
+Se spune
+că dincolo e doar pământ nelocuit, dar...
+
+484
+00:49:27,372 --> 00:49:30,575
+nu se poate să fi rămas doar noi.
+Nu crezi?
+
+485
+00:49:35,947 --> 00:49:37,103
+Fugi!
+
+486
+00:49:37,303 --> 00:49:39,459
+- Armele cele mai apropiate?
+- La parter!
+
+487
+00:50:57,540 --> 00:50:59,157
+Liber, coborâm!
+
+488
+00:51:27,415 --> 00:51:30,527
+Mamă! Mamă!
+
+489
+00:51:32,896 --> 00:51:37,443
+- Mamă, mă doare.
+- Şi eu am unul.
+
+490
+00:51:38,335 --> 00:51:40,324
+Vezi? Nu-i nimic grav.
+
+491
+00:51:41,110 --> 00:51:45,577
+E doar ceva ce i-a adormit pe toţi.
+Tu, acum, trebuie să-mi faci o favoare.
+
+492
+00:51:45,777 --> 00:51:50,244
+Trebuie să urci tocmai sus şi să nu cobori
+până nu vine mama după tine.
+
+493
+00:51:50,444 --> 00:51:53,586
+- Trebuie să cobor.
+- Nu trebuie, ai înţeles?
+
+494
+00:51:55,042 --> 00:51:56,549
+Trebuie să fii curajoasă.
+
+495
+00:51:57,701 --> 00:52:00,013
+Bravo. Fugi acum.
+
+496
+00:52:35,927 --> 00:52:37,107
+Hei!
+
+497
+00:52:37,640 --> 00:52:39,309
+De ce suntem singurii treji?
+
+498
+00:52:40,620 --> 00:52:42,079
+Pentru că suntem divergenţi.
+
+499
+00:52:42,279 --> 00:52:44,897
+Hai şi mă ajută.
+Trebuie să deschidem aici.
+
+500
+00:52:45,097 --> 00:52:46,976
+Trebuie să m-ajuţi!
+
+501
+00:52:50,447 --> 00:52:51,562
+Hai!
+
+502
+00:52:52,575 --> 00:52:53,702
+Hei!
+
+503
+00:52:54,262 --> 00:52:57,038
+Ia te uită peste cine dăm!
+
+504
+00:53:04,180 --> 00:53:06,136
+Îmi pare bine să te văd.
+
+505
+00:53:12,280 --> 00:53:15,868
+Aşadar, dlor,
+nu trebuie să fiţi nervoşi.
+
+506
+00:53:16,550 --> 00:53:20,176
+E doar un mic control de rutină,
+după care revenim la treburile noastre.
+
+507
+00:53:22,695 --> 00:53:23,862
+Salutare!
+
+508
+00:53:28,541 --> 00:53:30,994
+<i>Divergent 10 %.</i>
+
+509
+00:53:32,408 --> 00:53:33,803
+Ia te uită!
+
+510
+00:53:34,540 --> 00:53:36,152
+Eşti aproape normal.
+
+511
+00:53:37,150 --> 00:53:38,161
+Ce plictiseală!
+
+512
+00:53:40,728 --> 00:53:42,378
+Asta nu face parte din misiune.
+
+513
+00:53:42,578 --> 00:53:43,728
+Şi?
+
+514
+00:53:45,160 --> 00:53:47,174
+Din partea mea,
+sunt în afara legii.
+
+515
+00:53:48,300 --> 00:53:52,168
+Să terminăm cât mai repede
+până se trezesc ceilalţi.
+
+516
+00:54:04,553 --> 00:54:06,435
+- Bună, scumpete.
+- Nu trebuia...
+
+517
+00:54:09,250 --> 00:54:13,047
+<i>- Divergent 40%.
+- Cred că nu eşti nici măcar tu.</i>
+
+518
+00:54:14,952 --> 00:54:16,447
+Doamna a zis că...
+
+519
+00:54:17,320 --> 00:54:20,520
+Doamna a zis că eu nu trebuie să cobor.
+
+520
+00:54:21,010 --> 00:54:22,965
+Poate trebuia s-o asculţi.
+
+521
+00:54:34,125 --> 00:54:36,910
+Ajunge! Trebuie să-i facem testul!
+
+522
+00:54:39,476 --> 00:54:41,340
+Jeanine a zis să facem testul tuturor.
+
+523
+00:54:48,908 --> 00:54:52,650
+<i>- Divergent 100%.
+- Avem o potrivire.</i>
+
+524
+00:54:52,951 --> 00:54:55,584
+- Ce e?
+- Pe ea o căutam.
+
+525
+00:54:56,220 --> 00:54:58,156
+Nu-mi vine să cred.
+
+526
+00:55:02,120 --> 00:55:04,556
+<i>Divergent 100%.</i>
+
+527
+00:55:07,030 --> 00:55:08,220
+Scoateţi-o afară!
+
+528
+00:55:08,580 --> 00:55:10,169
+Eu o voi anunţa pe Jeanine.
+
+529
+00:55:14,485 --> 00:55:17,626
+Dacă crezi că eşti norocoasă,
+te înşeli.
+
+530
+00:55:18,636 --> 00:55:21,081
+Vei plânge că nu te-am ucis.
+
+531
+00:55:36,188 --> 00:55:37,970
+Lăsaţi armele!
+
+532
+00:55:52,779 --> 00:55:53,979
+Mulţumesc.
+
+533
+00:55:55,830 --> 00:55:57,470
+Ai noroc că ai un pistol.
+
+534
+00:55:59,920 --> 00:56:02,834
+Ştim amândoi că fără pistol eşti un nimeni.
+
+535
+00:56:34,851 --> 00:56:38,005
+Crezi că ea e în siguranţă acum?
+Te înşeli.
+
+536
+00:56:39,090 --> 00:56:41,148
+Jeanine te va căuta în continuare.
+
+537
+00:56:44,720 --> 00:56:50,304
+De ce?
+Ce vrea de la ea? Spune-mi!
+
+538
+00:56:50,540 --> 00:56:55,271
+Ştiu doar că e exact ceea ce căuta.
+E subiectul perfect.
+
+539
+00:56:59,000 --> 00:57:00,968
+Vrei să mă sperii cu ăla?
+
+540
+00:57:02,688 --> 00:57:07,260
+Ai pe conştiinţă moartea a sute de oameni.
+Ştii care e pedeapsa.
+
+541
+00:57:08,026 --> 00:57:12,692
+Vezi tu... Eu sunt capabil să trăiesc
+cu mâinile pline de sânge.
+
+542
+00:57:14,224 --> 00:57:15,450
+Poţi şi tu?
+
+543
+00:57:46,790 --> 00:57:48,400
+De ce nu ne doare?
+
+544
+00:57:48,673 --> 00:57:51,613
+Ştiu doar că m-a făcut să cad
+într-un somn artificial.
+
+545
+00:57:51,614 --> 00:57:52,813
+Hector, nu-i de joacă!
+
+546
+00:58:04,098 --> 00:58:05,474
+Ştiţi ce semnifică?
+
+547
+00:58:06,740 --> 00:58:08,100
+Mulţumesc...
+
+548
+00:58:08,670 --> 00:58:11,830
+- Pentru ajutorul tău.
+- Aş fi vrut să fac mai mult.
+
+549
+00:58:12,850 --> 00:58:15,270
+Nu credeam că Jeanine
+ar fi capabilă de atâtea lucruri.
+
+550
+00:58:16,310 --> 00:58:18,680
+A venit momentul să reacţionăm.
+
+551
+00:58:18,790 --> 00:58:20,439
+- Suntem prea puţini.
+- Nu şi acum.
+
+552
+00:58:22,293 --> 00:58:23,770
+Au sosit de la Excluşi.
+
+553
+00:58:28,636 --> 00:58:29,646
+Ai auzit ce-a zis Eric?
+
+554
+00:58:30,314 --> 00:58:34,700
+Jeanine nu va înceta să te vâneze.
+Nu putem face altceva.
+
+555
+00:58:40,647 --> 00:58:44,692
+Tris Prior. Sigur.
+
+556
+00:58:44,693 --> 00:58:46,746
+Cine putea fi?
+
+557
+00:58:47,620 --> 00:58:50,125
+- E urmărită în continuare?
+- Da.
+
+558
+00:58:50,510 --> 00:58:52,611
+Dar poate am găsit o soluţie.
+
+559
+00:58:56,520 --> 00:58:59,207
+- Numele tău e Peter?
+- Da.
+
+560
+00:58:59,790 --> 00:59:03,770
+Jeanine, e o mare onoare
+să te cunosc în sfârşit.
+
+561
+00:59:05,706 --> 00:59:06,882
+Felicitări mamă.
+
+562
+00:59:08,284 --> 00:59:09,537
+Ai războiul tău.
+
+563
+00:59:10,050 --> 00:59:14,058
+- Ai prefera o altă cale, ştiu.
+- Dar nu e.
+
+564
+00:59:17,180 --> 00:59:19,409
+Şi eu sunt răul cel mai mic,
+nu e aşa?
+
+565
+00:59:25,370 --> 00:59:28,250
+- Fă să fie.
+- Spune-mi...
+
+566
+00:59:29,390 --> 00:59:31,224
+De ce te-ai predat la Erudiţi?
+
+567
+00:59:33,180 --> 00:59:34,780
+Ce doreşti?
+
+568
+00:59:36,500 --> 00:59:39,070
+Poziţia ce o merit printre voi.
+
+569
+00:59:40,170 --> 00:59:43,697
+O poziţie cu oportunităţi
+de avansare în carieră.
+
+570
+00:59:45,330 --> 00:59:47,332
+Sunt nerăbdător, dar nu-s idiot.
+
+571
+00:59:49,300 --> 00:59:51,151
+Fără supărare, Max.
+
+572
+00:59:55,320 --> 00:59:57,638
+Demonstrează-ne cât valorezi.
+
+573
+00:59:58,670 --> 01:00:00,643
+Apoi vom discuta de ambiţiile tale.
+
+574
+01:00:01,010 --> 01:00:02,410
+Perfect.
+
+575
+01:00:03,340 --> 01:00:04,680
+Când încep?
+
+576
+01:00:04,710 --> 01:00:07,110
+Să vorbim despre amica ta Tris Prior.
+
+577
+01:00:08,940 --> 01:00:11,970
+- Cum fac s-o prind?
+- E simplu.
+
+578
+01:00:11,971 --> 01:00:14,803
+Fata are capacitate de sacrificiu.
+A mers la Abnegaţie.
+
+579
+01:00:14,860 --> 01:00:17,460
+E punctul său vulnerabil.
+Trebuie doar să ştii să-l exploatezi.
+
+580
+01:00:18,030 --> 01:00:20,529
+Ajutor! Veniţi! Rapid!
+
+581
+01:00:26,053 --> 01:00:29,220
+- Priviţi!
+- Acolo sus!
+
+582
+01:00:30,696 --> 01:00:35,233
+Trădătoarea Tris Prior
+trebuie să fie predată la Erudiţi.
+
+583
+01:00:35,234 --> 01:00:37,775
+În fiecare zi alţi morţi ne vor urma.
+
+584
+01:00:42,419 --> 01:00:43,419
+Repede!
+
+585
+01:00:44,026 --> 01:00:45,119
+Predaţi-o pe Tris Prior.
+
+586
+01:00:46,455 --> 01:00:48,580
+În fiecare zi alţi morţi ne vor urma.
+
+587
+01:00:51,470 --> 01:00:53,344
+Predaţi-o pe Tris Prior.
+
+588
+01:00:53,833 --> 01:00:56,372
+În fiecare zi alţi morţi ne vor urma.
+
+589
+01:00:56,572 --> 01:00:57,572
+Coborâţi!
+
+590
+01:01:01,154 --> 01:01:02,562
+Predaţi-o pe Tris Prior.
+
+591
+01:01:02,762 --> 01:01:05,358
+- În fiecare zi alţi morţi ne vor urma.
+- Christina!
+
+592
+01:01:05,558 --> 01:01:06,558
+Nu!
+
+593
+01:01:19,560 --> 01:01:21,000
+Christina!
+
+594
+01:01:21,780 --> 01:01:23,110
+Ajută-mă!
+
+595
+01:01:23,940 --> 01:01:25,070
+Tris!
+
+596
+01:02:02,021 --> 01:02:04,225
+Am extras asta din cadavrul sinucigaşei.
+
+597
+01:02:04,520 --> 01:02:08,743
+Marlene.
+Numele ei era Marlene.
+
+598
+01:02:09,359 --> 01:02:12,161
+Îmi cer scuze. Marlene.
+
+599
+01:02:13,148 --> 01:02:15,459
+E un dispozitiv de simulare.
+
+600
+01:02:15,780 --> 01:02:17,600
+E dotat şi cu un transmiţător radio.
+
+601
+01:02:17,660 --> 01:02:20,915
+- Cum îl scoatem?
+- Nu ştiu.
+
+602
+01:02:21,060 --> 01:02:23,355
+E construit să se autoprotejeze.
+
+603
+01:02:23,590 --> 01:02:24,740
+Filamentul ăsta...
+
+604
+01:02:25,760 --> 01:02:27,732
+se încolăceşte de pielea cea mai apropiată.
+
+605
+01:02:27,760 --> 01:02:29,815
+Dacă încercăm să scoatem dispozitivul
+
+606
+01:02:30,220 --> 01:02:32,162
+înseamnă să ucidem gazda.
+
+607
+01:02:32,700 --> 01:02:33,910
+Să ucidem gazda?
+
+608
+01:02:36,660 --> 01:02:37,967
+Atunci ce facem?
+
+609
+01:02:37,968 --> 01:02:41,159
+Tori trebuie să neutralizeze dispozitivele
+înainte de orice.
+
+610
+01:02:41,260 --> 01:02:43,206
+Sau poate facem o chestie mai logică.
+
+611
+01:02:43,650 --> 01:02:45,080
+O predăm pe Tris.
+
+612
+01:02:45,390 --> 01:02:47,510
+Nimeni nu ştie de alianţa noastră.
+
+613
+01:02:47,530 --> 01:02:49,633
+Trebuie să menţinem avantajul ăsta.
+
+614
+01:02:49,634 --> 01:02:51,290
+Deci, dacă o predăm acum...
+
+615
+01:02:52,320 --> 01:02:54,819
+vom câştiga timp preţios.
+
+616
+01:03:03,221 --> 01:03:04,573
+Cred că e o idee bună.
+
+617
+01:03:05,120 --> 01:03:07,884
+- Sigur că e.
+- Dar trebuie să treci peste cadavrul meu.
+
+618
+01:03:08,185 --> 01:03:10,540
+- Şi peste al meu.
+- Şi peste al nostru.
+
+619
+01:03:23,274 --> 01:03:25,778
+Nu eu am ceva implantat în corp.
+
+620
+01:03:56,537 --> 01:03:58,400
+Ştiu la ce te gândeşti.
+
+621
+01:04:01,242 --> 01:04:03,005
+Dar nu îţi voi permite s-o faci.
+
+622
+01:04:10,476 --> 01:04:12,696
+Nu mai vreau
+să moară şi alţii din cauza mea.
+
+623
+01:04:13,034 --> 01:04:15,131
+Vei vedea că nimeni
+nu va mai muri din cauza ta.
+
+624
+01:04:15,591 --> 01:04:17,559
+Tori va reuşi să dezactiveze dispozitivele.
+
+625
+01:04:17,759 --> 01:04:20,952
+- Şi dacă nu va reuşi?
+- Atunci... noi...
+
+626
+01:04:23,393 --> 01:04:27,206
+Dacă nu reuşeşte vom găsi o soluţie.
+
+627
+01:04:28,491 --> 01:04:29,593
+Împreună.
+
+628
+01:04:30,653 --> 01:04:32,296
+Eu sunt o singură persoană.
+
+629
+01:04:35,545 --> 01:04:38,161
+- Nu merită.
+- Ba merită.
+
+630
+01:04:38,361 --> 01:04:40,311
+Pentru mine merită.
+
+631
+01:04:42,066 --> 01:04:43,746
+Eu te iubesc.
+
+632
+01:06:53,971 --> 01:06:57,483
+<i>Oraşul nostru e înconjurat de un zid mare.</i>
+
+633
+01:06:57,957 --> 01:07:02,649
+<i>Zidul singur nu asigură protecţia noastră.</i>
+
+634
+01:07:04,645 --> 01:07:11,522
+<i>E datoria fiecăruia de a fi mereu în gardă
+la orice ameninţare.</i>
+
+635
+01:07:12,774 --> 01:07:16,883
+<i>Cei ce se ascund printre noi
+vor fi neutralizaţi.</i>
+
+636
+01:07:17,690 --> 01:07:21,559
+<i>Acum aş dori să înfrunt contestaţiile
+celorlalţi capi de facţiuni.</i>
+
+637
+01:07:22,623 --> 01:07:26,246
+<i>Ştiu că a fost o preocupare mare
+pentru inevitabila incursiune </i>
+
+638
+01:07:26,247 --> 01:07:29,797
+<i>în sediul Candorii.
+Aşa că voi fi foarte clară.</i>
+
+639
+01:07:31,349 --> 01:07:34,778
+<i>Acordarea de refugiu Divergenţilor
+din partea oricărei facţiuni</i>
+
+640
+01:07:34,779 --> 01:07:36,686
+<i>nu este permis.</i>
+
+641
+01:07:38,475 --> 01:07:42,471
+<i>Curând vă voi aduce la cunoştinţă
+de ceea ce eu vreau să fie un mandat</i>
+
+642
+01:07:42,472 --> 01:07:44,251
+<i>din partea strămoşilor.</i>
+
+643
+01:07:45,126 --> 01:07:50,416
+<i>Şi fără dubiu voi folosi măsurile
+ce le adopt pentru menţinerea păcii.</i>
+
+644
+01:07:51,109 --> 01:07:55,568
+<i>Şi ne va oferi instrucţiunile ce ne permit
+să rezolvăm criza Divergentă.</i>
+
+645
+01:07:55,569 --> 01:07:57,392
+<i>Odată pentru totdeauna.</i>
+
+646
+01:08:12,543 --> 01:08:14,073
+Ce faci?
+
+647
+01:08:14,939 --> 01:08:16,578
+A plecat. S-a predat.
+
+648
+01:08:18,082 --> 01:08:20,371
+Ce? Când?
+
+649
+01:08:21,000 --> 01:08:22,578
+- Azi noapte.
+- Aşteaptă.
+
+650
+01:08:26,740 --> 01:08:30,059
+Tobias!
+Poporul nostru te consideră şef.
+
+651
+01:08:30,170 --> 01:08:32,420
+Nu-l poţi abandona tocmai acum.
+
+652
+01:08:37,326 --> 01:08:38,441
+Tobias!
+
+653
+01:08:48,200 --> 01:08:49,250
+La naiba!
+
+654
+01:08:51,300 --> 01:08:53,357
+Trebuie să recunosc că sunt uimit.
+
+655
+01:08:54,684 --> 01:08:56,643
+Ştiam că eşti tu, dar...
+
+656
+01:08:56,980 --> 01:09:00,329
+nu credeam
+că erai pe punctul de a veni aici.
+
+657
+01:09:00,530 --> 01:09:02,089
+Şi să te predai nouă.
+
+658
+01:09:07,858 --> 01:09:09,340
+Ajunge cu morţii.
+
+659
+01:09:10,411 --> 01:09:13,747
+Asta demonstrează
+că chiar dacă scoţi o fată din Abnegaţie
+
+660
+01:09:13,980 --> 01:09:16,081
+nu poţi scoate abnegaţia din ea.
+
+661
+01:09:16,650 --> 01:09:18,800
+Să mergem.
+
+662
+01:09:19,400 --> 01:09:21,899
+Dacă te naşti Băţoasă,
+mori Băţoasă.
+
+663
+01:09:32,500 --> 01:09:36,320
+- Ce e?
+- Ăsta-i motivul pentru care ai venit?
+
+664
+01:09:37,060 --> 01:09:40,120
+Îmi placi.
+Ştiu lucruri pe care tu nu le ştii.
+
+665
+01:09:40,900 --> 01:09:43,080
+Trebuie să deschizi cutia, Tris.
+
+666
+01:09:48,950 --> 01:09:52,316
+E singurul mod să treci peste simulările
+tuturor celor cinci facţiuni.
+
+667
+01:09:54,270 --> 01:09:57,502
+Dar cei care au încercat până acum
+sunt morţi.
+
+668
+01:10:01,244 --> 01:10:03,014
+Poate nu trebuia să-ţi zic.
+
+669
+01:10:03,507 --> 01:10:04,614
+Ei bine...
+
+670
+01:10:05,640 --> 01:10:07,290
+Nu te agita.
+
+671
+01:10:08,119 --> 01:10:09,459
+Extraordinar!
+
+672
+01:10:10,624 --> 01:10:14,975
+Câte posibilităţi erau ca tu să fii
+dintre toţi?
+
+673
+01:10:15,830 --> 01:10:18,300
+Era aproape imposibil.
+
+674
+01:10:21,873 --> 01:10:24,200
+Extraordinar ca şi numărul de persoane
+pe care le-ai ucis.
+
+675
+01:10:26,940 --> 01:10:29,402
+Momentele de întuneric
+cer măsuri extreme.
+
+676
+01:10:31,560 --> 01:10:34,347
+Îţi va fi greu să crezi.
+
+677
+01:10:34,417 --> 01:10:36,956
+Dar eu sunt în slujba unui bine mai mare.
+
+678
+01:10:39,450 --> 01:10:41,140
+Pune-te în centrul discului, te rog.
+
+679
+01:11:02,630 --> 01:11:04,840
+Pune-te în centrul discului, te rog.
+
+680
+01:11:12,960 --> 01:11:14,140
+Doamnă...
+
+681
+01:11:23,050 --> 01:11:25,799
+Întrerupe lanţul de sinucideri
+sau jur că îl omor.
+
+682
+01:11:26,340 --> 01:11:30,809
+Bine. Poţi să-l ucizi dacă vrei.
+Avem multe gărzi.
+
+683
+01:11:32,377 --> 01:11:33,709
+Ce?
+
+684
+01:12:11,729 --> 01:12:16,811
+Cred că îţi trebuiesc vie
+pentru experimentul tău. Aşa e?
+
+685
+01:12:19,490 --> 01:12:20,720
+Aşa e?
+
+686
+01:12:33,785 --> 01:12:35,989
+Tris.
+
+687
+01:12:39,000 --> 01:12:40,260
+Caleb.
+
+688
+01:12:42,187 --> 01:12:43,560
+Caleb.
+
+689
+01:12:43,880 --> 01:12:47,460
+Nu interacţiona cu subiectul.
+
+690
+01:12:49,060 --> 01:12:50,390
+Condiţiile nu sunt optime.
+
+691
+01:13:00,110 --> 01:13:01,210
+Dumnezeule.
+
+692
+01:13:12,030 --> 01:13:14,881
+Dacă o fac, sinuciderile vor înceta?
+
+693
+01:13:17,340 --> 01:13:20,991
+Nu. Sinuciderile vor continua.
+
+694
+01:13:21,540 --> 01:13:24,988
+Până când nu ai trecut
+toate cinci simulările.
+
+695
+01:13:26,340 --> 01:13:28,951
+Poate fi un stimulent suficient.
+
+696
+01:13:31,770 --> 01:13:32,980
+Baftă.
+
+697
+01:14:44,945 --> 01:14:46,065
+Începem.
+
+698
+01:14:48,345 --> 01:14:50,309
+<i>Începe simularea.</i>
+
+699
+01:15:10,097 --> 01:15:13,320
+Mamă.
+
+700
+01:15:16,287 --> 01:15:17,500
+Tris, ajută-mă!
+
+701
+01:15:47,942 --> 01:15:49,752
+<i>Frecvenţă cardiacă în creştere.</i>
+
+702
+01:15:51,282 --> 01:15:52,598
+Continuăm.
+
+703
+01:16:12,130 --> 01:16:13,320
+Mamă!
+
+704
+01:16:23,486 --> 01:16:25,186
+Tris!
+
+705
+01:17:00,500 --> 01:17:02,466
+Mamă!
+
+706
+01:17:06,666 --> 01:17:08,166
+Sosesc.
+
+707
+01:17:53,983 --> 01:17:55,355
+Tris!
+
+708
+01:17:56,188 --> 01:17:57,745
+Ţine-te bine!
+
+709
+01:18:08,574 --> 01:18:09,917
+Tris.
+
+710
+01:18:11,756 --> 01:18:13,724
+<i>Simulare Neînfricare terminată.</i>
+
+711
+01:18:28,224 --> 01:18:31,756
+- Îmi lipseşti mult, mamă.
+- Ştiu că îţi lipsesc.
+
+712
+01:18:33,281 --> 01:18:34,947
+Dar sunt mereu cu tine.
+
+713
+01:18:46,357 --> 01:18:48,110
+Acum trebuie să fii puternică.
+
+714
+01:18:49,603 --> 01:18:51,363
+Zi-mi că vei reuşi.
+
+715
+01:18:51,908 --> 01:18:53,941
+- Voi reuşi.
+- O poţi face.
+
+716
+01:18:54,266 --> 01:18:56,054
+Ştiu că poţi.
+
+717
+01:18:56,718 --> 01:19:00,912
+Eşti curajoasă.
+Mai curajoasă ca oricine.
+
+718
+01:19:02,395 --> 01:19:04,487
+Nu, nu sunt deloc.
+
+719
+01:19:07,398 --> 01:19:09,714
+Mă prefac că aş fi.
+
+720
+01:19:10,680 --> 01:19:13,549
+Vreau ca oamenii să creadă asta,
+dar nu e adevărat.
+
+721
+01:19:17,574 --> 01:19:20,379
+Mi-e teamă că ...
+
+722
+01:19:21,040 --> 01:19:24,071
+ce e greşit pe lumea asta suntem noi.
+
+723
+01:19:25,703 --> 01:19:27,570
+Divergenţii.
+
+724
+01:19:28,850 --> 01:19:31,582
+N-am vrut să se întâmple asta.
+
+725
+01:19:32,450 --> 01:19:35,860
+Tu, tata, Caleb, iată şi Patru.
+
+726
+01:19:36,675 --> 01:19:43,211
+Mă gândesc că dacă n-aş fi Divergentă
+am fi fost acum împreună.
+
+727
+01:19:45,034 --> 01:19:47,976
+Mamă, nu mai vreau să mai fiu Divergentă.
+
+728
+01:19:47,977 --> 01:19:51,162
+Vreau să mă simt din nou în siguranţă.
+
+729
+01:19:54,019 --> 01:19:56,293
+<i>Simulare Candoare terminată.</i>
+
+730
+01:20:16,259 --> 01:20:19,029
+Patru. Eşti aici?
+
+731
+01:20:19,229 --> 01:20:20,673
+- Da. Iată-mă.
+- Eşti aici...
+
+732
+01:20:22,757 --> 01:20:24,454
+- E totul în regulă?
+- Da.
+
+733
+01:20:25,850 --> 01:20:27,360
+Controlaţi coridorul!
+
+734
+01:20:31,240 --> 01:20:32,606
+Să plecăm de aici.
+
+735
+01:20:34,504 --> 01:20:35,681
+- Eşti bine?
+- Da.
+
+736
+01:20:50,369 --> 01:20:52,236
+Opreşte-te!
+Lasă-l să plece!
+
+737
+01:20:53,017 --> 01:20:54,544
+Cum, nu vrei să mă împuşti?
+
+738
+01:20:55,540 --> 01:20:57,334
+Dacă te naşti Băţoasă, mori Băţoasă.
+
+739
+01:21:10,105 --> 01:21:11,180
+Acum!
+
+740
+01:21:18,000 --> 01:21:21,229
+Patru, cum ai trecut de supraveghere?
+
+741
+01:21:21,230 --> 01:21:23,873
+Noi, băieţii băgăcioşi, avem multe resurse.
+
+742
+01:21:28,614 --> 01:21:29,817
+Ce e?
+
+743
+01:21:32,843 --> 01:21:36,021
+Tu n-ai fost acolo.
+Nu ai putut să-l auzi.
+
+744
+01:21:38,011 --> 01:21:39,221
+Tris.
+
+745
+01:21:39,760 --> 01:21:41,540
+Trebuie să mergem repede. Clar?
+
+746
+01:21:42,980 --> 01:21:44,513
+Trebuie să-ţi cer scuze.
+
+747
+01:21:45,297 --> 01:21:48,382
+- Ce?
+- Scuze că nu ţi-am zis că plec.
+
+748
+01:21:49,530 --> 01:21:52,457
+Voiam să-ţi zic adio,
+dar nu ştiam cum să fac.
+
+749
+01:21:52,657 --> 01:21:55,526
+- Nu ştiam cum să fac.
+- Despre ce vorbeşti?
+
+750
+01:21:59,480 --> 01:22:05,507
+N-am reuşit să-ţi zic în viaţa reală,
+dar îţi pot spune acum.
+
+751
+01:22:06,343 --> 01:22:10,500
+- Chiar dacă e o simulare.
+- Tris, nu e o simulare.
+
+752
+01:22:11,210 --> 01:22:14,822
+- Nu crezi că mi-aş da seama dacă aş fi?
+- Nu eşti...
+
+753
+01:22:15,620 --> 01:22:17,536
+într-o simulare.
+
+754
+01:22:20,304 --> 01:22:23,992
+- Tu eşti simularea.
+- Stai...
+
+755
+01:22:56,683 --> 01:22:58,560
+<i>Simulare Erudiţie terminată.</i>
+
+756
+01:22:59,420 --> 01:23:03,226
+- Rămân doar Paşnicii.
+- Lipseşte şi cea de la Abnegaţie.
+
+757
+01:23:03,227 --> 01:23:06,220
+Nu, a trecut-o.
+Când ţi-a cruţat viaţa.
+
+758
+01:23:08,444 --> 01:23:10,649
+Fata asta e extraordinară.
+
+759
+01:23:11,420 --> 01:23:14,206
+A rezultat potrivită
+la patru facţiuni într-o zi.
+
+760
+01:23:16,777 --> 01:23:18,534
+Nimeni n-a mai reuşit.
+
+761
+01:23:20,130 --> 01:23:21,340
+Avem o problemă.
+
+762
+01:23:26,920 --> 01:23:29,146
+Se apropie de colaps.
+Trebuie să se odihnească.
+
+763
+01:23:30,230 --> 01:23:32,974
+Poate ataşamentul familiar
+îţi blochează gândirea?
+
+764
+01:23:33,330 --> 01:23:34,677
+Uită-te şi tu.
+
+765
+01:23:42,730 --> 01:23:43,790
+Foarte bine.
+
+766
+01:23:46,030 --> 01:23:47,616
+Deconectaţi subiectul.
+
+767
+01:23:58,920 --> 01:24:02,222
+Excelentă treabă, domnilor.
+Vom relua mâine.
+
+768
+01:24:44,867 --> 01:24:47,977
+Nu te gândeai să te întorci la Abnegaţi,
+aşa e?
+
+769
+01:24:50,843 --> 01:24:52,862
+Am făcut ceea ce credeam că e corect.
+
+770
+01:24:53,772 --> 01:24:56,105
+Tatei i-ar fi ruşine cu tine.
+
+771
+01:24:57,437 --> 01:25:02,787
+Cine ştie, poate că nu.
+Poate că sunt gata să-mi sacrific sora.
+
+772
+01:25:03,910 --> 01:25:05,515
+Singura familie ce îmi rămâne.
+
+773
+01:25:05,615 --> 01:25:08,843
+Singura persoană ce o iubesc.
+Pentru a apăra ce e mai bine pentru toţi.
+
+774
+01:25:11,718 --> 01:25:13,378
+Ce e mai altruist?
+
+775
+01:25:22,166 --> 01:25:25,337
+Jeanine ce crede
+că ar trebui să fie în cutie?
+
+776
+01:25:25,705 --> 01:25:27,279
+Un mesaj de la strămoşi.
+
+777
+01:25:27,782 --> 01:25:32,073
+Dar poate fi deschisă numai dacă
+sistemul facţiunilor ar intra în criză.
+
+778
+01:25:32,074 --> 01:25:34,331
+De asta e nevoie de una ca tine.
+
+779
+01:25:35,611 --> 01:25:39,593
+Eşti dovada vie că problema cu Divergenţii
+a scăpat de sub control.
+
+780
+01:25:40,340 --> 01:25:42,499
+Îţi dai seama de ceea ce spui?
+
+781
+01:25:43,750 --> 01:25:46,635
+Crede că e numai vina ta
+că eşti născută aşa.
+
+782
+01:25:46,851 --> 01:25:49,109
+Jeanine a exterminat o întreagă facţiune,
+Caleb.
+
+783
+01:25:49,110 --> 01:25:51,356
+O facţiune în care
+nu se mai putea avea încredere.
+
+784
+01:25:51,357 --> 01:25:52,641
+Ne-a ucis părinţii.
+
+785
+01:25:52,642 --> 01:25:55,261
+Ei singuri sunt responsabili
+pentru moartea lor.
+
+786
+01:25:55,461 --> 01:25:56,461
+Ce vorbeşti?
+
+787
+01:25:57,995 --> 01:26:00,250
+Cutia era în casa lor.
+
+788
+01:26:00,251 --> 01:26:02,153
+Ei au ascuns-o.
+
+789
+01:26:02,154 --> 01:26:04,255
+Toate vieţile alea ar fi putut fi cruţate.
+
+790
+01:26:06,289 --> 01:26:08,563
+Probabil nu-i cunoşteam
+atât de bine pe cât credeam.
+
+791
+01:26:11,570 --> 01:26:14,190
+Reuniunea de familie s-a terminat.
+E vremea să mergem.
+
+792
+01:26:22,397 --> 01:26:24,749
+Am o surpriză pentru tine, Tris.
+
+793
+01:26:28,726 --> 01:26:30,388
+- Patru!
+- Tris!
+
+794
+01:26:30,695 --> 01:26:34,523
+Tris!
+
+795
+01:26:34,723 --> 01:26:40,021
+Patru!
+
+796
+01:26:47,450 --> 01:26:52,846
+Fratele ţi-a explicat că treaba ce o faci
+e fundamentală pentru viitorul oraşului.
+
+797
+01:26:53,046 --> 01:26:54,411
+Te rog să-i dai drumul lui Patru.
+
+798
+01:26:55,990 --> 01:27:00,895
+Te gândeşti la bunăstarea lui
+sau te concentrezi pe sarcina ta?
+
+799
+01:27:03,398 --> 01:27:06,089
+Spune-mi...
+Apreciezi ironia?
+
+800
+01:27:07,150 --> 01:27:11,754
+Ai ieşit potrivită pentru Erudiţi.
+Vei avea capacitatea intelectuală?
+
+801
+01:27:12,157 --> 01:27:13,254
+Ironie.
+
+802
+01:27:13,255 --> 01:27:17,550
+Sigur. Eşti plină de ură şi trebuie să faci
+simularea Paşnicilor.
+
+803
+01:27:22,624 --> 01:27:25,211
+Şi mai e încă ceva ironic.
+
+804
+01:27:25,570 --> 01:27:27,963
+- De exemplu că mama ta adorată...
+- N-o spune.
+
+805
+01:27:27,964 --> 01:27:32,304
+pe care practic ai salvat-o în simulare
+e motivul pentru care eşti azi aici.
+
+806
+01:27:32,305 --> 01:27:33,723
+Din cauza ta sunt aici.
+
+807
+01:27:33,724 --> 01:27:36,761
+- Apoi e ironia cea mai mare decât toate.
+- Opreşte-te!
+
+808
+01:27:36,762 --> 01:27:41,361
+Natalie Prior a murit pentru a proteja
+datele ce acum sunt în posesia mea.
+
+809
+01:27:41,362 --> 01:27:43,414
+Pentru că tu i le-ai furat.
+I-ai ucis pentru ele.
+
+810
+01:27:43,415 --> 01:27:48,411
+Date ce foarte egoistă le-a ascuns.
+Dar acum chiar propria sa fiică,
+
+811
+01:27:48,412 --> 01:27:52,808
+adorata sa Divergentă Tris
+le va livra în mâinile mele.
+
+812
+01:27:52,809 --> 01:27:53,880
+- Încetează!
+- Astfel...
+
+813
+01:27:54,744 --> 01:27:58,601
+moartea mamei tale
+ca şi cea a iubitului tău
+
+814
+01:27:58,602 --> 01:28:01,455
+for fi morţi inutile.
+
+815
+01:29:09,593 --> 01:29:14,172
+Staţi! Să nu întrerupeţi!
+Nu încă.
+
+816
+01:30:06,279 --> 01:30:07,300
+Nu!
+
+817
+01:30:08,430 --> 01:30:09,634
+Reanimaţi-o!
+
+818
+01:30:12,690 --> 01:30:14,030
+Reanimaţi-o!
+
+819
+01:30:15,702 --> 01:30:17,130
+Nu!
+
+820
+01:30:17,926 --> 01:30:19,162
+Reanimaţi-o!
+
+821
+01:30:19,362 --> 01:30:20,761
+Faceţi-o repede!
+
+822
+01:30:20,961 --> 01:30:22,964
+Repede!
+
+823
+01:30:26,672 --> 01:30:27,811
+Reanimaţi-o!
+
+824
+01:30:27,940 --> 01:30:29,736
+Subiectul şapte nu mai are semne vitale.
+
+825
+01:30:53,980 --> 01:30:56,014
+Credeam că era cea bună.
+
+826
+01:31:08,377 --> 01:31:09,477
+Trebuie să...
+
+827
+01:31:12,410 --> 01:31:16,150
+Trebuie să reîncepem din nou cercetarea.
+
+828
+01:31:30,958 --> 01:31:33,456
+Caută consolare în facţiune, Caleb.
+
+829
+01:31:33,849 --> 01:31:35,757
+Acum suntem familia ta.
+
+830
+01:32:22,488 --> 01:32:24,188
+Jeanine vrea ca tu s-o vezi.
+
+831
+01:32:53,910 --> 01:32:56,251
+Hei, Patru, fă ceea ce ştii tu să faci!
+
+832
+01:33:03,000 --> 01:33:04,870
+Patru, ce zici? Nu-i rău, nu?
+
+833
+01:33:05,045 --> 01:33:07,097
+Mai întâi am furat serul paralizant.
+
+834
+01:33:07,300 --> 01:33:09,642
+Apoi, în timp ce era înnebunită după tine
+i l-am injectat.
+
+835
+01:33:09,710 --> 01:33:13,135
+Le-am spus oamenilor ăstora că eram tare.
+Trebuiau să mă asculte.
+
+836
+01:33:19,321 --> 01:33:23,008
+- Eşti real!
+- Da, sunt real.
+
+837
+01:33:25,105 --> 01:33:30,020
+- Ce cauţi aici?
+- Dacă mori tu, mor şi eu.
+
+838
+01:33:33,670 --> 01:33:37,911
+Bine. Să mergem.
+Puteţi de asemenea sta.
+
+839
+01:33:38,875 --> 01:33:40,349
+- Eşti bine?
+- Da.
+
+840
+01:33:44,500 --> 01:33:47,278
+- Mulţumesc, Peter.
+- Pentru puţin. Suntem chit, Băţoaso.
+
+841
+01:33:47,984 --> 01:33:49,078
+Bine...
+
+842
+01:33:49,278 --> 01:33:51,626
+- Să mergem până nu ne descoperă.
+- Nu.
+
+843
+01:33:52,400 --> 01:33:54,502
+- Ce e?
+- Trebuie să luăm cutia!
+
+844
+01:33:54,503 --> 01:33:56,633
+Eşti nebună!
+Nu e momentul să iei suveniruri.
+
+845
+01:33:56,634 --> 01:33:58,031
+Patru, trebuie să mă asculţi!
+
+846
+01:33:58,270 --> 01:34:01,279
+Nu e ceea ce crede Janine.
+Altfel mama ar fi distrus-o.
+
+847
+01:34:02,260 --> 01:34:03,825
+Trebuie s-o luăm.
+
+848
+01:34:07,280 --> 01:34:09,707
+Peter, cum ajungem la laborator?
+
+849
+01:34:10,400 --> 01:34:13,355
+Trebuie să merg în sala de control
+şi să dezactivez toate porţile.
+
+850
+01:34:13,356 --> 01:34:14,782
+Bine. Atunci fă-o!
+
+851
+01:34:16,960 --> 01:34:18,509
+- Bine, de acord. Imediat.
+- Bine.
+
+852
+01:34:18,770 --> 01:34:21,039
+Acum ai ales să fii de partea noastră.
+
+853
+01:34:21,349 --> 01:34:23,617
+Dacă vrei să ieşi viu trebuie să ne ajuţi.
+
+854
+01:34:24,780 --> 01:34:25,820
+Să mergem!
+
+855
+01:34:28,700 --> 01:34:29,790
+La naiba!
+
+856
+01:34:42,978 --> 01:34:46,660
+- Doamnă, evaluarea e imposibilă.
+- Foarte bine.
+
+857
+01:34:58,498 --> 01:35:00,997
+Fără arme. Vom atrage atenţia.
+
+858
+01:35:03,026 --> 01:35:05,072
+- Hei!
+- Opreşte-te!
+
+859
+01:35:15,835 --> 01:35:17,415
+<i>- Acces refuzat.
+- Haide!</i>
+
+860
+01:35:45,053 --> 01:35:47,286
+<i>- Acces permis.
+- Putem să mergem.</i>
+
+861
+01:35:49,693 --> 01:35:51,330
+- E aia?
+- Da.
+
+862
+01:35:51,419 --> 01:35:53,069
+Ia-o şi hai să mergem.
+
+863
+01:35:56,385 --> 01:36:00,365
+<i>- Încălcare a sistemului de siguranţă.
+- Ce se întâmplă?</i>
+
+864
+01:36:03,100 --> 01:36:05,406
+- Ce se întâmplă?
+- Cineva a intrat în sala de simulare.
+
+865
+01:36:05,407 --> 01:36:07,551
+Supravegherea video!
+Vreau să văd cine e în interior.
+
+866
+01:36:07,552 --> 01:36:09,541
+Telecamerele nu funcţionează
+în sectorul acela.
+
+867
+01:36:09,542 --> 01:36:12,438
+- Cineva le-a dezactivat. Să mergem!
+- Imaginile de la celule!
+
+868
+01:36:12,439 --> 01:36:13,580
+Repede!
+
+869
+01:36:20,581 --> 01:36:21,679
+Arătaţi-i!
+
+870
+01:36:22,530 --> 01:36:24,641
+Tori a aflat
+cum să le extragă în siguranţă.
+
+871
+01:36:24,642 --> 01:36:27,940
+- Câte aţi scos?
+- Toate. Până la ultimul.
+
+872
+01:36:31,954 --> 01:36:33,030
+Să mergem!
+
+873
+01:36:33,559 --> 01:36:36,194
+- Poziţia?
+- Coridor sud. În capăt.
+
+874
+01:36:36,852 --> 01:36:40,087
+Tris!
+Tris, trebuie să plecăm. Rapid!
+
+875
+01:36:41,470 --> 01:36:42,910
+Tris, trebuie să plecăm!
+
+876
+01:36:43,770 --> 01:36:46,505
+Nu pot.
+
+877
+01:36:46,793 --> 01:36:49,337
+Mama a murit
+protejând ce e aici în interior.
+
+878
+01:36:51,180 --> 01:36:53,586
+Trebuie s-o deschid pentru ea.
+Şi poate ştiu cum.
+
+879
+01:36:53,587 --> 01:36:57,056
+- Nu ieşim vii dacă nu plecăm imediat.
+- Mai întâi trebuie să deschid cutia.
+
+880
+01:36:57,650 --> 01:37:00,366
+Ştiu, pare că nu are sens,
+dar te rog să ai încredere în mine.
+
+881
+01:37:02,350 --> 01:37:04,143
+Viaţa mea e în mâinile tale.
+
+882
+01:37:10,520 --> 01:37:11,934
+Fă-o!
+
+883
+01:37:16,686 --> 01:37:17,760
+Stai pe loc!
+
+884
+01:37:23,349 --> 01:37:25,125
+<i>Începere simulare Paşnici.</i>
+
+885
+01:37:29,570 --> 01:37:31,275
+Te-ai întors.
+
+886
+01:37:32,566 --> 01:37:34,960
+Eşti mai nebună ca mama ta.
+
+887
+01:37:39,700 --> 01:37:41,980
+Zi-mi totuşi ce vrei, Jeanine.
+
+888
+01:37:43,104 --> 01:37:44,818
+Nu voi lupta împotriva ta.
+
+889
+01:37:45,654 --> 01:37:48,325
+- Într-adevăr foarte paşnică.
+- Vorbesc serios.
+
+890
+01:37:50,509 --> 01:37:53,543
+- Nu mă voi lupta.
+- E evident că nu.
+
+891
+01:37:54,540 --> 01:37:56,739
+Te vei lupta cu ea.
+
+892
+01:37:59,530 --> 01:38:01,386
+Cea pe care o urăşti cu adevărat.
+
+893
+01:38:34,068 --> 01:38:35,337
+Ce eşti?
+
+894
+01:38:38,267 --> 01:38:40,308
+Eu sunt tu, Tris.
+
+895
+01:38:41,531 --> 01:38:43,725
+Sunt adevărata tu.
+
+896
+01:38:54,081 --> 01:38:55,253
+Nu mă voi lupta cu tine.
+
+897
+01:38:55,705 --> 01:38:57,688
+- Te voi constrânge s-o faci.
+- Tu nu eşti eu.
+
+898
+01:38:57,689 --> 01:39:01,122
+Ba da. Sunt cum te văd alţii.
+
+899
+01:39:17,142 --> 01:39:20,800
+Ţi-ai ucis părinţii. Eşti mortală.
+
+900
+01:39:21,585 --> 01:39:22,700
+Ajunge!
+
+901
+01:39:27,005 --> 01:39:30,964
+Nimeni nu te iubeşte, Tris!
+Nimeni nu îţi va simţi lipsa.
+
+902
+01:39:30,965 --> 01:39:33,220
+Va fi o lume mai bună fără tine.
+
+903
+01:39:33,420 --> 01:39:36,060
+O Divergentă ce ştie numai să strice totul.
+
+904
+01:39:36,170 --> 01:39:42,255
+Şi nimeni nu te-ar putea ierta niciodată
+pentru ce ai făcut.
+
+905
+01:39:43,139 --> 01:39:44,452
+Te înşeli.
+
+906
+01:39:52,417 --> 01:39:55,686
+Pentru că eu o voi face.
+
+907
+01:40:32,452 --> 01:40:34,837
+<i>Simulare Prietenie terminată.</i>
+
+908
+01:40:38,390 --> 01:40:40,046
+- Nu!
+- Nu! Opreşte-te!
+
+909
+01:40:44,402 --> 01:40:46,993
+<i>Redare mesaj.</i>
+
+910
+01:41:05,780 --> 01:41:06,970
+Salut.
+
+911
+01:41:07,540 --> 01:41:09,381
+<i>Vin de dincolo de zid.</i>
+
+912
+01:41:10,150 --> 01:41:12,752
+<i>După ce aproape ne-am distrus unii pe alţii</i>
+
+913
+01:41:13,270 --> 01:41:17,078
+<i>am proiectat oraşul vostru
+ca un experiment.</i>
+
+914
+01:41:17,704 --> 01:41:21,834
+<i>Convinşi că ar fi singurul mod
+de a recupera sensul moral pierdut.</i>
+
+915
+01:41:24,465 --> 01:41:27,591
+<i>Şi am creat facţiunile
+pentru a garanta pacea.</i>
+
+916
+01:41:28,963 --> 01:41:33,608
+<i>Dar suntem siguri că unii din voi
+vor putea depăşi aceste facţiuni.</i>
+
+917
+01:41:35,030 --> 01:41:37,337
+<i>Vor fi numiţi Divergenţi.</i>
+
+918
+01:41:39,277 --> 01:41:41,830
+<i>Ei sunt adevăratul scop al experimentului.</i>
+
+919
+01:41:41,831 --> 01:41:46,496
+<i>Şi vor fi indispensabili
+pentru supravieţuirea speciei umane.</i>
+
+920
+01:41:48,040 --> 01:41:49,577
+<i>Dacă urmăriţi această înregistrare</i>
+
+921
+01:41:49,578 --> 01:41:53,330
+<i>înseamnă că unul din voi e dovada
+că experimentul a avut succes.</i>
+
+922
+01:41:54,870 --> 01:42:01,021
+<i>A ajuns clipa să ieşiţi din izolare
+şi să vă reuniţi cu noi.</i>
+
+923
+01:42:01,140 --> 01:42:04,518
+<i>V-am făcut să credeţi
+că sunteţi ultimii rămaşi,</i>
+
+924
+01:42:04,519 --> 01:42:06,308
+<i>dar nu e aşa.</i>
+
+925
+01:42:06,890 --> 01:42:11,650
+<i>Restul umanităţii vă aşteaptă
+plin de speranţă</i>
+
+926
+01:42:11,850 --> 01:42:14,177
+<i>dincolo de zid.</i>
+
+927
+01:42:18,457 --> 01:42:19,631
+Hei!
+
+928
+01:42:21,613 --> 01:42:24,136
+- Eşti bine?
+- Da.
+
+929
+01:42:27,903 --> 01:42:29,003
+Da.
+
+930
+01:42:46,542 --> 01:42:49,044
+Te-ai înşelat în legătură cu noi.
+
+931
+01:42:52,881 --> 01:42:58,142
+N-am fost niciodată o problemă.
+Suntem soluţia.
+
+932
+01:43:10,399 --> 01:43:12,978
+- Faceţi să dispară cutia.
+- Ce?
+
+933
+01:43:12,979 --> 01:43:15,801
+Nimeni nu va vedea mesajul.
+Niciodată.
+
+934
+01:43:19,363 --> 01:43:20,812
+Ucideţi-i!
+
+935
+01:43:20,870 --> 01:43:22,007
+Nu!
+
+936
+01:43:26,940 --> 01:43:28,009
+Sunt aici!
+
+937
+01:43:29,170 --> 01:43:30,330
+Nu te mişca!
+
+938
+01:43:34,920 --> 01:43:37,419
+Puneţi armele jos!
+
+939
+01:43:37,420 --> 01:43:41,880
+- Stai pe loc!
+- Nu te mişca!
+
+940
+01:43:45,703 --> 01:43:47,148
+Bună, Jeanine.
+
+941
+01:43:48,769 --> 01:43:49,992
+Evelyn.
+
+942
+01:43:49,993 --> 01:43:51,870
+Într-adevăr, nu-i rău.
+
+943
+01:43:52,030 --> 01:43:53,837
+Ne va plăcea să trăim aici.
+
+944
+01:43:54,720 --> 01:43:57,630
+Chiar crezi că celelalte facţiuni
+vor îngădui asta?
+
+945
+01:43:58,210 --> 01:44:00,219
+Din moment ce te iubesc atâta...
+
+946
+01:44:02,660 --> 01:44:04,210
+Luaţi-o de aici!
+
+947
+01:44:05,000 --> 01:44:09,098
+Când toţi vor vedea mesajul
+va fi sfârşitul.
+
+948
+01:44:26,790 --> 01:44:28,510
+Ce mesaj?
+
+949
+01:44:32,060 --> 01:44:36,521
+Îl vei vedea.
+Îl voi transmite imediat în tot oraşul.
+
+950
+01:44:38,889 --> 01:44:41,559
+<i>V-am separat de restul dintre noi.</i>
+
+951
+01:44:43,530 --> 01:44:46,782
+<i>Şi am creat facţiunile
+pentru a garanta pacea.</i>
+
+952
+01:44:48,675 --> 01:44:53,272
+<i>A sosit momentul să ieşiţi din izolare
+şi să vă reuniţi cu noi.</i>
+
+953
+01:44:54,616 --> 01:44:58,171
+<i>V-am făcut să credeţi
+că sunteţi ultimii rămaşi,</i>
+
+954
+01:44:58,350 --> 01:44:59,598
+<i>dar nu e aşa.</i>
+
+955
+01:45:00,173 --> 01:45:01,722
+<i>Dacă urmăriţi această înregistrare</i>
+
+956
+01:45:01,723 --> 01:45:06,387
+<i>înseamnă că unul din voi e dovada
+că experimentul a avut succes.</i>
+
+957
+01:45:09,280 --> 01:45:13,418
+<i>Restul umanităţii vă aşteaptă
+plin de speranţă</i>
+
+958
+01:45:14,244 --> 01:45:17,295
+<i>dincolo de zid.</i>
+
+959
+01:45:53,453 --> 01:45:55,086
+<i>Vor fi numiţi Divergenţi.</i>
+
+960
+01:45:55,087 --> 01:45:57,727
+<i>Ei sunt adevăratul scop al experimentului.</i>
+
+961
+01:45:57,728 --> 01:46:01,287
+<i>Şi vor fi indispensabili
+pentru supravieţuirea speciei umane.</i>
+
+962
+01:46:01,580 --> 01:46:02,920
+Ai reuşit.
+
+963
+01:46:04,446 --> 01:46:05,961
+- Da.
+- Da.
+
+964
+01:46:11,450 --> 01:46:13,749
+Continuă să se uite la mine.
+
+965
+01:46:14,520 --> 01:46:16,330
+Pentru că ai schimbat totul.
+
+966
+01:46:18,484 --> 01:46:19,882
+Şi acum?
+
+967
+01:46:21,013 --> 01:46:22,783
+Să descoperim ce ne aşteaptă.
+
+968
+01:46:23,920 --> 01:46:24,920
+Eşti pregătită?
+
+969
+01:47:29,619 --> 01:47:31,793
+Au trecut mai mult de 200 de ani.
+
+970
+01:47:34,918 --> 01:47:36,523
+Cine ştie ce e acolo afară?
+
+971
+01:47:39,362 --> 01:47:41,058
+Tu nu vei afla niciodată.
+
+972
+01:47:44,247 --> 01:47:49,158
+Traducerea şi adaptarea după sonor:
+dani67 & Snake_Eyes
