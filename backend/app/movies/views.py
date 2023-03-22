@@ -23,8 +23,8 @@ env = environ.Env(
 # tokenizer.save_pretrained("tokenizer")
 # model = AutoModelForSequenceClassification.from_pretrained("mrm8488/t5-base-finetuned-emotion")
 
-connection_string = "mongodb://localhost:27017"
-opensubtitles_api_key = "ITWoYHcIuEH5NEWIGrZb3ZBkW2vKjSTO"
+connection_string = env("MONGODB_CONNECTION_STRING")
+opensubtitles_api_key = env("OPENSUBTITLES_API_KEY")
 client = MongoClient(connection_string)
 
 # database stuff
