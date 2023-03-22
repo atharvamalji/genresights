@@ -17,14 +17,16 @@ env = environ.Env(
     DEBUG=(bool, False)
 )
 
+environ.Env.read_env()
+
 # machine learning stuff
 # from transformers import AutoTokenizer, AutoModelForSequenceClassification
 # tokenizer = AutoTokenizer.from_pretrained("mrm8488/t5-base-finetuned-emotion")
 # tokenizer.save_pretrained("tokenizer")
 # model = AutoModelForSequenceClassification.from_pretrained("mrm8488/t5-base-finetuned-emotion")
 
-connection_string = env("MONGODB_CONNECTION_STRING")
-opensubtitles_api_key = env("OPENSUBTITLES_API_KEY")
+connection_string = env('MONGODB_CONNECTION_STRING')
+opensubtitles_api_key = env('OPENSUBTITLES_API_KEY')
 client = MongoClient(connection_string)
 
 # database stuff
