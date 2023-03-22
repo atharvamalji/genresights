@@ -1,8 +1,12 @@
 import logo from "../../images/showcase-logo.svg";
 
-import ServiceCard from "../../components/ServiceCard";
-
+import Lottie from "lottie-react"
 import { ArrowTopRightOnSquareIcon, ShareIcon } from "@heroicons/react/24/outline";
+
+// lottie files
+import abstract from "../../lottie_animations/9t8k8wU0Gm.json";
+
+import ServiceCard from "../../components/ServiceCard";
 
 // services data
 const serviceEmotion = {
@@ -30,7 +34,7 @@ const serviceProfanity = {
 const Home = () => {
   return (
     <div className="flex flex-col min-h-screen bg-slate-900">
-      <header className="sticky top-0 bg-slate-900 p-4 border-b border-slate-700">
+      <header className="sticky top-0 bg-slate-900 p-4 border-b border-slate-700 z-20">
         <div className="flex">
           <span>
             <img src={logo} alt="logo" srcSet="" className="h-8 text-clip" />
@@ -108,11 +112,12 @@ const Home = () => {
             </p>
             <div>
               <img
-                src="/gifs/our-works.webp"
+                src="/webp/current-work.webp"
                 alt=""
                 className="h-28 md:h-48 w-full object-cover"
               />
             </div>
+            
             <div className="md:text-2xl text-white space-y-2">
               <p>
                 We are actively researching about new ways and posibilities to
