@@ -140,6 +140,7 @@ const Movie = () => {
           </span>
         </div>
       </header>
+      {/* search section */}
       <section>
         <div className="flex justify-center border-b border-slate-700">
           <div className="flex flex-col w-full md:w-[85rem] max-w-[85rem] p-4 md:p-8 space-y-4 ">
@@ -163,9 +164,10 @@ const Movie = () => {
           </div>
         </div>
       </section>
+      {/* movie hero section */}
       <section>
         <div className="flex justify-center border-b border-slate-700 bg-[url('https://www.themoviedb.org/t/p/original/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg')] bg-cover">
-          <div className="flex justify-center w-full bg-top-right bg-gradient-to-r from-[#000000e1] via-[#000000dc] to-[#000000c4]">
+          <div className="flex justify-center w-full bg-top-right bg-gradient-to-r from-[#202020e1] via-[#202020dc] to-[#202020c4] backdrop-blur">
             <div className="flex flex-col w-full md:w-full max-w-[85rem] md:p-8 py-8 space-y-4 md:space-y-8 ">
               <div className="p-4">
                 <p className="text-3xl font-bold text-white">
@@ -176,9 +178,18 @@ const Movie = () => {
                   <p>3h</p>
                 </div>
               </div>
-              <div>
+              <div className="flex space-x-0 md:space-x-4">
+                <div className="bg-white p-1 h-max hidden md:block">
+                  <span>
+                    <img
+                      src="https://image.tmdb.org/t/p/w500/34m2tygAYBGqA9MXKhRDtzYd4MR.jpg"
+                      alt=""
+                      className="w-32 md:w-auto md:h-96"
+                    />
+                  </span>
+                </div>
                 {/* movie trailer */}
-                <div className="h-56 border-y border-slate-700 sticky top-0">
+                <div className="flex-1 h-56 md:h-full border-slate-600 sticky top-0">
                   <iframe
                     width="100%"
                     height="100%"
@@ -190,7 +201,7 @@ const Movie = () => {
                   ></iframe>
                 </div>
               </div>
-              <div className="flex space-x-4 p-4">
+              <div className="space-x-4 p-4 flex md:hidden">
                 <div className="bg-white p-1 h-max">
                   <span>
                     <img
@@ -216,6 +227,7 @@ const Movie = () => {
           </div>
         </div>
       </section>
+      {/* analysis section */}
       <section>
         <div className="flex justify-center bg-black border-b border-slate-700">
           <div className="flex justify-center w-full">
@@ -225,23 +237,40 @@ const Movie = () => {
                   Our Analysis
                 </p>
               </div>
-              <div className="space-y-4">
-                <div className="space-y-1">
-                  <p className="text-xl text-slate-400">Emotion analysis</p>
-                  <p className="text-white text-sm">This chart tells you the flow of each emotion throughout the movie. You can see how the emotions change as the movie progresses and can help find scences of certain strong emotions.</p>
-                  <p className="bg-purple-300 p-2 text-xs font-bold">You can click on emotions label on the top to toggle them to get a better picture</p>
+              <div className="grid grid-cols-1 gap-4">
+                <div className="space-y-4">
+                  <div className="space-y-1">
+                    <p className="text-xl md:text-2xl text-slate-400">
+                      Emotion analysis
+                    </p>
+                    <p className="text-white text-sm md:text-lg">
+                      This chart tells you the flow of each emotion throughout
+                      the movie. You can see how the emotions change as the
+                      movie progresses and can help find scences of certain
+                      strong emotions.
+                    </p>
+                    <p className="bg-purple-300 p-2 text-xs md:text-sm font-bold">
+                      You can click on emotions label on the top to toggle them
+                      to get a better picture
+                    </p>
+                  </div>
+                  <div className="max-h-[30rem] h-[15rem] md:h-[30rem] w-full p-2 bg-black border border-gray-600 rounded-md">
+                    <Line data={data} options={options} height={"40rem"} />
+                  </div>
                 </div>
-                <div className="max-h-[30rem] h-[15rem] md:h-[30rem] w-full p-2 bg-black border border-gray-600 rounded-md">
-                  <Line data={data} options={options} height={"40rem"} />
-                </div>
-              </div>
-              <div className="space-y-4">
-                <div className="space-y-1">
-                  <p className="text-xl text-slate-400">Profanity analysis</p>
-                  <p className="text-white text-sm">This chart tells you the flow of each emotion throughout the movie. You can see how the emotions change as the movie progresses and can help find scences of certain strong emotions</p>
-                </div>
-                <div className="max-h-[30rem] h-[15rem] md:h-[30rem] w-full p-2 bg-black border border-gray-600 rounded-md">
-                  <Line data={data} options={options} height={"40rem"} />
+                <div className="space-y-4">
+                  <div className="space-y-1">
+                    <p className="text-xl md:text-2xl text-slate-400">Profanity analysis</p>
+                    <p className="text-white text-sm md:text-lg">
+                      This chart tells you the flow of each emotion throughout
+                      the movie. You can see how the emotions change as the
+                      movie progresses and can help find scences of certain
+                      strong emotions
+                    </p>
+                  </div>
+                  <div className="max-h-[30rem] h-[15rem] md:h-[30rem] w-full p-2 bg-black border border-gray-600 rounded-md">
+                    <Line data={data} options={options} height={"40rem"} />
+                  </div>
                 </div>
               </div>
             </div>
