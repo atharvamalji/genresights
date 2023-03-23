@@ -13,6 +13,8 @@ sentencepiece = "*"
 torch = "*"
 transformers = "*"
 django = "*"
+tqdm = "*"
+nltk = "*"
 
 [dev-packages]
 
