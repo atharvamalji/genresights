@@ -1,0 +1,9 @@
+django
+matplotlib
+numpy
+pandas
+pysub-parser
+seaborn
+sentencepiece
+torch
+transformers
