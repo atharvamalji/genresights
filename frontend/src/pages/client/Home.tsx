@@ -1,7 +1,11 @@
 import logo from "../../images/showcase-logo.svg";
 
-import Lottie from "lottie-react"
-import { ArrowTopRightOnSquareIcon, ShareIcon } from "@heroicons/react/24/outline";
+import Lottie from "lottie-react";
+import { Link } from "react-router-dom";
+import {
+  ArrowTopRightOnSquareIcon,
+  ShareIcon,
+} from "@heroicons/react/24/outline";
 
 // lottie files
 import abstract from "../../lottie_animations/9t8k8wU0Gm.json";
@@ -117,7 +121,7 @@ const Home = () => {
                 className="h-28 md:h-48 w-full object-cover"
               />
             </div>
-            
+
             <div className="md:text-2xl text-white space-y-2">
               <p>
                 We are actively researching about new ways and posibilities to
@@ -179,10 +183,12 @@ const Home = () => {
               </p>
             </div>
             <div>
-              <button className="flex items-center space-x-2 p-2 px-4 bg-white font-bold">
-                <span>See our research work</span>
-                <ArrowTopRightOnSquareIcon className="h-4" />
-              </button>
+              <Link to={{ pathname: "https://www.ijcrt.org/papers/IJCRT2301084.pdf" }} target="_blank">
+                <button className="flex items-center space-x-2 p-2 px-4 bg-white font-bold">
+                  <span>See our research work</span>
+                  <ArrowTopRightOnSquareIcon className="h-4" />
+                </button>
+              </Link>
             </div>
           </div>
         </div>
