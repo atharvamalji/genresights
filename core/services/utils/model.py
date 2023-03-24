@@ -2,7 +2,7 @@ from pysubparser import parser
 from transformers import AutoTokenizer, AutoModelWithLMHead
 from pysubparser.cleaners import brackets, formatting, lower_case
 
-import torch
+import json
 import numpy as np
 import pandas as pd
 
@@ -101,7 +101,7 @@ def generate_emotion_and_profanity_dataset(movie_data):
             "end_time": end_time,
             "emotion": emotion,
             "all_profanity_words": all_profanity_words,
-            "unique_profanity_words": unique_profanity_words,
+            "unique_profanity_words": list(unique_profanity_words),
             "all_profanity_words_count": len(all_profanity_words),
             "unique_profanity_words_count": len(unique_profanity_words)
 
