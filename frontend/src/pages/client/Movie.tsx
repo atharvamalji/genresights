@@ -181,6 +181,14 @@ const Movie = () => {
     },
   };
 
+  const viewProfanityButton = useRef<null | HTMLButtonElement>(null);
+  const profanityWordsView = useRef<null | HTMLDivElement>(null);
+
+  const viewProfanityWords = () => {
+    viewProfanityButton.current?.classList.add("hidden");
+    profanityWordsView.current?.classList.remove("blur")
+  }
+
   return (
     <div className="flex flex-col min-h-screen bg-slate-900">
       {/* header */}
@@ -343,11 +351,11 @@ const Movie = () => {
                     </p>
                   </div>
                   <div className="max-h-[30rem] w-full bg-black border border-gray-600 rounded-md overflow-hidden relative">
-                    <button className="absolute flex items-center justify-center w-full h-full  text-white z-10 hover:bg-purple-300 hover:text-black transition ease-out duration-300 ">Click to view</button>  
-                    <div className="flex flex-wrap p-2 gap-2 blur">
+                    <button className="absolute flex items-center justify-center w-full h-full  text-white z-10 hover:bg-purple-300 hover:text-black transition ease-out duration-150" onClick={() => {viewProfanityWords()}} ref={viewProfanityButton}>Click to view</button>  
+                    <div className="flex flex-wrap p-2 md:p-4 gap-2 md:gap-4 blur transition ease-out duration-300" ref={profanityWordsView}>
                       {Object.keys(top_ten_profanitive_words).map((key) => {
                         return (
-                          <p className="p-1 px-2 rounded-md text-white w-max bg-slate-900">
+                          <p className="p-1 md:p-2 md:px-4 px-2 md:text-xl rounded-md text-white w-max bg-slate-900 hover:bg-purple-500 hover:text-white">
                             {key}
                           </p>
                         );

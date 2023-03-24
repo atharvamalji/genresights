@@ -35,6 +35,25 @@ type TypeMovieResponse = {
 const Movies = () => {
   const [movies, setMovies] = useState<TypeMovieResponse | null>(null);
 
+  const dummyMovie: TypeMovies = {
+    _id: "string",
+    adult: true,
+    backdrop_path: "/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
+    genre_ids: [80, 18, 35],
+    id: 106646,
+    original_language: "en",
+    original_title: "The Wolf of Wall Street",
+    overview: "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+    popularity: 105.38,
+    poster_path: "/34m2tygAYBGqA9MXKhRDtzYd4MR.jpg",
+    release_date: "2013-12-25",
+    title: "The Wolf of Wall Street",
+    video: false,
+    vote_average: 8.036,
+    vote_count: 21278,
+    subtitle_downloaded: true
+  }
+
   useEffect(() => {
     axios
       .get(
@@ -87,42 +106,75 @@ const Movies = () => {
             </p>
             <div className="grid grid-cols-2 md:grid-cols-5 gap-2 md:gap-4">
               {movies != null ? (
-                movies.results.map((movie, index) => {
-                  return (
-                    <Link to={"/movie/123"}>
-                      <div
-                        key={index}
-                        className="flex flex-col rounded-md overflow-hidden"
-                      >
-                        <div className="relative">
-                          <span>
-                            <img
-                              src={`https://image.tmdb.org/t/p/w300${movie.poster_path}`}
-                              alt=""
-                              className="w-full"
-                            />
-                          </span>
-                          <div className="absolute bottom-0 w-full flex justify-between p-2 text-white bg-gradient-to-t from-black to-[#00000050]">
-                            <p className="font-bold text-xs">
-                              {new Date(movie.release_date).getFullYear()}
-                            </p>
-                            <p className="font-bold text-xs">
-                              {parseInt(movie.popularity.toString())}
-                            </p>
-                          </div>
-                        </div>
-                        <div className="flex flex-col flex-1 justify-between p-2 text-white bg-black">
-                          <p className="md:text-xl font-bold line-clamp-1">
-                            {movie.title}
+                <>
+                  <Link to={`/movie/${dummyMovie.id}`}>
+                    <div
+                      className="flex flex-col rounded-md overflow-hidden"
+                    >
+                      <div className="relative">
+                        <span>
+                          <img
+                            src={`https://image.tmdb.org/t/p/w300${dummyMovie.poster_path}`}
+                            alt=""
+                            className="w-full"
+                          />
+                        </span>
+                        <div className="absolute bottom-0 w-full flex justify-between p-2 text-white bg-gradient-to-t from-black to-[#00000050]">
+                          <p className="font-bold text-xs">
+                            {new Date(dummyMovie.release_date).getFullYear()}
                           </p>
-                          <p className="text-sm line-clamp-2">
-                            {movie.overview}
+                          <p className="font-bold text-xs">
+                            {parseInt(dummyMovie.popularity.toString())}
                           </p>
                         </div>
                       </div>
-                    </Link>
-                  );
-                })
+                      <div className="flex flex-col flex-1 justify-between p-2 text-white bg-black">
+                        <p className="md:text-xl font-bold line-clamp-1">
+                          {dummyMovie.title}
+                        </p>
+                        <p className="text-sm line-clamp-2">
+                          {dummyMovie.overview}
+                        </p>
+                      </div>
+                    </div>
+                  </Link>
+                  {movies.results.map((movie, index) => {
+                    return (
+                      <Link to={`/movie/${movie.id}`}>
+                        <div
+                          key={index}
+                          className="flex flex-col rounded-md overflow-hidden"
+                        >
+                          <div className="relative">
+                            <span>
+                              <img
+                                src={`https://image.tmdb.org/t/p/w300${movie.poster_path}`}
+                                alt=""
+                                className="w-full"
+                              />
+                            </span>
+                            <div className="absolute bottom-0 w-full flex justify-between p-2 text-white bg-gradient-to-t from-black to-[#00000050]">
+                              <p className="font-bold text-xs">
+                                {new Date(movie.release_date).getFullYear()}
+                              </p>
+                              <p className="font-bold text-xs">
+                                {parseInt(movie.popularity.toString())}
+                              </p>
+                            </div>
+                          </div>
+                          <div className="flex flex-col flex-1 justify-between p-2 text-white bg-black">
+                            <p className="md:text-xl font-bold line-clamp-1">
+                              {movie.title}
+                            </p>
+                            <p className="text-sm line-clamp-2">
+                              {movie.overview}
+                            </p>
+                          </div>
+                        </div>
+                      </Link>
+                    );
+                  })}
+                </>
               ) : (
                 <div className="flex items-center space-x-2">
                   <p className="text-white">Loading</p>
