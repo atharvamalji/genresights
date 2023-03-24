@@ -33,7 +33,7 @@ type TypeMovieResponse = {
 };
 
 const Movies = () => {
-  const [movies, setMovies] = useState<TypeMovieResponse>();
+  const [movies, setMovies] = useState<TypeMovieResponse | null>(null);
 
   useEffect(() => {
     axios
@@ -55,7 +55,7 @@ const Movies = () => {
           </span>
         </div>
       </header>
-      {/* motivation */}
+      {/* movie search */}
       <section>
         <div className="flex justify-center border-b border-slate-700">
           <div className="flex flex-col w-full md:w-[85rem] max-w-[85rem] p-4 md:p-8 space-y-4 ">
@@ -86,7 +86,7 @@ const Movies = () => {
               <span>Popular Movies</span>
             </p>
             <div className="grid grid-cols-2 md:grid-cols-5 gap-2 md:gap-4">
-              {movies ? (
+              {movies != null ? (
                 movies.results.map((movie, index) => {
                   return (
                     <Link to={"/movie/123"}>
@@ -124,7 +124,10 @@ const Movies = () => {
                   );
                 })
               ) : (
-                <></>
+                <div className="flex items-center space-x-2">
+                  <p className="text-white">Loading</p>
+                  <div className="h-4 w-4 border-2 border-t-purple-500 rounded-full animate-spin"></div>
+                </div>
               )}
             </div>
           </div>

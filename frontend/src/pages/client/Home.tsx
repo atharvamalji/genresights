@@ -7,6 +7,8 @@ import {
   ShareIcon,
 } from "@heroicons/react/24/outline";
 
+import { ReactHTMLElement, ReactNode, useRef } from "react";
+
 // lottie files
 import abstract from "../../lottie_animations/9t8k8wU0Gm.json";
 
@@ -36,9 +38,15 @@ const serviceProfanity = {
 };
 
 const Home = () => {
+  const heroRef = useRef<HTMLElement | null>(null);
+
+  const handleScroll = () => {
+    heroRef.current?.scrollIntoView({ behavior: 'smooth' })
+  }
+
   return (
     <div className="flex flex-col min-h-screen bg-slate-900">
-      <header className="sticky top-0 bg-slate-900 p-4 border-b border-slate-700 z-20">
+      <header className="bg-slate-900 p-4 border-b border-slate-700 z-20">
         <div className="flex">
           <span>
             <img src={logo} alt="logo" srcSet="" className="h-8 text-clip" />
@@ -61,11 +69,11 @@ const Home = () => {
             proud to introduce various applications of our work in movie
             analysis.
           </p>
-          <button className="p-4 px-8 bg-white font-bold">Know More</button>
+          <button className="p-4 px-8 bg-white font-bold" onClick={() => {handleScroll()}}>Know More</button>
         </div>
       </section>
       {/* motivation */}
-      <section>
+      <section ref={heroRef}>
         <div className="flex justify-center border-b border-slate-700">
           <div className="flex flex-col max-w-[85rem] p-4 py-14 md:p-8 md:py-28 space-y-4 ">
             <p className="flex items-center space-x-2 text-4xl md:text-7xl text-white font-extrabold">

@@ -3,7 +3,7 @@ import logo from "../../images/showcase-logo.svg";
 import { Link } from "react-router-dom";
 import { MagnifyingGlassIcon } from "@heroicons/react/24/outline";
 import Notice from "../../components/Notice";
-import { useEffect, useState } from "react";
+import { useEffect, useState, useRef } from "react";
 import axios from "axios";
 
 import { Chart as ChartJS, registerables } from "chart.js";
@@ -38,7 +38,7 @@ type TypeMovieResponse = {
   total_results: number;
 };
 
-const data = {
+const emotion_data = {
   labels: ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
   datasets: [
     {
@@ -101,6 +101,33 @@ const data = {
   ],
 };
 
+const profanity_data = {
+  labels: ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
+  datasets: [
+    {
+      label: "profanity",
+      data: [85, 96, 92, 116, 111, 80, 147, 153, 139, 115],
+      pointRadius: 1.5,
+      borderWidth: 1,
+      tension: 0.5,
+      yAxisID: "y",
+    },
+  ],
+};
+
+const top_ten_profanitive_words = {
+  fucking: 369,
+  fuck: 163,
+  shit: 84,
+  god: 51,
+  jesus: 25,
+  fucked: 19,
+  christ: 16,
+  motherfucker: 15,
+  hell: 13,
+  ass: 11,
+};
+
 const options = {
   responsive: true,
   maintainAspectRatio: false,
@@ -119,16 +146,40 @@ const options = {
 const Movie = () => {
   const [movies, setMovies] = useState<TypeMovieResponse>();
 
-  useEffect(() => {
-    axios
-      .get(
-        "https://api.themoviedb.org/3/movie/top_rated?api_key=5f10f3a4c56bb99149a2c33ce3c77aae&language=en-US&page=1"
-      )
-      .then((res) => setMovies(res.data))
-      .then(() => {
-        console.log(movies);
-      });
-  }, []);
+  const sample_data = {
+    movie_id: 1000,
+    file_name: "1000.json",
+    emotion_bin: [
+      [51, 12, 5, 1, 2, 0],
+      [53, 6, 4, 4, 2, 1],
+      [42, 15, 6, 1, 4, 2],
+      [35, 28, 3, 1, 2, 1],
+      [31, 29, 5, 1, 2, 2],
+      [40, 24, 4, 0, 2, 0],
+      [31, 25, 7, 2, 2, 3],
+      [31, 33, 4, 0, 2, 0],
+      [29, 27, 9, 0, 4, 1],
+      [35, 25, 5, 1, 4, 0],
+    ],
+    profanity_bin: [[85, 96, 92, 116, 111, 80, 147, 153, 139, 115]],
+    most_occured_profanitive_words: {
+      fucking: 369,
+      fuck: 163,
+      shit: 84,
+    },
+    top_ten_profanitive_words: {
+      fucking: 369,
+      fuck: 163,
+      shit: 84,
+      god: 51,
+      jesus: 25,
+      fucked: 19,
+      christ: 16,
+      motherfucker: 15,
+      hell: 13,
+      ass: 11,
+    },
+  };
 
   return (
     <div className="flex flex-col min-h-screen bg-slate-900">
@@ -255,21 +306,53 @@ const Movie = () => {
                     </p>
                   </div>
                   <div className="max-h-[30rem] h-[15rem] md:h-[30rem] w-full p-2 bg-black border border-gray-600 rounded-md">
-                    <Line data={data} options={options} height={"40rem"} />
+                    <Line
+                      data={emotion_data}
+                      options={options}
+                      height={"40rem"}
+                    />
                   </div>
                 </div>
                 <div className="space-y-4">
                   <div className="space-y-1">
-                    <p className="text-xl md:text-2xl text-slate-400">Profanity analysis</p>
+                    <p className="text-xl md:text-2xl text-slate-400">
+                      Profanity analysis
+                    </p>
                     <p className="text-white text-sm md:text-lg">
-                      This chart tells you the flow of each emotion throughout
-                      the movie. You can see how the emotions change as the
-                      movie progresses and can help find scences of certain
-                      strong emotions
+                      This chart tells you about the profanity as it progresses
+                      through the playback time. Genreally speaking if the movie
+                      has a chart above 30 points it's said to be quite a
+                      profanitive movie.
                     </p>
                   </div>
                   <div className="max-h-[30rem] h-[15rem] md:h-[30rem] w-full p-2 bg-black border border-gray-600 rounded-md">
-                    <Line data={data} options={options} height={"40rem"} />
+                    <Line
+                      data={profanity_data}
+                      options={options}
+                      height={"40rem"}
+                    />
+                  </div>
+                </div>
+                <div className="space-y-4">
+                  <div className="space-y-1">
+                    <p className="text-xl md:text-2xl text-slate-400">
+                      Most used profanitive words
+                    </p>
+                    <p className="text-white text-sm md:text-lg">
+                      These are the most used profanity words in the movie.
+                    </p>
+                  </div>
+                  <div className="max-h-[30rem] w-full bg-black border border-gray-600 rounded-md overflow-hidden relative">
+                    <button className="absolute flex items-center justify-center w-full h-full  text-white z-10 hover:bg-purple-300 hover:text-black transition ease-out duration-300 ">Click to view</button>  
+                    <div className="flex flex-wrap p-2 gap-2 blur">
+                      {Object.keys(top_ten_profanitive_words).map((key) => {
+                        return (
+                          <p className="p-1 px-2 rounded-md text-white w-max bg-slate-900">
+                            {key}
+                          </p>
+                        );
+                      })}
+                    </div>
                   </div>
                 </div>
               </div>

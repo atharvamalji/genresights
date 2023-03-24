@@ -140,7 +140,7 @@ const MoviesTable = (props: TypeMoviesTable) => {
             <tr>
               <th className="p-1 w-24 text-start border">TMDB_ID</th>
               <th className="p-1 text-start border">Name</th>
-              <th className="p-1 w-36 text-start border">Release Date</th>
+              <th className="p-1 w-36 text-start border">Release Year</th>
               <th className="p-1 w-24 text-start border">Status</th>
               <th className="p-1 w-36 text-start border">Actions</th>
             </tr>
@@ -155,7 +155,7 @@ const MoviesTable = (props: TypeMoviesTable) => {
                         <span className="line-clamp-1">{movie.title}</span>
                       </td>
                       <td className="p-1 text-start border">
-                        {movie.release_date}
+                        {new Date(movie.release_date).getFullYear()}
                       </td>
                       <td className="p-1 text-start border">
                         <div className="">

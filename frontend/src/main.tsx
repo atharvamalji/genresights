@@ -10,7 +10,7 @@ import "./index.css";
 import "./custom.css";
 import Showcase from "./layouts/Showcase";
 // import Movie from "./pages/Movie";
-// import Movies from "./pages/Movies";
+import ServicesMovies from "./pages/Movies";
 
 // client pages
 import Home from "./pages/client/Home";
@@ -36,7 +36,7 @@ const router = createBrowserRouter([
     children: [
       {
         path: "movies/",
-        element: <Movies />,
+        element: <ServicesMovies />,
       },
     ],
   },

@@ -9,11 +9,11 @@ import {
 } from "react-icons/bs";
 import { HiHome } from "react-icons/hi2";
 import logo from "../images/logo.svg";
-import { useState } from "react";
+import { useState, useRef } from "react";
 
 const Main = () => {
   const [sidebar, setSidebar] = useState(false);
-
+  
   return (
     <div className="min-h-screen flex flex-col bg-slate-200">
       <header className="bg-white border-b sticky top-0 flex items-center space-x-4 z-10 p-2">
@@ -91,7 +91,7 @@ const Main = () => {
             </ul>
           </div>
         </motion.div>
-        <div className="p-4">
+        <div className="flex-1 p-4">
           <Outlet />
         </div>
       </div>
