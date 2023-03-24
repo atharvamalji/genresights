@@ -369,6 +369,7 @@ const Movie = () => {
         </div>
       </section>
     </div>
+    // temo uodate
   );
 };
 
