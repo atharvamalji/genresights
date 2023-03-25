@@ -1,0 +1,11 @@
+django
+matplotlib
+nltk
+numpy
+pandas
+pysub-parser
+seaborn
+sentencepiece
+torch
+tqdm
+transformers
