@@ -230,14 +230,14 @@ const MoviesTable = (props: TypeMoviesTable) => {
           </div>
           <div className="border w-max divide-x">
             <button
-              className="p-2"
+              className="p-2 bg-white hover:bg-blue-100"
               onClick={paginateBack}
               disabled={currentPage < 2 ? true : false}
             >
               Previous
             </button>
             <button
-              className="p-2"
+              className="p-2 bg-white hover:bg-blue-100"
               onClick={paginateFront}
               disabled={
                 currentPage >
@@ -252,7 +252,7 @@ const MoviesTable = (props: TypeMoviesTable) => {
         </div>
         <div className="flex items-center space-x-2">
           <p>Posts per page</p>
-          <select className="border p-2" onChange={() => {}} name="" id="">
+          <select className="border p-2 bg-white hover:bg-blue-100" onChange={() => {}} name="" id="">
             <option value="10">10</option>
             <option value="50">50</option>
             <option value="100">100</option>

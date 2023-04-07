@@ -41,7 +41,7 @@ const Main = () => {
           <div>
             <ul className="space-y-2">
               <li className="flex items-center space-x-2">
-                <button className="flex space-x-4 w-full p-2 rounded-xl hover:bg-red-100">
+                <button className={`flex ${sidebar ? "space-x-4" : ""} w-full p-2 rounded-xl hover:bg-red-100`}>
                   <BsFillHouseFill className="text-xl text-slate-600" />
                   <motion.p
                     className="text-black text-sm"
@@ -53,7 +53,7 @@ const Main = () => {
                 </button>
               </li>
               <li className="flex items-center space-x-2">
-                <button className="flex space-x-4 w-full p-2 rounded-xl hover:bg-red-100">
+                <button className={`flex ${sidebar ? "space-x-4" : ""} w-full p-2 rounded-xl hover:bg-red-100`}>
                   <BsFillDiscFill className="text-xl text-slate-600" />
                   <motion.p
                     className="text-black text-sm"
@@ -65,7 +65,7 @@ const Main = () => {
                 </button>
               </li>
               <li className="flex items-center space-x-2">
-              <button className="flex space-x-4 w-full p-2 rounded-xl hover:bg-red-100">
+              <button className={`flex ${sidebar ? "space-x-4" : ""} w-full p-2 rounded-xl hover:bg-red-100`}>
                   <BsFillGridFill className="text-xl text-slate-600" />
                   <motion.p
                     className="text-black text-sm"
@@ -77,7 +77,7 @@ const Main = () => {
                 </button>
               </li>
               <li className="flex items-center space-x-2">
-              <button className="flex space-x-4 w-full p-2 rounded-xl hover:bg-red-100">
+              <button className={`flex ${sidebar ? "space-x-4" : ""} w-full p-2 rounded-xl hover:bg-red-100`}>
                   <BsGearWideConnected className="text-xl text-slate-600" />
                   <motion.p
                     className="text-black text-sm"
